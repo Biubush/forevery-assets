@@ -1,5 +1,5 @@
-const BACKGROUND_JS_PATH = '../static/json/background.json';
-const STATIC_BASE_PATH = '../static/img/backgrounds';
+const BACKGROUND_JS_PATH = '/api/static/json/background.json';
+const STATIC_BASE_PATH = '/api/static/img/backgrounds';
 let backgroundData = [];
 let currentPath = [];
 const backgroundsPerLoad = 18;

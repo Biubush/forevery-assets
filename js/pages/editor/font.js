@@ -4,7 +4,7 @@ let displayedFonts = 0; // 已显示字体数
 const fontsPerLoad = 20; // 每次懒加载显示的字体数量
 
 // 指定要读取的src文件URL
-const fileUrl = '../static/json/chinese_font.json';
+const fileUrl = '/api/static/json/chinese_font.json';
 
 document.addEventListener('DOMContentLoaded', function () {
 

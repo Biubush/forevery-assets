@@ -1,7 +1,7 @@
 let stickerData = []; // 存储当前显示的贴纸数据
 let displayedStickers = 0; // 已显示贴纸的数量
 const stickersPerLoad = 18; // 每次懒加载显示的贴纸数量
-const stickersFileUrl = '../static/json/stickers/index.json';
+const stickersFileUrl = '/api/static/json/stickers/index.json';
 let isInPackageView = false; // 标识当前是否在某个贴纸包内
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -94,7 +94,7 @@ function renderStickers(stickers) {
 
 // 加载单个贴纸包
 function loadStickerPackage(targetFile, packageName) {
-    fetch(`../static/json/stickers/${targetFile}`)
+    fetch(`/api/static/json/stickers/${targetFile}`)
         .then(response => response.json())
         .then(data => {
             stickerData = data.imgList;
