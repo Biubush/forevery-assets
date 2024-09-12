@@ -179,7 +179,7 @@ document.getElementById('saveNote').addEventListener('click', function () {
             .then(response => response.blob())
             .then(blob => {
                 const reader = new FileReader();
-                reader.onloadend = function() {
+                reader.onloadend = function () {
                     noteData.push({ type: 'background', content: reader.result });
                     finalizeSave();
                 }
@@ -192,7 +192,13 @@ document.getElementById('saveNote').addEventListener('click', function () {
 
     function finalizeSave() {
         const nowDate = new Date();
-        const nowTime = nowDate.toISOString().replace(/T/, '_').replace(/\..+/, '');
+
+        // 获取当前时间，并调整为中国时区 (UTC+8)
+        const nowTime = new Date(nowDate.getTime() + (8 * 60 * 60 * 1000)) // 加8小时
+            .toISOString()
+            .replace(/T/, '_')
+            .replace(/\..+/, ''); // 去掉多余部分
+
         noteData.push({ type: 'time', content: nowTime });
         document.getElementById('editTime').innerText = `最后编辑时间：${nowTime}`;
 
@@ -204,6 +210,7 @@ document.getElementById('saveNote').addEventListener('click', function () {
         link.download = 'note_data.json';
         link.click();
     }
+
 });
 
 // 导入便签
@@ -352,7 +359,7 @@ document.getElementById('publish-btn').addEventListener('click', function () {
                 .then(response => response.blob())
                 .then(blob => {
                     const reader = new FileReader();
-                    reader.onloadend = function() {
+                    reader.onloadend = function () {
                         noteData.push({ type: 'background', content: reader.result });
                         finalizePublish();
                     }
@@ -368,7 +375,13 @@ document.getElementById('publish-btn').addEventListener('click', function () {
     // 完成发布过程
     function finalizePublish() {
         const nowDate = new Date();
-        const nowTime = nowDate.toISOString().replace(/T/, '_').replace(/\..+/, '');
+
+        // 获取当前时间，并调整为中国时区 (UTC+8)
+        const nowTime = new Date(nowDate.getTime() + (8 * 60 * 60 * 1000)) // 加8小时
+            .toISOString()
+            .replace(/T/, '_')
+            .replace(/\..+/, ''); // 去掉多余部分
+
         noteData.push({ type: 'time', content: nowTime });
         document.getElementById('editTime').innerText = `最后编辑时间：${nowTime}`;
 
@@ -389,4 +402,5 @@ document.getElementById('publish-btn').addEventListener('click', function () {
                 });
             });
     }
+
 });
