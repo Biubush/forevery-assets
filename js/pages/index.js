@@ -33,4 +33,5 @@ document.querySelectorAll('.note-card').forEach((element) => {
 // 当页面所有资源都加载完成后，隐藏 loading-overlay
 window.onload = function() {
     document.querySelector('.loading-overlay').style.display = 'none';
+    console.log('页面加载完成！');
 };
