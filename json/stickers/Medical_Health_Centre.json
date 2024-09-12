@@ -1,0 +1,89 @@
+{
+    "package": "Medical Health Centre",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307497.png",
+            "alt": "Anxiety"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307498.png",
+            "alt": "Burnout"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307499.png",
+            "alt": "Depression"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307500.png",
+            "alt": "Insomnia"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307501.png",
+            "alt": "Journaling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307502.png",
+            "alt": "Meditation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307503.png",
+            "alt": "Counseling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307504.png",
+            "alt": "Support"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307505.png",
+            "alt": "No drugs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307506.png",
+            "alt": "Phobia"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307507.png",
+            "alt": "Tire"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307508.png",
+            "alt": "Elderly"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307509.png",
+            "alt": "Medical checkup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307510.png",
+            "alt": "Emergency"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307511.png",
+            "alt": "Fractured"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307512.png",
+            "alt": "Appointment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307513.png",
+            "alt": "Medical insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307514.png",
+            "alt": "Pharmacy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307515.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307516.png",
+            "alt": "Online consultation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12307/12307517.png",
+            "alt": "Recovery"
+        }
+    ]
+}

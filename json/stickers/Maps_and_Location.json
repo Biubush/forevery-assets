@@ -1,0 +1,85 @@
+{
+    "package": "Maps and Location",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485798.png",
+            "alt": "Airport"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485824.png",
+            "alt": "Compass"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485840.png",
+            "alt": "Destinations"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485860.png",
+            "alt": "Favourite"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485883.png",
+            "alt": "Gas station"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485905.png",
+            "alt": "Home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485928.png",
+            "alt": "Hotel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485946.png",
+            "alt": "Location"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485968.png",
+            "alt": "Navigation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485987.png",
+            "alt": "Police station"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486010.png",
+            "alt": "Stop sign"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486037.png",
+            "alt": "Restaurant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486056.png",
+            "alt": "Review"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486079.png",
+            "alt": "Road closed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486101.png",
+            "alt": "Search"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486128.png",
+            "alt": "Road sign"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486149.png",
+            "alt": "Accident car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486171.png",
+            "alt": "Traffic jam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486192.png",
+            "alt": "Train station"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486211.png",
+            "alt": "Treasure map"
+        }
+    ]
+}

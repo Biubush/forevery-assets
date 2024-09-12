@@ -1,0 +1,405 @@
+{
+    "package": "Chat expressions",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838124.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838129.png",
+            "alt": "Be happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838134.png",
+            "alt": "Good bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838139.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838144.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838149.png",
+            "alt": "Guess what"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838155.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838162.png",
+            "alt": "Hey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838171.png",
+            "alt": "Love me"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838178.png",
+            "alt": "Love you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838184.png",
+            "alt": "New idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838192.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838200.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838207.png",
+            "alt": "Okay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838214.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838221.png",
+            "alt": "So cute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838228.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838239.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838247.png",
+            "alt": "Well done"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838255.png",
+            "alt": "Woah"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838161.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838168.png",
+            "alt": "Be happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838176.png",
+            "alt": "Good bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838182.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838190.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838195.png",
+            "alt": "Guess what"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838202.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838209.png",
+            "alt": "Hey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838216.png",
+            "alt": "Love me"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838222.png",
+            "alt": "Love you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838229.png",
+            "alt": "New idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838234.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838248.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838256.png",
+            "alt": "Okay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838262.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838271.png",
+            "alt": "So cute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838277.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838285.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838291.png",
+            "alt": "Well done"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838298.png",
+            "alt": "Woah"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838167.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838174.png",
+            "alt": "Be happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838180.png",
+            "alt": "Good bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838186.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838194.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838201.png",
+            "alt": "Guess what"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838208.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838215.png",
+            "alt": "Hey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838223.png",
+            "alt": "Love me"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838230.png",
+            "alt": "Love you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838238.png",
+            "alt": "New idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838244.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838252.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838260.png",
+            "alt": "Okay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838267.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838274.png",
+            "alt": "So cute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838280.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838287.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838294.png",
+            "alt": "Well done"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838301.png",
+            "alt": "Woah"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838189.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838197.png",
+            "alt": "Be happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838204.png",
+            "alt": "Good bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838211.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838218.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838224.png",
+            "alt": "Guess what"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838233.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838241.png",
+            "alt": "Hey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838249.png",
+            "alt": "Love me"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838257.png",
+            "alt": "Love you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838264.png",
+            "alt": "New idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838269.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838276.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838282.png",
+            "alt": "Okay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838288.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838295.png",
+            "alt": "So cute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838302.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838308.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838313.png",
+            "alt": "Well done"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838318.png",
+            "alt": "Woah"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838388.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838393.png",
+            "alt": "Be happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838398.png",
+            "alt": "Good bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838403.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838408.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838413.png",
+            "alt": "Guess what"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838417.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838421.png",
+            "alt": "Hey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838426.png",
+            "alt": "Love me"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838431.png",
+            "alt": "Love you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838436.png",
+            "alt": "New idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838440.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838445.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838450.png",
+            "alt": "Okay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838455.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838460.png",
+            "alt": "So cute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838465.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838470.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838474.png",
+            "alt": "Well done"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7838/7838478.png",
+            "alt": "Woah"
+        }
+    ]
+}

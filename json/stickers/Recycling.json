@@ -1,0 +1,405 @@
+{
+    "package": "Recycling",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066641.png",
+            "alt": "Save the world"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066643.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066644.png",
+            "alt": "Save nature"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066645.png",
+            "alt": "Menstrual cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066646.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066647.png",
+            "alt": "Plant pot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066648.png",
+            "alt": "No plastic bags"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066649.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066650.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066651.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066652.png",
+            "alt": "Eco car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066653.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066654.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066655.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066656.png",
+            "alt": "Bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066657.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066658.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066659.png",
+            "alt": "Green planet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066660.png",
+            "alt": "Eco light"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7066/7066661.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257054.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257055.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257056.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257057.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257058.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257059.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257060.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257061.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257062.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257063.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257064.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257065.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257066.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257067.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257068.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257069.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257070.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257071.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257072.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7257/7257073.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318775.png",
+            "alt": "Battery eco"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318784.png",
+            "alt": "Bio energy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318793.png",
+            "alt": "Eco bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318801.png",
+            "alt": "Eco car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318811.png",
+            "alt": "Eco factory"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318819.png",
+            "alt": "Eco light"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318829.png",
+            "alt": "Environment protection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318837.png",
+            "alt": "Garbage car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318842.png",
+            "alt": "Green energy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318852.png",
+            "alt": "No plastic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318861.png",
+            "alt": "Planet earth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318868.png",
+            "alt": "Plant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318877.png",
+            "alt": "Plastic bin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318886.png",
+            "alt": "Recycle bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318894.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318905.png",
+            "alt": "Recycling bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318912.png",
+            "alt": "Recycling bin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318920.png",
+            "alt": "Save nature"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318929.png",
+            "alt": "Solar panel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7318/7318938.png",
+            "alt": "Wind energy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476651.png",
+            "alt": "Battery eco"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476652.png",
+            "alt": "Bio energy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476653.png",
+            "alt": "Eco bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476654.png",
+            "alt": "Eco car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476655.png",
+            "alt": "Eco factory"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476656.png",
+            "alt": "Eco light"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476657.png",
+            "alt": "Environment protection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476658.png",
+            "alt": "Garbage car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476659.png",
+            "alt": "Green energy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476660.png",
+            "alt": "No plastic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476661.png",
+            "alt": "Planet earth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476662.png",
+            "alt": "Plant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476663.png",
+            "alt": "Plastic bin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476664.png",
+            "alt": "Recycle bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476665.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476666.png",
+            "alt": "Recycling bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476667.png",
+            "alt": "Recycling bin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476668.png",
+            "alt": "Save nature"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476669.png",
+            "alt": "Solar panel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7476/7476670.png",
+            "alt": "Wind energy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927193.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927194.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927195.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927196.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927197.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927198.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927199.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927200.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927201.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927202.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927203.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927204.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927205.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927206.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927207.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927208.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927209.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927212.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927214.png",
+            "alt": "Recycling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8927/8927216.png",
+            "alt": "Recycling"
+        }
+    ]
+}

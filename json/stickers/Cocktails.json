@@ -1,0 +1,245 @@
+{
+    "package": "Cocktails",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574908.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574911.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574914.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574917.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574920.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574924.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574927.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574930.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574933.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574936.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574938.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574939.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574940.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574941.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574942.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574943.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574944.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574947.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574949.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7574/7574951.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065378.png",
+            "alt": "Daiquiri"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065379.png",
+            "alt": "Mint julep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065380.png",
+            "alt": "Whiskey sour"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065381.png",
+            "alt": "Irish coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065382.png",
+            "alt": "Pisco sour"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065383.png",
+            "alt": "Margarita"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065384.png",
+            "alt": "Cosmopolitan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065385.png",
+            "alt": "Caipirinha"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065386.png",
+            "alt": "Mimosa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065387.png",
+            "alt": "Sangria"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065388.png",
+            "alt": "Fernet with cola"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065389.png",
+            "alt": "Piña colada"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065390.png",
+            "alt": "Spritz"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065391.png",
+            "alt": "Bloody mary"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065392.png",
+            "alt": "Martini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065393.png",
+            "alt": "Old fashioned"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065394.png",
+            "alt": "Manhattan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065395.png",
+            "alt": "Negroni"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065396.png",
+            "alt": "Mojito"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8065/8065397.png",
+            "alt": "White russian"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604590.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604591.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604592.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604593.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604594.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604595.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604596.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604597.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604598.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604599.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604600.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604601.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604602.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604603.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604604.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604605.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604606.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604607.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604608.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604609.png",
+            "alt": "Cocktail"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Grafitti Sentences",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039561.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039577.png",
+            "alt": "Buy one get one free"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039589.png",
+            "alt": "Cool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039602.png",
+            "alt": "Count"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039614.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039627.png",
+            "alt": "Go out"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039641.png",
+            "alt": "Good job"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039654.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039667.png",
+            "alt": "Lets roll"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039680.png",
+            "alt": "Lets go"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039697.png",
+            "alt": "Lets rock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039711.png",
+            "alt": "Lucky"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039722.png",
+            "alt": "Problem solved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039735.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039748.png",
+            "alt": "Yes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039761.png",
+            "alt": "Outstanding"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039773.png",
+            "alt": "Thanks"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039785.png",
+            "alt": "Think"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039797.png",
+            "alt": "Wait"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6039/6039809.png",
+            "alt": "Well done"
+        }
+    ]
+}

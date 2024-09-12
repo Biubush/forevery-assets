@@ -1,0 +1,85 @@
+{
+    "package": "Car",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396275.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396287.png",
+            "alt": "Police car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396302.png",
+            "alt": "Taxi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396313.png",
+            "alt": "Firefighter car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396326.png",
+            "alt": "Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396339.png",
+            "alt": "Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396352.png",
+            "alt": "Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396363.png",
+            "alt": "Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396376.png",
+            "alt": "Bus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396389.png",
+            "alt": "Food truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396401.png",
+            "alt": "Food truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396411.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396420.png",
+            "alt": "Bus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396429.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396437.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396445.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396450.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396457.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396464.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7396/7396471.png",
+            "alt": "Ambulance"
+        }
+    ]
+}

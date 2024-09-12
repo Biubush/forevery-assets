@@ -1,0 +1,85 @@
+{
+    "package": "Beauty Treatment",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485769.png",
+            "alt": "Acne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485784.png",
+            "alt": "Diamond pendant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485800.png",
+            "alt": "Diet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485829.png",
+            "alt": "Facial"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485849.png",
+            "alt": "Fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485870.png",
+            "alt": "Fashion design"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485891.png",
+            "alt": "Foot spa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485913.png",
+            "alt": "Hair cut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485934.png",
+            "alt": "Herbal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485954.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485973.png",
+            "alt": "Manicure"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485995.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486018.png",
+            "alt": "Salon chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486040.png",
+            "alt": "Sauna"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486066.png",
+            "alt": "Serum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486093.png",
+            "alt": "Shaving blade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486117.png",
+            "alt": "Dental hygiene"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486140.png",
+            "alt": "Vitamins"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486162.png",
+            "alt": "Waxing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486182.png",
+            "alt": "Weight"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "package": "Picky eater",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598072.png",
+            "alt": "Eating"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598073.png",
+            "alt": "Hate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598074.png",
+            "alt": "Hate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598075.png",
+            "alt": "Eggplant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598076.png",
+            "alt": "Dislike"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598077.png",
+            "alt": "Denied"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598078.png",
+            "alt": "Pick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598079.png",
+            "alt": "Cauliflower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598080.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598081.png",
+            "alt": "Dislike"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598082.png",
+            "alt": "Apple"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598083.png",
+            "alt": "Reject"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598084.png",
+            "alt": "Reject"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598085.png",
+            "alt": "Disgust"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598086.png",
+            "alt": "Pick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598087.png",
+            "alt": "Hate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598088.png",
+            "alt": "Pick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598089.png",
+            "alt": "Radish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598090.png",
+            "alt": "Reject"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598091.png",
+            "alt": "Think"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598092.png",
+            "alt": "Pick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598094.png",
+            "alt": "Eating"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598095.png",
+            "alt": "Hate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598096.png",
+            "alt": "Hate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598097.png",
+            "alt": "Eggplant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598098.png",
+            "alt": "Dislike"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598099.png",
+            "alt": "Denied"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598100.png",
+            "alt": "Pick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598101.png",
+            "alt": "Cauliflower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598102.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598103.png",
+            "alt": "Disgust"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598104.png",
+            "alt": "Apple"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598105.png",
+            "alt": "Reject"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598106.png",
+            "alt": "Reject"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598107.png",
+            "alt": "Disgust"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598108.png",
+            "alt": "Pick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598109.png",
+            "alt": "Hate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598110.png",
+            "alt": "Pick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598111.png",
+            "alt": "Radish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598112.png",
+            "alt": "Reject"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598113.png",
+            "alt": "Think"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7598/7598114.png",
+            "alt": "Pick"
+        }
+    ]
+}

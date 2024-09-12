@@ -1,0 +1,605 @@
+{
+    "package": "Self care",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139079.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139083.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139086.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139090.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139095.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139098.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139101.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139104.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139107.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139110.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139113.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139116.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139119.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139122.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139125.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139127.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139130.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139133.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139136.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139138.png",
+            "alt": "Self Care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443892.png",
+            "alt": "Sleep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443893.png",
+            "alt": "Flower bouquet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443894.png",
+            "alt": "Sportsman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443895.png",
+            "alt": "Talk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443896.png",
+            "alt": "Write"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443897.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443898.png",
+            "alt": "Pet love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443899.png",
+            "alt": "Pet love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443900.png",
+            "alt": "Painting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443901.png",
+            "alt": "Detox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443902.png",
+            "alt": "Yoga"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443903.png",
+            "alt": "Skincare"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443904.png",
+            "alt": "Lemonade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443905.png",
+            "alt": "Walking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443906.png",
+            "alt": "Reading"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443907.png",
+            "alt": "Singing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443908.png",
+            "alt": "Incense burner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443909.png",
+            "alt": "Knitting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443910.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10443/10443911.png",
+            "alt": "Relax"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829405.png",
+            "alt": "Mug"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829412.png",
+            "alt": "Self esteem"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829419.png",
+            "alt": "Flower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829426.png",
+            "alt": "Muffin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829432.png",
+            "alt": "Knitting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829439.png",
+            "alt": "Meditation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829446.png",
+            "alt": "Tissue box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829452.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829460.png",
+            "alt": "Training"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829466.png",
+            "alt": "Journal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829472.png",
+            "alt": "Kettle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829478.png",
+            "alt": "Kick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829485.png",
+            "alt": "Music"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829492.png",
+            "alt": "Eggplant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829499.png",
+            "alt": "Sanitizer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829505.png",
+            "alt": "Shower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829513.png",
+            "alt": "Blush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829522.png",
+            "alt": "Cherry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829530.png",
+            "alt": "Carrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829538.png",
+            "alt": "Sunscreen"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829546.png",
+            "alt": "Boxing gloves"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829553.png",
+            "alt": "Noodle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829561.png",
+            "alt": "Bowl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829568.png",
+            "alt": "Wellbeing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829577.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829586.png",
+            "alt": "Nail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829594.png",
+            "alt": "Lemon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829603.png",
+            "alt": "Banana"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829611.png",
+            "alt": "Watering can"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829618.png",
+            "alt": "Jam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829625.png",
+            "alt": "Broccoli"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829633.png",
+            "alt": "Coconut water"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829640.png",
+            "alt": "Self worth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829648.png",
+            "alt": "Pillow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829657.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829667.png",
+            "alt": "Vase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829676.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829688.png",
+            "alt": "Sparrow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829703.png",
+            "alt": "Plant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829711.png",
+            "alt": "Self growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829724.png",
+            "alt": "Embroidery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829733.png",
+            "alt": "Pot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829744.png",
+            "alt": "Juice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829753.png",
+            "alt": "Brushing teeth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829767.png",
+            "alt": "Reading"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829777.png",
+            "alt": "Music"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829792.png",
+            "alt": "Corn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829802.png",
+            "alt": "Watermelon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829813.png",
+            "alt": "Egg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10829/10829829.png",
+            "alt": "Milk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826618.png",
+            "alt": "Deodorant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826619.png",
+            "alt": "Lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826620.png",
+            "alt": "Writing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826621.png",
+            "alt": "Face massage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826622.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826623.png",
+            "alt": "Watering plants"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826624.png",
+            "alt": "Training"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826625.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826626.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826627.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826628.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826629.png",
+            "alt": "Training"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826630.png",
+            "alt": "Meditation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826631.png",
+            "alt": "Bathtub"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826632.png",
+            "alt": "Facial cleansing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826633.png",
+            "alt": "Combing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826634.png",
+            "alt": "Drinking water"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826635.png",
+            "alt": "Sleeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826636.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11826/11826637.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398493.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398494.png",
+            "alt": "Drink water"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398495.png",
+            "alt": "Running"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398496.png",
+            "alt": "Candles"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398497.png",
+            "alt": "Bathtub"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398498.png",
+            "alt": "Weightlifting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398499.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398500.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398501.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398502.png",
+            "alt": "Sleeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398503.png",
+            "alt": "Facial cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398504.png",
+            "alt": "Face roller"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398505.png",
+            "alt": "Journaling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398506.png",
+            "alt": "Meditation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398507.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398508.png",
+            "alt": "Watering plants"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398509.png",
+            "alt": "Deodorant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398510.png",
+            "alt": "Wash face"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398511.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398512.png",
+            "alt": "Matcha tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621315.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621316.png",
+            "alt": "Facial treatment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621317.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621318.png",
+            "alt": "Watering plants"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621319.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621320.png",
+            "alt": "Running"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621321.png",
+            "alt": "Running"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621322.png",
+            "alt": "Self care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621323.png",
+            "alt": "Relax"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621324.png",
+            "alt": "Shower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621325.png",
+            "alt": "Healthy food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621326.png",
+            "alt": "Hydratation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621327.png",
+            "alt": "Writing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621328.png",
+            "alt": "Friends"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621329.png",
+            "alt": "Excersice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621330.png",
+            "alt": "Healthy food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621331.png",
+            "alt": "Sleep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621332.png",
+            "alt": "Yoga"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621333.png",
+            "alt": "Bathing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12621/12621334.png",
+            "alt": "Reading"
+        }
+    ]
+}

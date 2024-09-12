@@ -1,0 +1,85 @@
+{
+    "package": "Car Garage",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666222.png",
+            "alt": "Accumulator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666224.png",
+            "alt": "Analyse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666226.png",
+            "alt": "Car Key"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666228.png",
+            "alt": "Car Lift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666230.png",
+            "alt": "Car Service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666232.png",
+            "alt": "Car wash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666235.png",
+            "alt": "Car check"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666237.png",
+            "alt": "Dirty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666238.png",
+            "alt": "Car Service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666239.png",
+            "alt": "Fuel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666240.png",
+            "alt": "Garage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666241.png",
+            "alt": "Mechanic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666243.png",
+            "alt": "Lazy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666245.png",
+            "alt": "Oil"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666247.png",
+            "alt": "Steering"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666250.png",
+            "alt": "Tire"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666252.png",
+            "alt": "Toolbox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666254.png",
+            "alt": "Tow truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666256.png",
+            "alt": "Voltmeter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9666/9666258.png",
+            "alt": "Wheel"
+        }
+    ]
+}

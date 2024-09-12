@@ -1,0 +1,405 @@
+{
+    "package": "Sales",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884048.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884050.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884052.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884054.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884056.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884058.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884060.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884062.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884064.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884066.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884068.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884070.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884072.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884074.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884076.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884077.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884078.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884079.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884080.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8884/8884081.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290191.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290193.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290195.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290197.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290199.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290200.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290201.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290202.png",
+            "alt": "Extra sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290203.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290204.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290205.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290206.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290207.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290208.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290209.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290210.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290211.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290212.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290213.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10290/10290214.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471369.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471370.png",
+            "alt": "Barcode"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471371.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471372.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471373.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471374.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471375.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471376.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471377.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471378.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471379.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471380.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471381.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471382.png",
+            "alt": "Paying"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471383.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471384.png",
+            "alt": "Taxes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471385.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471386.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471387.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471388.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210453.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210454.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210455.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210458.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210460.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210462.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210465.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210467.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210469.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210471.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210473.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210475.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210477.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210479.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210481.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210483.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210485.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210487.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210489.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12210/12210490.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340168.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340169.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340170.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340171.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340172.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340173.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340174.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340175.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340176.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340177.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340178.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340179.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340180.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340181.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340182.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340183.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340184.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340185.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340186.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340187.png",
+            "alt": "Sales"
+        }
+    ]
+}

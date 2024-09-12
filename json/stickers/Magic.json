@@ -1,0 +1,685 @@
+{
+    "package": "Magic",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755461.png",
+            "alt": "Spell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755462.png",
+            "alt": "Spellbook"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755463.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755464.png",
+            "alt": "Flask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755465.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755466.png",
+            "alt": "Poison"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755467.png",
+            "alt": "Fortune telling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755468.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755469.png",
+            "alt": "Magic Trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755470.png",
+            "alt": "Magic Trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755471.png",
+            "alt": "Magic Trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755472.png",
+            "alt": "Black cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755473.png",
+            "alt": "Fortune telling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755474.png",
+            "alt": "Cauldron"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755475.png",
+            "alt": "Snake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755476.png",
+            "alt": "Voodoo doll"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755477.png",
+            "alt": "Tarot card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755478.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755479.png",
+            "alt": "Spell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9755/9755480.png",
+            "alt": "Witchcraft"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780480.png",
+            "alt": "Spell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780481.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780482.png",
+            "alt": "Spell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780485.png",
+            "alt": "Magic ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780487.png",
+            "alt": "Spell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780489.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780492.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780494.png",
+            "alt": "Fortune Teller"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780496.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780498.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780500.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780502.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780504.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780506.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780508.png",
+            "alt": "Speelbook"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780510.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780512.png",
+            "alt": "Fortune Teller"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780514.png",
+            "alt": "Spell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780516.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9780/9780518.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096559.png",
+            "alt": "Pestle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096579.png",
+            "alt": "Treasure Chest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096596.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096607.png",
+            "alt": "Pumpkin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096616.png",
+            "alt": "Symbol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096636.png",
+            "alt": "Mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096656.png",
+            "alt": "Bone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096674.png",
+            "alt": "Dustbin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096689.png",
+            "alt": "Broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096708.png",
+            "alt": "Diamond"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096724.png",
+            "alt": "Magic box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096745.png",
+            "alt": "Crystal Ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096762.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096776.png",
+            "alt": "Treasure Chest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096787.png",
+            "alt": "Grave"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096798.png",
+            "alt": "Spell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096814.png",
+            "alt": "Bunny hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096830.png",
+            "alt": "Email"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096850.png",
+            "alt": "Wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096864.png",
+            "alt": "Bauble"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096878.png",
+            "alt": "Wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096894.png",
+            "alt": "Chalice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096907.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096918.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096929.png",
+            "alt": "Poker cards"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096942.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096955.png",
+            "alt": "Magic ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096967.png",
+            "alt": "Bowl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096978.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10096/10096989.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097000.png",
+            "alt": "Poison"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097014.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097025.png",
+            "alt": "Magic box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097035.png",
+            "alt": "Key"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097045.png",
+            "alt": "Potions"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097055.png",
+            "alt": "Quill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097065.png",
+            "alt": "Love potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097075.png",
+            "alt": "Magic hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097085.png",
+            "alt": "Ring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097095.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097105.png",
+            "alt": "Bat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097115.png",
+            "alt": "Acorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097127.png",
+            "alt": "Broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097139.png",
+            "alt": "Scroll"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097152.png",
+            "alt": "Dice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097164.png",
+            "alt": "Ring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097176.png",
+            "alt": "Genie Lamp"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097189.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097201.png",
+            "alt": "Lamp"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10097/10097213.png",
+            "alt": "Moon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130863.png",
+            "alt": "Crystal Ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130867.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130872.png",
+            "alt": "Magic Trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130876.png",
+            "alt": "Magician"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130880.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130882.png",
+            "alt": "Spellbook"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130884.png",
+            "alt": "Magician"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130886.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130888.png",
+            "alt": "Magic Trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130890.png",
+            "alt": "Magician"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130892.png",
+            "alt": "Magician"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130894.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130897.png",
+            "alt": "Witchcraft"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130899.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130901.png",
+            "alt": "Cards"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130903.png",
+            "alt": "Magician"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130905.png",
+            "alt": "Cauldron"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130907.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130909.png",
+            "alt": "Cards"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130911.png",
+            "alt": "Magic Trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139360.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139364.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139368.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139372.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139376.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139380.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139385.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139389.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139394.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139397.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139400.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139404.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139408.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139411.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139414.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139416.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139418.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139420.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139422.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139424.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389334.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389345.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389359.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389372.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389384.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389398.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389410.png",
+            "alt": "Magic ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389424.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389435.png",
+            "alt": "Applause"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389448.png",
+            "alt": "Mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389461.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389473.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389484.png",
+            "alt": "Magic hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389495.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389506.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389515.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389525.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389533.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389541.png",
+            "alt": "Magic hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10389/10389549.png",
+            "alt": "Magic trick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471285.png",
+            "alt": "Magic ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471286.png",
+            "alt": "Magic hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471287.png",
+            "alt": "Mushrooms"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471288.png",
+            "alt": "Tarot card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471289.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471290.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471291.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471292.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471293.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471294.png",
+            "alt": "Magic lamp"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471295.png",
+            "alt": "Cauldron"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471296.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471297.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471298.png",
+            "alt": "Magic hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471299.png",
+            "alt": "Magic book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471300.png",
+            "alt": "Crystal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471301.png",
+            "alt": "Magic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471302.png",
+            "alt": "Fortune teller"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471303.png",
+            "alt": "Magic book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11471/11471304.png",
+            "alt": "Magic"
+        }
+    ]
+}

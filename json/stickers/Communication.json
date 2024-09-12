@@ -1,0 +1,245 @@
+{
+    "package": "Communication",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120939.png",
+            "alt": "Chat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120940.png",
+            "alt": "Customer service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120941.png",
+            "alt": "Talking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120942.png",
+            "alt": "Phone call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120943.png",
+            "alt": "Audio message"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120944.png",
+            "alt": "Post"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120945.png",
+            "alt": "Megaphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120948.png",
+            "alt": "Mail box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120951.png",
+            "alt": "Phone call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120953.png",
+            "alt": "Interview"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120955.png",
+            "alt": "Radio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120957.png",
+            "alt": "Email"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120959.png",
+            "alt": "Chat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120961.png",
+            "alt": "Wifi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120963.png",
+            "alt": "Post"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120965.png",
+            "alt": "Video call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120968.png",
+            "alt": "Phone call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120970.png",
+            "alt": "Walkie talkie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120972.png",
+            "alt": "Language"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12120/12120974.png",
+            "alt": "Message in a bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504559.png",
+            "alt": "Communication"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504561.png",
+            "alt": "Help center"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504563.png",
+            "alt": "Communication"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504565.png",
+            "alt": "Message in a bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504567.png",
+            "alt": "Megaphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504568.png",
+            "alt": "Envelope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504569.png",
+            "alt": "Walkie talkie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504572.png",
+            "alt": "Communication"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504574.png",
+            "alt": "Carrier pigeon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504576.png",
+            "alt": "Chat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504578.png",
+            "alt": "Radio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504580.png",
+            "alt": "Notification"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504582.png",
+            "alt": "Reporter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504584.png",
+            "alt": "Contact book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504586.png",
+            "alt": "Communication"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504587.png",
+            "alt": "Communication"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504589.png",
+            "alt": "Video chat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504591.png",
+            "alt": "Communication"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504595.png",
+            "alt": "Postbox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12504/12504598.png",
+            "alt": "Phone call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541088.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541089.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541090.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541091.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541092.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541093.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541094.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541095.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541096.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541097.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541098.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541099.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541100.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541101.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541102.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541103.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541104.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541105.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541106.png",
+            "alt": "Communications"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12541/12541107.png",
+            "alt": "Communications"
+        }
+    ]
+}

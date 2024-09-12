@@ -1,0 +1,85 @@
+{
+    "package": "Seminar and Workshop",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857390.png",
+            "alt": "Target audience"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857398.png",
+            "alt": "Discussion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857404.png",
+            "alt": "Food and drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857409.png",
+            "alt": "Id card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857416.png",
+            "alt": "Microphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857419.png",
+            "alt": "Note taking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857427.png",
+            "alt": "Notes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857435.png",
+            "alt": "Online conference"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857442.png",
+            "alt": "Presentation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857448.png",
+            "alt": "Problem solving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857455.png",
+            "alt": "Question"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857461.png",
+            "alt": "Registration"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857468.png",
+            "alt": "Research"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857474.png",
+            "alt": "Calendar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857480.png",
+            "alt": "Speaker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857487.png",
+            "alt": "Startup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857494.png",
+            "alt": "Task list"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857501.png",
+            "alt": "Thinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857506.png",
+            "alt": "Topic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857512.png",
+            "alt": "University"
+        }
+    ]
+}

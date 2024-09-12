@@ -1,0 +1,85 @@
+{
+    "package": "Herbs and spices",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124929.png",
+            "alt": "Basil"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124931.png",
+            "alt": "Star anise"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124933.png",
+            "alt": "Cumin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124936.png",
+            "alt": "Turmeric"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124939.png",
+            "alt": "Paprika"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124942.png",
+            "alt": "Wasabi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124945.png",
+            "alt": "Rue"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124948.png",
+            "alt": "Cinnamon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124954.png",
+            "alt": "Tarragon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124958.png",
+            "alt": "Nutmeg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124961.png",
+            "alt": "Oregano"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124965.png",
+            "alt": "Parsley"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124969.png",
+            "alt": "Bay leaves"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124973.png",
+            "alt": "Cilantro"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124977.png",
+            "alt": "Mint"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124981.png",
+            "alt": "Rosemary"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124984.png",
+            "alt": "Thyme"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124988.png",
+            "alt": "Cayenee pepper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124992.png",
+            "alt": "Cloves"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12124/12124995.png",
+            "alt": "Ginger"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Puffin",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465893.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465895.png",
+            "alt": "Birthday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465897.png",
+            "alt": "Eat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465899.png",
+            "alt": "Fever"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465901.png",
+            "alt": "Full"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465903.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465905.png",
+            "alt": "Hi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465907.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465909.png",
+            "alt": "Mocking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465911.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465913.png",
+            "alt": "Peace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465915.png",
+            "alt": "Proud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465917.png",
+            "alt": "Relaxed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465918.png",
+            "alt": "Run"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465921.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465923.png",
+            "alt": "Shocked"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465925.png",
+            "alt": "Sing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465927.png",
+            "alt": "Yawn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465929.png",
+            "alt": "Yes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8465/8465931.png",
+            "alt": "Yoga"
+        }
+    ]
+}

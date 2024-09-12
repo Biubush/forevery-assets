@@ -1,0 +1,173 @@
+{
+    "package": "Sale and Cashback Refund",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305461.png",
+            "alt": "24 Hours Support"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305466.png",
+            "alt": "Magnet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305470.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305473.png",
+            "alt": "Location pin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305477.png",
+            "alt": "Buy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305481.png",
+            "alt": "Cash back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305485.png",
+            "alt": "Cash back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305488.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305491.png",
+            "alt": "Coins"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305494.png",
+            "alt": "Price cut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305497.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305500.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305503.png",
+            "alt": "Flag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305506.png",
+            "alt": "Discount Tag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305509.png",
+            "alt": "Business analyst"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305512.png",
+            "alt": "Gift box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305515.png",
+            "alt": "Shopping cart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305518.png",
+            "alt": "Global economy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305521.png",
+            "alt": "Global"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305524.png",
+            "alt": "Mobile payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305527.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305530.png",
+            "alt": "Money back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305533.png",
+            "alt": "Money bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305536.png",
+            "alt": "Salary"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305539.png",
+            "alt": "Money back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305542.png",
+            "alt": "Money back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305545.png",
+            "alt": "Money bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305548.png",
+            "alt": "Wallet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305553.png",
+            "alt": "Online payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305556.png",
+            "alt": "Payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305559.png",
+            "alt": "Payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305561.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305563.png",
+            "alt": "Money back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305565.png",
+            "alt": "Money back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305566.png",
+            "alt": "Announcement"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305568.png",
+            "alt": "Advertisement"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305570.png",
+            "alt": "Sale date"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305572.png",
+            "alt": "Clock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305574.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305576.png",
+            "alt": "Surprise"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305578.png",
+            "alt": "Thumbs up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8305/8305580.png",
+            "alt": "Withdrawal"
+        }
+    ]
+}

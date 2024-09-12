@@ -1,0 +1,285 @@
+{
+    "package": "Housekeeping",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114207.png",
+            "alt": "Shelf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114210.png",
+            "alt": "Bathtub"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114211.png",
+            "alt": "Bug spray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114215.png",
+            "alt": "Car cleaning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114217.png",
+            "alt": "Caution"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114221.png",
+            "alt": "Checklist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114223.png",
+            "alt": "Cleaning brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114226.png",
+            "alt": "Cleaning gloves"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114229.png",
+            "alt": "Cleaning mop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114232.png",
+            "alt": "Sofa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114235.png",
+            "alt": "Cleaning spray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114238.png",
+            "alt": "Cleaning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114241.png",
+            "alt": "Cleaning tools"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114245.png",
+            "alt": "Cleaning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114248.png",
+            "alt": "Cloth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114251.png",
+            "alt": "Dish washing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114255.png",
+            "alt": "Disposal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114258.png",
+            "alt": "Door"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114260.png",
+            "alt": "Floor cleaner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114262.png",
+            "alt": "Sweeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114264.png",
+            "alt": "Clothes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114266.png",
+            "alt": "Grocery bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114268.png",
+            "alt": "Hand washing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114270.png",
+            "alt": "Hanging clothes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114272.png",
+            "alt": "Clothes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114275.png",
+            "alt": "House"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114277.png",
+            "alt": "Iron table"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114279.png",
+            "alt": "Kitchen"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114281.png",
+            "alt": "Laundry detergent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114283.png",
+            "alt": "Laundry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114286.png",
+            "alt": "Laundry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114288.png",
+            "alt": "Laundry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114290.png",
+            "alt": "Lawn mower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114292.png",
+            "alt": "Liquid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114294.png",
+            "alt": "Plunger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114296.png",
+            "alt": "Pool cleaning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114298.png",
+            "alt": "Press"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114300.png",
+            "alt": "Robot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114303.png",
+            "alt": "Schedule"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114304.png",
+            "alt": "Sponge"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114307.png",
+            "alt": "Tissue box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114309.png",
+            "alt": "Toilet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114311.png",
+            "alt": "Toilet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114312.png",
+            "alt": "Toothpaste"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114314.png",
+            "alt": "Towel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114317.png",
+            "alt": "Trash bin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114319.png",
+            "alt": "Vacuum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114323.png",
+            "alt": "Vacum cleaner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114327.png",
+            "alt": "Wall painting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114330.png",
+            "alt": "Washing machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534397.png",
+            "alt": "Broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534398.png",
+            "alt": "Laundry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534399.png",
+            "alt": "Laundry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534400.png",
+            "alt": "Housekeeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534401.png",
+            "alt": "Housekeeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534402.png",
+            "alt": "Trash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534403.png",
+            "alt": "Housekeeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534404.png",
+            "alt": "Iron"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534405.png",
+            "alt": "Broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534406.png",
+            "alt": "Laundry machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534407.png",
+            "alt": "Laundry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534408.png",
+            "alt": "Broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534409.png",
+            "alt": "Housekeeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534410.png",
+            "alt": "Vacuum cleaner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534411.png",
+            "alt": "Dust"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534412.png",
+            "alt": "Housekeeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534413.png",
+            "alt": "Window cleaner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534414.png",
+            "alt": "Toilet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534415.png",
+            "alt": "Housekeeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15534/15534416.png",
+            "alt": "Washing dishes"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Television",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183598.png",
+            "alt": "Tv"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183611.png",
+            "alt": "Antenna"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183624.png",
+            "alt": "Broadcasting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183638.png",
+            "alt": "Cooking show"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183648.png",
+            "alt": "Television"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183661.png",
+            "alt": "Jack cable"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183673.png",
+            "alt": "Live broadcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183689.png",
+            "alt": "Movie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183703.png",
+            "alt": "Mute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183720.png",
+            "alt": "News"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183735.png",
+            "alt": "On air"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183752.png",
+            "alt": "Remote"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183771.png",
+            "alt": "Satellite"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183790.png",
+            "alt": "Sport"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183811.png",
+            "alt": "Studio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183831.png",
+            "alt": "Television"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183850.png",
+            "alt": "Van"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183870.png",
+            "alt": "Vintage tv"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183895.png",
+            "alt": "Audio controller"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183923.png",
+            "alt": "Weather forecast"
+        }
+    ]
+}

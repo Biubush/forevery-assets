@@ -1,0 +1,85 @@
+{
+    "package": "Medical Care First Aid Kit",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074872.png",
+            "alt": "Bandage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074876.png",
+            "alt": "Drops"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074882.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074889.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074895.png",
+            "alt": "Needle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074900.png",
+            "alt": "Pill box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074906.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074912.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074918.png",
+            "alt": "Bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074925.png",
+            "alt": "Measuring cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074931.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074939.png",
+            "alt": "Bandage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074948.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074956.png",
+            "alt": "Pill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074963.png",
+            "alt": "Pill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074971.png",
+            "alt": "Pill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074977.png",
+            "alt": "Bandage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074984.png",
+            "alt": "Inhaler"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074992.png",
+            "alt": "Ointment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11074/11074999.png",
+            "alt": "Spray"
+        }
+    ]
+}

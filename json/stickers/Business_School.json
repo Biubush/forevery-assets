@@ -1,0 +1,85 @@
+{
+    "package": "Business School",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857395.png",
+            "alt": "Accounting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857402.png",
+            "alt": "Business analyst"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857407.png",
+            "alt": "Certificate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857413.png",
+            "alt": "Documents"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857420.png",
+            "alt": "Briefcase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857429.png",
+            "alt": "Global distribution"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857434.png",
+            "alt": "Hiring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857441.png",
+            "alt": "Human resources"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857449.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857454.png",
+            "alt": "Knowledge"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857462.png",
+            "alt": "Law"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857469.png",
+            "alt": "Leadership"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857477.png",
+            "alt": "Logistics"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857483.png",
+            "alt": "Marketing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857490.png",
+            "alt": "Mentor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857496.png",
+            "alt": "Motivation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857502.png",
+            "alt": "Negotiation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857508.png",
+            "alt": "Public relation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857513.png",
+            "alt": "Scholarship"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6857/6857518.png",
+            "alt": "Strategic plan"
+        }
+    ]
+}

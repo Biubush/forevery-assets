@@ -1,0 +1,485 @@
+{
+    "package": "Avatars",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729516.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729519.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729523.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729529.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729538.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729543.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729553.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729561.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729569.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729574.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729580.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729590.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729596.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729606.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729613.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729620.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729629.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729635.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729642.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729649.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729602.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729609.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729615.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729623.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729628.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729634.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729641.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729645.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729651.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729657.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729661.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729665.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729670.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729675.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729679.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729682.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729687.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729692.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729697.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4729/4729701.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825015.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825021.png",
+            "alt": "Old man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825027.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825031.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825035.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825038.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825044.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825047.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825051.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825057.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825062.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825066.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825072.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825076.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825082.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825087.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825096.png",
+            "alt": "Old man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825108.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825112.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4825/4825123.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046924.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046925.png",
+            "alt": "Boy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046926.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046927.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046928.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046929.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046930.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046931.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046932.png",
+            "alt": "Boy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046933.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046934.png",
+            "alt": "Arab"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046935.png",
+            "alt": "Boy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046936.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046937.png",
+            "alt": "Boy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046938.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046939.png",
+            "alt": "Boy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046940.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046941.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046942.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046943.png",
+            "alt": "Boy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345466.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345470.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345477.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345484.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345489.png",
+            "alt": "Stewardess"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345498.png",
+            "alt": "Pilot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345503.png",
+            "alt": "Chef"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345511.png",
+            "alt": "Farmer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345519.png",
+            "alt": "Police"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345523.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345529.png",
+            "alt": "Fireman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345534.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345541.png",
+            "alt": "Worker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345548.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345555.png",
+            "alt": "Scientific"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345562.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345569.png",
+            "alt": "Businessman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345576.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345583.png",
+            "alt": "Worker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345590.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526383.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526387.png",
+            "alt": "Father"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526390.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526393.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526395.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526397.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526399.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526401.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526407.png",
+            "alt": "Businessman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526411.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526415.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526419.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526423.png",
+            "alt": "Child"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526427.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526432.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526436.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526442.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526447.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526452.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526457.png",
+            "alt": "Man"
+        }
+    ]
+}

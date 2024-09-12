@@ -1,0 +1,105 @@
+{
+    "package": "Cute dog expression",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544875.png",
+            "alt": "Ready"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544876.png",
+            "alt": "Cry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544878.png",
+            "alt": "Surprised"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544880.png",
+            "alt": "Laughter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544882.png",
+            "alt": "Enjoy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544884.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544886.png",
+            "alt": "Thumbs down"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544888.png",
+            "alt": "Dislike"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544890.png",
+            "alt": "Thinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544892.png",
+            "alt": "Strong"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544894.png",
+            "alt": "Peace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544898.png",
+            "alt": "Falling in love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544901.png",
+            "alt": "Kiss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544904.png",
+            "alt": "Silent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544907.png",
+            "alt": "I dont know"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544910.png",
+            "alt": "Sleepy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544917.png",
+            "alt": "Birthday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544922.png",
+            "alt": "Please"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544927.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544932.png",
+            "alt": "Good"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544937.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544942.png",
+            "alt": "Farewell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544947.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544951.png",
+            "alt": "Perfect"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544956.png",
+            "alt": "Think"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Logistic Service Provider",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748969.png",
+            "alt": "Airplane"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748970.png",
+            "alt": "Cart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748971.png",
+            "alt": "Bill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748972.png",
+            "alt": "Cargo ship"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748973.png",
+            "alt": "Container"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748974.png",
+            "alt": "Conveyor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748975.png",
+            "alt": "Crane machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748976.png",
+            "alt": "Delivery status"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748977.png",
+            "alt": "Delivery truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748978.png",
+            "alt": "Home delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748979.png",
+            "alt": "Inventory"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748980.png",
+            "alt": "Fragile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748981.png",
+            "alt": "Parcels"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748982.png",
+            "alt": "Protection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748983.png",
+            "alt": "Receipt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748984.png",
+            "alt": "Return box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748985.png",
+            "alt": "Parcel weight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748986.png",
+            "alt": "Tracking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748990.png",
+            "alt": "Warehouse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7748/7748994.png",
+            "alt": "Worldwide shipping"
+        }
+    ]
+}

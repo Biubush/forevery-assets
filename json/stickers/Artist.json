@@ -1,0 +1,85 @@
+{
+    "package": "Artist",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540249.png",
+            "alt": "Musician"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540253.png",
+            "alt": "Sculptor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540259.png",
+            "alt": "Singer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540263.png",
+            "alt": "Painter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540267.png",
+            "alt": "Dancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540271.png",
+            "alt": "Juggler"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540275.png",
+            "alt": "Stilt walker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540280.png",
+            "alt": "Tattoo artist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540285.png",
+            "alt": "Dancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540290.png",
+            "alt": "Painter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540295.png",
+            "alt": "Sculptor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540299.png",
+            "alt": "Mimo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540303.png",
+            "alt": "Pole dancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540308.png",
+            "alt": "Magician"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540312.png",
+            "alt": "Artist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540316.png",
+            "alt": "Actor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540320.png",
+            "alt": "Contortionist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540324.png",
+            "alt": "Graffiti Artist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540326.png",
+            "alt": "Designer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8540/8540329.png",
+            "alt": "Graffiti Artist"
+        }
+    ]
+}

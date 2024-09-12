@@ -1,0 +1,85 @@
+{
+    "package": "Business Team",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359718.png",
+            "alt": "Analytic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359722.png",
+            "alt": "Argument"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359726.png",
+            "alt": "Bonus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359730.png",
+            "alt": "Competition"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359734.png",
+            "alt": "Conversation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359740.png",
+            "alt": "Data security"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359745.png",
+            "alt": "Designer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359748.png",
+            "alt": "Executive"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359753.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359761.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359767.png",
+            "alt": "Holiday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359773.png",
+            "alt": "Intern"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359779.png",
+            "alt": "Job seeker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359785.png",
+            "alt": "Chairs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359791.png",
+            "alt": "Retirement"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359797.png",
+            "alt": "Speaker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359803.png",
+            "alt": "Team leader"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359809.png",
+            "alt": "Team"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359815.png",
+            "alt": "Teamwork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359820.png",
+            "alt": "To do list"
+        }
+    ]
+}

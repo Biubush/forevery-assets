@@ -1,0 +1,181 @@
+{
+    "package": "Cafe",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359947.png",
+            "alt": "Coffee cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359951.png",
+            "alt": "Apron"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359957.png",
+            "alt": "Sugar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359961.png",
+            "alt": "Coffee grinder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359964.png",
+            "alt": "Moka pot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359967.png",
+            "alt": "Dripper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359970.png",
+            "alt": "Coffee cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359973.png",
+            "alt": "Coffee maker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359976.png",
+            "alt": "Kettle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359979.png",
+            "alt": "Food scale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359982.png",
+            "alt": "Syphon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359985.png",
+            "alt": "Spoon and fork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359990.png",
+            "alt": "Coffee machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359994.png",
+            "alt": "Coffee bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8359/8359998.png",
+            "alt": "Coffee pack"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360002.png",
+            "alt": "Frappe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360005.png",
+            "alt": "Scoop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360010.png",
+            "alt": "Coffee jar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360016.png",
+            "alt": "Coffee filter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360021.png",
+            "alt": "Portafilter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360026.png",
+            "alt": "Coffee beans"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360031.png",
+            "alt": "Coffee bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360035.png",
+            "alt": "French press"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8360/8360038.png",
+            "alt": "Thermos"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026935.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026940.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026946.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026951.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026957.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026963.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026968.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026974.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026979.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026985.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026991.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14026/14026995.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027001.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027008.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027013.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027017.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027023.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027029.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027033.png",
+            "alt": "Cafe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027037.png",
+            "alt": "Cafe"
+        }
+    ]
+}

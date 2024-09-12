@@ -1,0 +1,85 @@
+{
+    "package": "Girls on vacation",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650659.png",
+            "alt": "Adventure"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650662.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650666.png",
+            "alt": "Boat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650670.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650672.png",
+            "alt": "Fisherwoman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650675.png",
+            "alt": "Hawaii"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650677.png",
+            "alt": "Las vegas"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650679.png",
+            "alt": "Lavender"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650681.png",
+            "alt": "Motorbike"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650683.png",
+            "alt": "Hiking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650685.png",
+            "alt": "Paris"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650687.png",
+            "alt": "Picnic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650689.png",
+            "alt": "Flight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650690.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650691.png",
+            "alt": "Beach"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650692.png",
+            "alt": "Surfing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650693.png",
+            "alt": "Venice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650694.png",
+            "alt": "Yoga"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650695.png",
+            "alt": "Relaxation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650696.png",
+            "alt": "Sun"
+        }
+    ]
+}

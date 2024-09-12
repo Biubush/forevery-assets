@@ -1,0 +1,105 @@
+{
+    "package": "Laboratory Technology Activity Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662321.png",
+            "alt": "Analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662330.png",
+            "alt": "Anatomy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662339.png",
+            "alt": "Atom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662348.png",
+            "alt": "Vehicle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662358.png",
+            "alt": "Chemical reaction"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662367.png",
+            "alt": "DAngerous"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662375.png",
+            "alt": "DNA"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662382.png",
+            "alt": "Electro"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662391.png",
+            "alt": "Geography"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662399.png",
+            "alt": "Cloud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662406.png",
+            "alt": "Math"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662413.png",
+            "alt": "Microchip"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662420.png",
+            "alt": "Microscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662428.png",
+            "alt": "Newton"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662435.png",
+            "alt": "Repair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662446.png",
+            "alt": "Pharmacy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662454.png",
+            "alt": "Plant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662462.png",
+            "alt": "Radiation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662470.png",
+            "alt": "Robotic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662481.png",
+            "alt": "Satellite"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662493.png",
+            "alt": "Scientific"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662504.png",
+            "alt": "Solar Energy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662516.png",
+            "alt": "Telescope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662525.png",
+            "alt": "Virtual Reality"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662533.png",
+            "alt": "Webcam"
+        }
+    ]
+}

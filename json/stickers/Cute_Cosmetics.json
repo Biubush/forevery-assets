@@ -1,0 +1,205 @@
+{
+    "package": "Cute Cosmetics",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496490.png",
+            "alt": "Woman bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496492.png",
+            "alt": "Facial foam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496494.png",
+            "alt": "Makeup-brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496496.png",
+            "alt": "Makeup-brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496498.png",
+            "alt": "Makeup brushes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496500.png",
+            "alt": "Cleanser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496502.png",
+            "alt": "Cleanser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496504.png",
+            "alt": "Perfume spray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496506.png",
+            "alt": "Facial foam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496508.png",
+            "alt": "Facial foam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496510.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496512.png",
+            "alt": "Lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496514.png",
+            "alt": "Lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496516.png",
+            "alt": "Lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496518.png",
+            "alt": "Mascara makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496520.png",
+            "alt": "Hand mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496522.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496524.png",
+            "alt": "Moisturizer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496526.png",
+            "alt": "Nail polish bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496527.png",
+            "alt": "Nail polish bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496528.png",
+            "alt": "Perfume spray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496529.png",
+            "alt": "Perfume spray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496530.png",
+            "alt": "Perfume spray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496531.png",
+            "alt": "Powder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6496/6496532.png",
+            "alt": "Toner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742473.png",
+            "alt": "Cosmetic bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742474.png",
+            "alt": "Face cleanser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742475.png",
+            "alt": "Makeup-brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742476.png",
+            "alt": "Makeup-brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742477.png",
+            "alt": "Makeup brushes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742478.png",
+            "alt": "Cleanser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742479.png",
+            "alt": "Body lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742480.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742481.png",
+            "alt": "Facial foam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742482.png",
+            "alt": "Facial foam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742483.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742484.png",
+            "alt": "Body lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742485.png",
+            "alt": "Body lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742486.png",
+            "alt": "Body lotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742487.png",
+            "alt": "Mascara makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742488.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742489.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742490.png",
+            "alt": "Moisturiser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742491.png",
+            "alt": "Nail polish bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742493.png",
+            "alt": "Nail polish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742495.png",
+            "alt": "Perfume bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742497.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742502.png",
+            "alt": "Perfume bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742505.png",
+            "alt": "Powder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6742/6742508.png",
+            "alt": "Toner"
+        }
+    ]
+}

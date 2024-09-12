@@ -1,0 +1,105 @@
+{
+    "package": "Shopping Groceries Activity Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663412.png",
+            "alt": "Bakery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663418.png",
+            "alt": "Beverage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663429.png",
+            "alt": "Bill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663438.png",
+            "alt": "Butcher"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663447.png",
+            "alt": "Cash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663455.png",
+            "alt": "Cashier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663465.png",
+            "alt": "Close"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663478.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663490.png",
+            "alt": "Fast food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663501.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663510.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663520.png",
+            "alt": "Milk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663530.png",
+            "alt": "Open sign"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663540.png",
+            "alt": "Product"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663549.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663556.png",
+            "alt": "Sales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663564.png",
+            "alt": "Seafood"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663575.png",
+            "alt": "Cashier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663583.png",
+            "alt": "Shopkeeper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663588.png",
+            "alt": "Shopping bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663595.png",
+            "alt": "Shopping basket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663601.png",
+            "alt": "Shopping list"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663614.png",
+            "alt": "Vegetable"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663622.png",
+            "alt": "Voucher"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8663/8663631.png",
+            "alt": "Shopping"
+        }
+    ]
+}

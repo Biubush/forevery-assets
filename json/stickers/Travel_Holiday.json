@@ -1,0 +1,85 @@
+{
+    "package": "Travel Holiday",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434325.png",
+            "alt": "Arrived"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434333.png",
+            "alt": "Backpacker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434338.png",
+            "alt": "Bikini "
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434343.png",
+            "alt": "Camera"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434350.png",
+            "alt": "Camping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434356.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434363.png",
+            "alt": "Direction"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434378.png",
+            "alt": "Flight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434385.png",
+            "alt": "guide"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434390.png",
+            "alt": "Hotel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434394.png",
+            "alt": "Luggage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434397.png",
+            "alt": "Map"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434399.png",
+            "alt": "Passport"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434401.png",
+            "alt": "Picnic basket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434403.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434405.png",
+            "alt": "Surfing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434407.png",
+            "alt": "Take a picture"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434409.png",
+            "alt": "Ticket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434411.png",
+            "alt": "Travel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9434/9434413.png",
+            "alt": "Traveler"
+        }
+    ]
+}

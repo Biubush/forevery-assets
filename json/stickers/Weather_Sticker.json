@@ -1,0 +1,105 @@
+{
+    "package": "Weather Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602814.png",
+            "alt": "Clouds"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602815.png",
+            "alt": "Cloudy night"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602816.png",
+            "alt": "Cold"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602817.png",
+            "alt": "Full moon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602818.png",
+            "alt": "Half Moon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602819.png",
+            "alt": "Heavy rain"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602820.png",
+            "alt": "Hot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602821.png",
+            "alt": "Lightning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602822.png",
+            "alt": "Night"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602823.png",
+            "alt": "Umbrella"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602824.png",
+            "alt": "Rainbow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602825.png",
+            "alt": "Rainy night"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602826.png",
+            "alt": "Snow Cloud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602827.png",
+            "alt": "Strom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602828.png",
+            "alt": "Snows"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602829.png",
+            "alt": "Storm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602830.png",
+            "alt": "Cloudy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602831.png",
+            "alt": "Sunny"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602832.png",
+            "alt": "Sunrise"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602833.png",
+            "alt": "Sunset"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602834.png",
+            "alt": "Sunshine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602835.png",
+            "alt": "Thunderstorm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602836.png",
+            "alt": "Tornado"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602837.png",
+            "alt": "Warm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8602/8602838.png",
+            "alt": "Windy"
+        }
+    ]
+}

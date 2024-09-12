@@ -1,0 +1,581 @@
+{
+    "package": "Wizard",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149017.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149023.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149030.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149036.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149040.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149046.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149049.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149053.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149059.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149064.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149069.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149073.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149079.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149086.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149092.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149097.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149103.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149106.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149112.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5149/5149113.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143896.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143897.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143898.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143899.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143900.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143901.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143902.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143903.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143904.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143905.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143906.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143907.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143908.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143909.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143910.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143911.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143912.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143913.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143914.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7143/7143915.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210501.png",
+            "alt": "Love potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210507.png",
+            "alt": "Magic ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210514.png",
+            "alt": "Magic book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210521.png",
+            "alt": "Magic book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210532.png",
+            "alt": "Magic broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210540.png",
+            "alt": "Magic cape"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210547.png",
+            "alt": "Magic carpet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210556.png",
+            "alt": "Magic potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210564.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210572.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210579.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210587.png",
+            "alt": "Witch hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210595.png",
+            "alt": "Witch hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210604.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210612.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210620.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210628.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210634.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210641.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210647.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210523.png",
+            "alt": "Love potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210534.png",
+            "alt": "Magic ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210542.png",
+            "alt": "Magic book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210550.png",
+            "alt": "Magic book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210558.png",
+            "alt": "Magic broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210566.png",
+            "alt": "Magic cape"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210575.png",
+            "alt": "Magic carpet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210583.png",
+            "alt": "Magic potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210591.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210598.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210607.png",
+            "alt": "Potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210615.png",
+            "alt": "Witch hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210623.png",
+            "alt": "Witch hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210630.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210636.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210643.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210649.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210654.png",
+            "alt": "Witch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210658.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7210/7210662.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750472.png",
+            "alt": "Wizard hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750476.png",
+            "alt": "Mushroom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750479.png",
+            "alt": "Gemstones"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750482.png",
+            "alt": "Cards"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750485.png",
+            "alt": "Key"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750488.png",
+            "alt": "Pumpkin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750491.png",
+            "alt": "Voodoo doll"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750494.png",
+            "alt": "Sword"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750498.png",
+            "alt": "Poison"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750501.png",
+            "alt": "Scissor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750505.png",
+            "alt": "Coffin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750510.png",
+            "alt": "Chest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750513.png",
+            "alt": "Skull"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750518.png",
+            "alt": "Hand mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750522.png",
+            "alt": "Bat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750527.png",
+            "alt": "Boho"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750530.png",
+            "alt": "Stick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750532.png",
+            "alt": "Scale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750538.png",
+            "alt": "Poison"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750542.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750546.png",
+            "alt": "Ouija board"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750549.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750553.png",
+            "alt": "Flying broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7750/7750557.png",
+            "alt": "Magic pot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252570.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252581.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252586.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252592.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252597.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252602.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252607.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252613.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252618.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252623.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252628.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252633.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252638.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252643.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252648.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252653.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252658.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252663.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252669.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10252/10252674.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776799.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776806.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776811.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776818.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776824.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776832.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776839.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776849.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776858.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776868.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776877.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776885.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776895.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776904.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776914.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776925.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776935.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776945.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776955.png",
+            "alt": "Wizard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10776/10776965.png",
+            "alt": "Wizard"
+        }
+    ]
+}

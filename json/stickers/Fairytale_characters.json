@@ -1,0 +1,85 @@
+{
+    "package": "Fairytale characters",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286620.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286622.png",
+            "alt": "Alien"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286624.png",
+            "alt": "Bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286626.png",
+            "alt": "Bunny"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286628.png",
+            "alt": "Dragon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286630.png",
+            "alt": "Fairy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286633.png",
+            "alt": "Fox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286635.png",
+            "alt": "Lion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286637.png",
+            "alt": "Llama"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286639.png",
+            "alt": "Mermaid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286641.png",
+            "alt": "Monster"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286643.png",
+            "alt": "Mouse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286645.png",
+            "alt": "Penguin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286647.png",
+            "alt": "Pirate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286648.png",
+            "alt": "Princess"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286650.png",
+            "alt": "Robot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286652.png",
+            "alt": "Sloth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286654.png",
+            "alt": "Squirrel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286656.png",
+            "alt": "Tiger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7286/7286658.png",
+            "alt": "Unicorn"
+        }
+    ]
+}

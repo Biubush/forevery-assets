@@ -1,0 +1,85 @@
+{
+    "package": "Medical Hospital",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284033.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284035.png",
+            "alt": "Defibrillator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284037.png",
+            "alt": "Dentist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284039.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284041.png",
+            "alt": "Electrocardiogram"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284043.png",
+            "alt": "Emergency"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284045.png",
+            "alt": "Eye test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284047.png",
+            "alt": "Immune"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284049.png",
+            "alt": "Injury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284051.png",
+            "alt": "App"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284053.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284055.png",
+            "alt": "Sick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284057.png",
+            "alt": "Surgeon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284059.png",
+            "alt": "Test tubes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284061.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284063.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284065.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284068.png",
+            "alt": "Walking aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284070.png",
+            "alt": "weight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9284/9284072.png",
+            "alt": "X ray"
+        }
+    ]
+}

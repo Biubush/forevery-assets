@@ -1,0 +1,185 @@
+{
+    "package": "Dinosaur",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020337.png",
+            "alt": "Abduction"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020339.png",
+            "alt": "Outer space"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020345.png",
+            "alt": "Read"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020355.png",
+            "alt": "Censored"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020363.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020371.png",
+            "alt": "Dancing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020377.png",
+            "alt": "Food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020389.png",
+            "alt": "Weight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020407.png",
+            "alt": "In love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020425.png",
+            "alt": "Ice skating"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020450.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020468.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020477.png",
+            "alt": "Meditation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020492.png",
+            "alt": "Monster"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020510.png",
+            "alt": "Sunbathing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020524.png",
+            "alt": "Rocker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020548.png",
+            "alt": "Santa claus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020566.png",
+            "alt": "Scared"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020588.png",
+            "alt": "Selfie stick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5020/5020610.png",
+            "alt": "Sick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485663.png",
+            "alt": "Albertosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485667.png",
+            "alt": "Ankylosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485669.png",
+            "alt": "Apatosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485672.png",
+            "alt": "Baryonyx"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485675.png",
+            "alt": "Basilosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485678.png",
+            "alt": "Brachiosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485681.png",
+            "alt": "Brontosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485684.png",
+            "alt": "Camptosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485687.png",
+            "alt": "Centrosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485690.png",
+            "alt": "Dino"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485694.png",
+            "alt": "Corythosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485697.png",
+            "alt": "Deinonychus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485699.png",
+            "alt": "Dimorphodon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485702.png",
+            "alt": "Diplodocus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485705.png",
+            "alt": "Edmontosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485708.png",
+            "alt": "Ichthyosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485710.png",
+            "alt": "Mosasaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485713.png",
+            "alt": "Ornithocheirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485716.png",
+            "alt": "Parasaurolophus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485719.png",
+            "alt": "Plesiosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485722.png",
+            "alt": "Pterodactyl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485725.png",
+            "alt": "Saltasaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485728.png",
+            "alt": "Spinosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485730.png",
+            "alt": "Stegosaurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8485/8485733.png",
+            "alt": "Tyrannosaurus rex"
+        }
+    ]
+}

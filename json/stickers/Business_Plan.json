@@ -1,0 +1,85 @@
+{
+    "package": "Business Plan",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000785.png",
+            "alt": "Analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000793.png",
+            "alt": "Business plan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000801.png",
+            "alt": "Data analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000809.png",
+            "alt": "Development plan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000817.png",
+            "alt": "Document"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000824.png",
+            "alt": "File and folder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000832.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000840.png",
+            "alt": "Funnel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000848.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000856.png",
+            "alt": "Marketing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000864.png",
+            "alt": "Presentation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000873.png",
+            "alt": "Startup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000881.png",
+            "alt": "Statistic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000888.png",
+            "alt": "Strategy development"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000896.png",
+            "alt": "Success"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000904.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000911.png",
+            "alt": "Team"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000918.png",
+            "alt": "Timeline"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000925.png",
+            "alt": "Training"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6000/6000936.png",
+            "alt": "Workflow"
+        }
+    ]
+}

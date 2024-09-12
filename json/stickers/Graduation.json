@@ -1,0 +1,605 @@
+{
+    "package": "Graduation",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883906.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883907.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883908.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883909.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883910.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883911.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883912.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883913.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883914.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883915.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883916.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883917.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883918.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883921.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883923.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883925.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883927.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883929.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883931.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9883/9883933.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105205.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105206.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105207.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105208.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105209.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105210.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105211.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105212.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105213.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105214.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105215.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105216.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105217.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105218.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105219.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105220.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105221.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105222.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105223.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10105/10105224.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139435.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139436.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139437.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139438.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139439.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139440.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139441.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139442.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139443.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139444.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139445.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139446.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139447.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139448.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139449.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139450.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139451.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139452.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139453.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139454.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431287.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431288.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431289.png",
+            "alt": "Research"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431290.png",
+            "alt": "Abroad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431291.png",
+            "alt": "Donation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431292.png",
+            "alt": "Freedom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431293.png",
+            "alt": "Victory"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431294.png",
+            "alt": "Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431295.png",
+            "alt": "Graduation diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431296.png",
+            "alt": "Academic cap"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431297.png",
+            "alt": "Smart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431298.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431299.png",
+            "alt": "Art"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431300.png",
+            "alt": "Donation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431301.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431302.png",
+            "alt": "Development plan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431303.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431304.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431305.png",
+            "alt": "Party"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431306.png",
+            "alt": "Batch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431307.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431308.png",
+            "alt": "Books"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431309.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431310.png",
+            "alt": "Exam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431311.png",
+            "alt": "Winner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431312.png",
+            "alt": "Career path"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431313.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431314.png",
+            "alt": "Brain"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431315.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431316.png",
+            "alt": "Degree"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431317.png",
+            "alt": "Idea develop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431318.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431319.png",
+            "alt": "Pencil"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431320.png",
+            "alt": "Support"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431321.png",
+            "alt": "Global"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431322.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431323.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431324.png",
+            "alt": "Degree"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431325.png",
+            "alt": "Online education"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431326.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431327.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431328.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431329.png",
+            "alt": "Medal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431330.png",
+            "alt": "Brain"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431331.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431332.png",
+            "alt": "Graduate avatar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431333.png",
+            "alt": "Idea develop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431334.png",
+            "alt": "Guide"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431335.png",
+            "alt": "Wisdom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10431/10431336.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604611.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604612.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604613.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604614.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604615.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604616.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604617.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604618.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604619.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604620.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604621.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604622.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604623.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604624.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604625.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604626.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604627.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604628.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604629.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10604/10604630.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790334.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790335.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790338.png",
+            "alt": "Cheers"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790340.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790342.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790344.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790346.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790349.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790351.png",
+            "alt": "School"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790353.png",
+            "alt": "Medal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790355.png",
+            "alt": "Graduation hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790357.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790359.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790361.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790363.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790365.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790367.png",
+            "alt": "Balloons"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790369.png",
+            "alt": "Flower bouquet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790371.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10790/10790373.png",
+            "alt": "Trophy"
+        }
+    ]
+}

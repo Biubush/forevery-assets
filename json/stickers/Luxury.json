@@ -1,0 +1,325 @@
+{
+    "package": "Luxury",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952956.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952963.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952969.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952974.png",
+            "alt": "Champagne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952978.png",
+            "alt": "Pay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952984.png",
+            "alt": "Online payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952989.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952996.png",
+            "alt": "Rich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953001.png",
+            "alt": "Rich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954407.png",
+            "alt": "Money saving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954412.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954417.png",
+            "alt": "Wallet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954422.png",
+            "alt": "Drinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954430.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954436.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954442.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954447.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954455.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954462.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4954/4954466.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821890.png",
+            "alt": "Crown"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821899.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821908.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821915.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821925.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821933.png",
+            "alt": "Airplane"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821951.png",
+            "alt": "Cash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821958.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821971.png",
+            "alt": "Expend"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821982.png",
+            "alt": "Selfie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5821/5821993.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5822/5822007.png",
+            "alt": "Wedding rings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825553.png",
+            "alt": "Celebration"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825554.png",
+            "alt": "Diamond"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825555.png",
+            "alt": "Watch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825556.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825557.png",
+            "alt": "Champagne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825558.png",
+            "alt": "Jewelry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825559.png",
+            "alt": "Fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5825/5825560.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966531.png",
+            "alt": "Faberge"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966532.png",
+            "alt": "Rich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966533.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966534.png",
+            "alt": "Crown"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966535.png",
+            "alt": "Rich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966536.png",
+            "alt": "Sports car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966537.png",
+            "alt": "Private jet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966538.png",
+            "alt": "Watch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966539.png",
+            "alt": "Necklace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966540.png",
+            "alt": "Rich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966541.png",
+            "alt": "Limousine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966542.png",
+            "alt": "Rich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966543.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966544.png",
+            "alt": "Diamond ring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966545.png",
+            "alt": "Limousine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966546.png",
+            "alt": "Bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966547.png",
+            "alt": "Fountain pen"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966548.png",
+            "alt": "Jacuzzi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966549.png",
+            "alt": "Rich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6966/6966550.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726788.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726789.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726790.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726793.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726795.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726797.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726799.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726801.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726803.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726805.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726808.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726811.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726815.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726817.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726820.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726823.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726826.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726829.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726832.png",
+            "alt": "Luxury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8726/8726835.png",
+            "alt": "Luxury"
+        }
+    ]
+}

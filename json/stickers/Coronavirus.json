@@ -1,0 +1,325 @@
+{
+    "package": "Coronavirus",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647898.png",
+            "alt": "Work from home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647906.png",
+            "alt": "Desinfectant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647910.png",
+            "alt": "Relax"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647912.png",
+            "alt": "Wash your hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647916.png",
+            "alt": "Hand sanitizer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647918.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647921.png",
+            "alt": "Work from home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647924.png",
+            "alt": "Wash your hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647928.png",
+            "alt": "Get well soon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647934.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647937.png",
+            "alt": "Face mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647941.png",
+            "alt": "Work from home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647945.png",
+            "alt": "Stay at home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647947.png",
+            "alt": "Wash your hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647948.png",
+            "alt": "Face mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647952.png",
+            "alt": "Boxing glove"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647954.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647956.png",
+            "alt": "Wash your hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4647/4647957.png",
+            "alt": "Face mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4648/4648670.png",
+            "alt": "Phone call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860757.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860771.png",
+            "alt": "Hydroalcoholic gel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860778.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860784.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860787.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860796.png",
+            "alt": "Videocall"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860806.png",
+            "alt": "Hydroalcoholic gel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860815.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860822.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860833.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860840.png",
+            "alt": "Hydroalcoholic gel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860849.png",
+            "alt": "Face mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860856.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860866.png",
+            "alt": "Delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860872.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860888.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860896.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860913.png",
+            "alt": "Hydroalcoholic gel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860918.png",
+            "alt": "Bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4860/4860929.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891129.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891139.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891152.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891164.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891179.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891193.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891207.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891227.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891239.png",
+            "alt": "Washing hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891251.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891265.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891280.png",
+            "alt": "Salutation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891297.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891314.png",
+            "alt": "Washing hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891330.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891352.png",
+            "alt": "No handshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891370.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891385.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891406.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4891/4891432.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046945.png",
+            "alt": "Video call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046949.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046951.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046953.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046954.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046958.png",
+            "alt": "Healthy lifestyle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046961.png",
+            "alt": "Face mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046965.png",
+            "alt": "Hand sanitizer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046967.png",
+            "alt": "Soap"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046970.png",
+            "alt": "Protection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046974.png",
+            "alt": "Epidemic prevention"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046978.png",
+            "alt": "Keep distance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046981.png",
+            "alt": "Coronavirus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046984.png",
+            "alt": "Face mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046986.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046988.png",
+            "alt": "Vitamin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046993.png",
+            "alt": "News"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046996.png",
+            "alt": "Face mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5046/5046997.png",
+            "alt": "Washing hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5047/5047000.png",
+            "alt": "Disinfect"
+        }
+    ]
+}

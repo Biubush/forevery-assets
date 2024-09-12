@@ -1,0 +1,85 @@
+{
+    "package": "Emojis",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096598.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096600.png",
+            "alt": "Laughing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096603.png",
+            "alt": "In love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096606.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096608.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096610.png",
+            "alt": "Shy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096612.png",
+            "alt": "Surprised"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096613.png",
+            "alt": "Doubt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096615.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096617.png",
+            "alt": "Scared"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096618.png",
+            "alt": "Warning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096619.png",
+            "alt": "Like"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096620.png",
+            "alt": "Laughing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096621.png",
+            "alt": "Mad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096622.png",
+            "alt": "Loser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096623.png",
+            "alt": "Excited"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096624.png",
+            "alt": "Devil"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096625.png",
+            "alt": "Angel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096626.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9096/9096627.png",
+            "alt": "In love"
+        }
+    ]
+}

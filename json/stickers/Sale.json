@@ -1,0 +1,205 @@
+{
+    "package": "Sale",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257059.png",
+            "alt": "Sale time"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257060.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257061.png",
+            "alt": "Cool off"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257062.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257063.png",
+            "alt": "Save"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257064.png",
+            "alt": "Call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257065.png",
+            "alt": "Hot sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257066.png",
+            "alt": "Global"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257067.png",
+            "alt": "Bell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257068.png",
+            "alt": "Rocket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257069.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257070.png",
+            "alt": "For sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257071.png",
+            "alt": "Premium"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257072.png",
+            "alt": "Percent tag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257073.png",
+            "alt": "Hot air ballon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257076.png",
+            "alt": "30 percent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257078.png",
+            "alt": "Live"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257080.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257082.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257084.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257086.png",
+            "alt": "Relief"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257088.png",
+            "alt": "Summer sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257090.png",
+            "alt": "Be quiet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257092.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257094.png",
+            "alt": "Sale date"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257096.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257100.png",
+            "alt": "Discount bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257102.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257105.png",
+            "alt": "Discount tag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257107.png",
+            "alt": "Last chance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257110.png",
+            "alt": "Headphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257113.png",
+            "alt": "Online sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257115.png",
+            "alt": "Location"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257118.png",
+            "alt": "Pizza"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257121.png",
+            "alt": "Attraction"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257123.png",
+            "alt": "Lock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257126.png",
+            "alt": "Card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257129.png",
+            "alt": "Price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257132.png",
+            "alt": "50 percent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257134.png",
+            "alt": "Strategy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257137.png",
+            "alt": "Trolley"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257140.png",
+            "alt": "Cash back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257142.png",
+            "alt": "Plant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257145.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257148.png",
+            "alt": "Best price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257150.png",
+            "alt": "Discount badge"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257153.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257156.png",
+            "alt": "Ring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257158.png",
+            "alt": "Money bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11257/11257161.png",
+            "alt": "Discount"
+        }
+    ]
+}

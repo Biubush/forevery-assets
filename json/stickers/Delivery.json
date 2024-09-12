@@ -1,0 +1,85 @@
+{
+    "package": "Delivery",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946928.png",
+            "alt": "Box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946930.png",
+            "alt": "Telephone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946934.png",
+            "alt": "Milkshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946938.png",
+            "alt": "Phone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946942.png",
+            "alt": "Burger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946946.png",
+            "alt": "Telephone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946950.png",
+            "alt": "Location"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946953.png",
+            "alt": "Pizza"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946955.png",
+            "alt": "Spoon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946958.png",
+            "alt": "Delivery bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946961.png",
+            "alt": "Waiter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946965.png",
+            "alt": "Fork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946969.png",
+            "alt": "Knife"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946971.png",
+            "alt": "Box check"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946974.png",
+            "alt": "Laptop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946978.png",
+            "alt": "Fork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946981.png",
+            "alt": "Smartphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946984.png",
+            "alt": "Box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946987.png",
+            "alt": "Pc"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10946/10946989.png",
+            "alt": "Box"
+        }
+    ]
+}

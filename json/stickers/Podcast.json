@@ -1,0 +1,245 @@
+{
+    "package": "Podcast",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920133.png",
+            "alt": "On air"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920134.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920135.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920136.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920137.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920138.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920139.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920141.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920143.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920145.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920147.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920148.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920150.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920152.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920155.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920157.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920159.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920161.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920163.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6920/6920165.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465816.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465821.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465828.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465834.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465840.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465845.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465850.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465853.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465858.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465863.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465868.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465875.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465881.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465886.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465891.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465897.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465903.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465909.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465914.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7465/7465920.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818321.png",
+            "alt": "Advertising"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818323.png",
+            "alt": "Art"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818325.png",
+            "alt": "Asmr"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818326.png",
+            "alt": "Live"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818327.png",
+            "alt": "Download"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818328.png",
+            "alt": "Drama"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818329.png",
+            "alt": "Editing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818330.png",
+            "alt": "Education"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818331.png",
+            "alt": "Favourite"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818332.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818333.png",
+            "alt": "Food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818334.png",
+            "alt": "Gamer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818335.png",
+            "alt": "Health"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818336.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818337.png",
+            "alt": "Notification"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818338.png",
+            "alt": "Relax"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818339.png",
+            "alt": "Religion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818340.png",
+            "alt": "Speaker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818341.png",
+            "alt": "Sport"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818342.png",
+            "alt": "Tired"
+        }
+    ]
+}

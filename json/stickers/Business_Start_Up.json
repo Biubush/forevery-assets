@@ -1,0 +1,85 @@
+{
+    "package": "Business Start Up",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394699.png",
+            "alt": "Briefcase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394701.png",
+            "alt": "Plan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394704.png",
+            "alt": "Schedule"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394706.png",
+            "alt": "Deal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394708.png",
+            "alt": "Document"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394710.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394714.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394717.png",
+            "alt": "Increase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394720.png",
+            "alt": "Lazy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394723.png",
+            "alt": "Legal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394727.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394730.png",
+            "alt": "Megaphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394733.png",
+            "alt": "Presentation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394736.png",
+            "alt": "Research"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394739.png",
+            "alt": "Risk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394742.png",
+            "alt": "Rocket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394745.png",
+            "alt": "Stealing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394748.png",
+            "alt": "Time to work"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394751.png",
+            "alt": "Timer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394754.png",
+            "alt": "To do list"
+        }
+    ]
+}

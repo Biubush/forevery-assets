@@ -1,0 +1,245 @@
+{
+    "package": "Approved and rejected",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933399.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933400.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933401.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933402.png",
+            "alt": "Decision making"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933403.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933404.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933405.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933406.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933407.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933408.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933409.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933410.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933411.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933412.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933413.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933414.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933415.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933416.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933417.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933418.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343201.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343207.png",
+            "alt": "Accepted"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343213.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343222.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343231.png",
+            "alt": "Thumb down"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343240.png",
+            "alt": "Acces denied"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343248.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343256.png",
+            "alt": "Thumb up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343262.png",
+            "alt": "Password"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343271.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343278.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343287.png",
+            "alt": "Robot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343295.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343303.png",
+            "alt": "Accepted"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343311.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343319.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343327.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343335.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343344.png",
+            "alt": "Accepted"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12343/12343353.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597391.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597392.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597393.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597394.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597395.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597396.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597397.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597398.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597399.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597400.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597401.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597402.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597403.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597404.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597405.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597406.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597407.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597408.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597409.png",
+            "alt": "Rejected"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12597/12597410.png",
+            "alt": "Rejected"
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "package": "Team Spirit",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010865.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010867.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010869.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010871.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010873.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010877.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010880.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010885.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010889.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010893.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010897.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010901.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010905.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010909.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010913.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010916.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010920.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010924.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010930.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11010/11010937.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199541.png",
+            "alt": "Brainstorming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199544.png",
+            "alt": "Collaboration"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199548.png",
+            "alt": "High five"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199552.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199556.png",
+            "alt": "High five"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199559.png",
+            "alt": "Team work"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199563.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199567.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199571.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199575.png",
+            "alt": "Creativity"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199579.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199583.png",
+            "alt": "Team work"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199587.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199591.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199594.png",
+            "alt": "Puzzle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199600.png",
+            "alt": "Motivation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199606.png",
+            "alt": "Teamwork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199611.png",
+            "alt": "Teamwork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199614.png",
+            "alt": "Goals"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11199/11199618.png",
+            "alt": "Team work"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621981.png",
+            "alt": "Teamwork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621982.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621983.png",
+            "alt": "Handshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621984.png",
+            "alt": "Teamwork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621985.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621986.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621987.png",
+            "alt": "Teamwork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621988.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621989.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621990.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621991.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621992.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621993.png",
+            "alt": "Teamwork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621994.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621995.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621996.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621997.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621998.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11621/11621999.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11622/11622000.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982328.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982329.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982330.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982331.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982332.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982333.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982334.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982335.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982336.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982337.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982338.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982339.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982340.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982341.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982342.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982343.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982344.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982345.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982346.png",
+            "alt": "Team spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14982/14982347.png",
+            "alt": "Team spirit"
+        }
+    ]
+}

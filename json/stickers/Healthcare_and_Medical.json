@@ -1,0 +1,85 @@
+{
+    "package": "Healthcare and Medical",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181878.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181879.png",
+            "alt": "Blood test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181880.png",
+            "alt": "Telemedicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181881.png",
+            "alt": "Dentist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181882.png",
+            "alt": "Diet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181883.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181884.png",
+            "alt": "Eye test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181885.png",
+            "alt": "First aid kit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181886.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181887.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181888.png",
+            "alt": "Immune"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181889.png",
+            "alt": "Infusion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181890.png",
+            "alt": "Medical report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181891.png",
+            "alt": "Medical team"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181892.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181895.png",
+            "alt": "Nurse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181899.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181904.png",
+            "alt": "Vaccination"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181908.png",
+            "alt": "Virus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6181/6181912.png",
+            "alt": "X-ray"
+        }
+    ]
+}

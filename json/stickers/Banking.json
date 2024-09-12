@@ -1,0 +1,85 @@
+{
+    "package": "Banking",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590716.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590725.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590733.png",
+            "alt": "Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590744.png",
+            "alt": "Van"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590754.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590764.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590773.png",
+            "alt": "Infographic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590782.png",
+            "alt": "Online banking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590790.png",
+            "alt": "Cheque"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590797.png",
+            "alt": "Scale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590801.png",
+            "alt": "Exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590808.png",
+            "alt": "Auction"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590815.png",
+            "alt": "Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590822.png",
+            "alt": "House"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590830.png",
+            "alt": "Time"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590836.png",
+            "alt": "Search"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590843.png",
+            "alt": "Exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590849.png",
+            "alt": "Safebox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590856.png",
+            "alt": "Safebox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11590/11590862.png",
+            "alt": "Money bag"
+        }
+    ]
+}

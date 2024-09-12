@@ -1,0 +1,205 @@
+{
+    "package": "Congratulations Stickers",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797184.png",
+            "alt": "1st place"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797191.png",
+            "alt": "First"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797198.png",
+            "alt": "Alphabetical"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797204.png",
+            "alt": "Apple"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797211.png",
+            "alt": "Appreciation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797219.png",
+            "alt": "Palette"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797225.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797232.png",
+            "alt": "Cool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797240.png",
+            "alt": "Be positive"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797247.png",
+            "alt": "Beat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797253.png",
+            "alt": "Beat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797260.png",
+            "alt": "Beer mug"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797267.png",
+            "alt": "Pencile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797274.png",
+            "alt": "Burger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797281.png",
+            "alt": "Competition"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797288.png",
+            "alt": "Congrats"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797294.png",
+            "alt": "Congratulation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797301.png",
+            "alt": "Cool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797308.png",
+            "alt": "Label"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797315.png",
+            "alt": "Cool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797321.png",
+            "alt": "Crystal ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797327.png",
+            "alt": "Good"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797333.png",
+            "alt": "Dartboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797339.png",
+            "alt": "Diamond"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797345.png",
+            "alt": "Digital camera"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797351.png",
+            "alt": "Doing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797357.png",
+            "alt": "Stop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797363.png",
+            "alt": "Excellent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797369.png",
+            "alt": "Excellent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797374.png",
+            "alt": "Firework"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797379.png",
+            "alt": "Flagpole"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797384.png",
+            "alt": "Flying saucer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797389.png",
+            "alt": "Grade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797394.png",
+            "alt": "Good"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797399.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797404.png",
+            "alt": "Good"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797409.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797414.png",
+            "alt": "Great"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797419.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797424.png",
+            "alt": "Highlighter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797429.png",
+            "alt": "Good"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797433.png",
+            "alt": "Juice can"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797437.png",
+            "alt": "Keep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797441.png",
+            "alt": "Keep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797447.png",
+            "alt": "Celebrate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797453.png",
+            "alt": "Letter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797458.png",
+            "alt": "Like"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797462.png",
+            "alt": "Love potion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797467.png",
+            "alt": "Love target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/16797/16797472.png",
+            "alt": "Lovely"
+        }
+    ]
+}

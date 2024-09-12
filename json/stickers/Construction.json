@@ -1,0 +1,85 @@
+{
+    "package": "Construction",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818526.png",
+            "alt": "Blueprint"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818528.png",
+            "alt": "Brickwall"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818530.png",
+            "alt": "Bucket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818532.png",
+            "alt": "Chainsaw"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818534.png",
+            "alt": "Mixer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818536.png",
+            "alt": "Contract"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818538.png",
+            "alt": "crane"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818540.png",
+            "alt": "Digger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818542.png",
+            "alt": "Girder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818544.png",
+            "alt": "hammer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818546.png",
+            "alt": "Hard hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818548.png",
+            "alt": "Geodetic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818551.png",
+            "alt": "Measuring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818553.png",
+            "alt": "Paint"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818555.png",
+            "alt": "Pickaxe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818557.png",
+            "alt": "Plastering"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818559.png",
+            "alt": "Plumb bob"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818561.png",
+            "alt": "Plumbing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818563.png",
+            "alt": "Scissor lift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9818/9818568.png",
+            "alt": "Wheelbarrow"
+        }
+    ]
+}

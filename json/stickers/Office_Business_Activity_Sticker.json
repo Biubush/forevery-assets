@@ -1,0 +1,105 @@
+{
+    "package": "Office Business Activity Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662443.png",
+            "alt": "Analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662450.png",
+            "alt": "Approved"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662457.png",
+            "alt": "Communication"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662465.png",
+            "alt": "Copywriting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662475.png",
+            "alt": "Ecommerce"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662484.png",
+            "alt": "Editor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662494.png",
+            "alt": "Graph"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662503.png",
+            "alt": "Marketing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662513.png",
+            "alt": "Message"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662522.png",
+            "alt": "Optimization"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662529.png",
+            "alt": "Option"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662537.png",
+            "alt": "Planning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662544.png",
+            "alt": "Process"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662551.png",
+            "alt": "Profile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662557.png",
+            "alt": "Programming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662564.png",
+            "alt": "Protection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662571.png",
+            "alt": "Repair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662578.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662585.png",
+            "alt": "Research"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662591.png",
+            "alt": "Service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662598.png",
+            "alt": "Social media"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662607.png",
+            "alt": "Solution"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662615.png",
+            "alt": "User"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662622.png",
+            "alt": "Video content"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662636.png",
+            "alt": "Warning"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Cat emojis",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176653.png",
+            "alt": "Sleepy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176661.png",
+            "alt": "Surprised"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176669.png",
+            "alt": "Suspicious"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176677.png",
+            "alt": "Wink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176687.png",
+            "alt": "Annoyed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176696.png",
+            "alt": "Scared"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176709.png",
+            "alt": "Disgusted"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176720.png",
+            "alt": "Cough"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176731.png",
+            "alt": "Cool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176741.png",
+            "alt": "Pirate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176751.png",
+            "alt": "Sleeping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176761.png",
+            "alt": "Surprise"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176771.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176782.png",
+            "alt": "Scared"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176792.png",
+            "alt": "Playful"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176802.png",
+            "alt": "Smart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176812.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176823.png",
+            "alt": "Rainbow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176833.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13176/13176844.png",
+            "alt": "Happy"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Esport",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150956.png",
+            "alt": "Banned"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150957.png",
+            "alt": "sword"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150958.png",
+            "alt": "Console"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150961.png",
+            "alt": "Contract"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150963.png",
+            "alt": "Disqualified"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150966.png",
+            "alt": "Fighting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150969.png",
+            "alt": "Developer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150972.png",
+            "alt": "Chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150975.png",
+            "alt": "Inventory"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150978.png",
+            "alt": "Mobile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150980.png",
+            "alt": "Hardware"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150983.png",
+            "alt": "Nerf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150986.png",
+            "alt": "Noob"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150989.png",
+            "alt": "rank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150991.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150994.png",
+            "alt": "Streaming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10150/10150997.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10151/10151000.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10151/10151003.png",
+            "alt": "Vr"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10151/10151006.png",
+            "alt": "Weapon"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "package": "Kitchen",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347180.png",
+            "alt": "Cutting board"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347203.png",
+            "alt": "Spatula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347225.png",
+            "alt": "Cheese grater"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347247.png",
+            "alt": "Weigh scale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347269.png",
+            "alt": "Cooking pot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347293.png",
+            "alt": "Rolling pin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347316.png",
+            "alt": "Chef hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347339.png",
+            "alt": "Kitchen glove"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347362.png",
+            "alt": "Toaster"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347385.png",
+            "alt": "Apron"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347407.png",
+            "alt": "Knife"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347429.png",
+            "alt": "Blender"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347452.png",
+            "alt": "Microwave"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347475.png",
+            "alt": "Tray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347497.png",
+            "alt": "Blender"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347519.png",
+            "alt": "Rice cooker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347537.png",
+            "alt": "Knife"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347557.png",
+            "alt": "Spatula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347573.png",
+            "alt": "Frying pan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347588.png",
+            "alt": "Spatula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347601.png",
+            "alt": "Salt container"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347613.png",
+            "alt": "Cooking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347625.png",
+            "alt": "Scissors"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6347/6347637.png",
+            "alt": "Teapot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457267.png",
+            "alt": "Spoon and fork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457273.png",
+            "alt": "Spatula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457281.png",
+            "alt": "Spatula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457289.png",
+            "alt": "Knife"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457296.png",
+            "alt": "Dome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457303.png",
+            "alt": "Barbecue fork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457310.png",
+            "alt": "Knife"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457317.png",
+            "alt": "Rolling pin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457324.png",
+            "alt": "Microwave oven"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457332.png",
+            "alt": "Cheese grater"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457339.png",
+            "alt": "Chef hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457344.png",
+            "alt": "Pastry brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457350.png",
+            "alt": "Cutting board"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457357.png",
+            "alt": "Refrigerator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457362.png",
+            "alt": "Kitchen scale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457368.png",
+            "alt": "Kitchen glove"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457374.png",
+            "alt": "Oven"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457379.png",
+            "alt": "Ladle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457382.png",
+            "alt": "Juicer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457388.png",
+            "alt": "Whisk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457394.png",
+            "alt": "Pot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457400.png",
+            "alt": "Electric kettle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457405.png",
+            "alt": "Toaster"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7457/7457409.png",
+            "alt": "Apron"
+        }
+    ]
+}

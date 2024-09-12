@@ -1,0 +1,245 @@
+{
+    "package": "Fashion Shop",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356875.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356876.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356877.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356878.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356879.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356880.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356881.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356882.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356883.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356884.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356885.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356886.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356887.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356888.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356889.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356890.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356891.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356892.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356893.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7356/7356894.png",
+            "alt": "Shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430549.png",
+            "alt": "Earrings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430550.png",
+            "alt": "Boots"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430551.png",
+            "alt": "Shopping bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430552.png",
+            "alt": "Bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430553.png",
+            "alt": "Coat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430554.png",
+            "alt": "Earrings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430555.png",
+            "alt": "Shorts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430556.png",
+            "alt": "Bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430557.png",
+            "alt": "Sunglasses"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430558.png",
+            "alt": "Parfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430559.png",
+            "alt": "Shoes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430560.png",
+            "alt": "Jacket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430561.png",
+            "alt": "Tshirt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430562.png",
+            "alt": "Shopping bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430563.png",
+            "alt": "Boots"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430564.png",
+            "alt": "Dress"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430565.png",
+            "alt": "Tshirt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430566.png",
+            "alt": "High heels"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430567.png",
+            "alt": "Hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7430/7430568.png",
+            "alt": "Top"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438928.png",
+            "alt": "Try"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438929.png",
+            "alt": "Shop window"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438930.png",
+            "alt": "Mannequin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438931.png",
+            "alt": "Mannequin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438932.png",
+            "alt": "Mannequin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438933.png",
+            "alt": "Mannequin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438934.png",
+            "alt": "Fitting room"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438935.png",
+            "alt": "Try"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438936.png",
+            "alt": "Shop window"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438937.png",
+            "alt": "Mannequin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438938.png",
+            "alt": "Shop window"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438939.png",
+            "alt": "Jacket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438940.png",
+            "alt": "Shop window"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438941.png",
+            "alt": "Shop window"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438942.png",
+            "alt": "Mannequin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438943.png",
+            "alt": "Try"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438944.png",
+            "alt": "Clothes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438945.png",
+            "alt": "Try"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438946.png",
+            "alt": "Eyeglasses"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7438/7438947.png",
+            "alt": "Mannequin"
+        }
+    ]
+}

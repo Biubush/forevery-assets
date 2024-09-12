@@ -1,0 +1,565 @@
+{
+    "package": "Sale discount",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459410.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459411.png",
+            "alt": "Final sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459413.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459416.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459418.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459420.png",
+            "alt": "Best offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459422.png",
+            "alt": "Best choice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459424.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459427.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459428.png",
+            "alt": "Offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459430.png",
+            "alt": "Offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459432.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459435.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459437.png",
+            "alt": "For sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459439.png",
+            "alt": "Best price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459441.png",
+            "alt": "Offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459443.png",
+            "alt": "Buy now"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459445.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459448.png",
+            "alt": "Offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7459/7459450.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929965.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929966.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929967.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929968.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929969.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929970.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929971.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929972.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929973.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929974.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929975.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929976.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929977.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929978.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929979.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929980.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929981.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929982.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929983.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7929/7929984.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068705.png",
+            "alt": "Best choice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068706.png",
+            "alt": "Best offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068707.png",
+            "alt": "Best price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068708.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068709.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068714.png",
+            "alt": "Buy now"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068719.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068722.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068725.png",
+            "alt": "Final sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068729.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068733.png",
+            "alt": "For sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068737.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068740.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068748.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068752.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068756.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068760.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068763.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068768.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068772.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068711.png",
+            "alt": "Best choice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068717.png",
+            "alt": "Best offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068721.png",
+            "alt": "Best price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068724.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068728.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068732.png",
+            "alt": "Buy now"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068736.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068741.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068744.png",
+            "alt": "Final sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068747.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068751.png",
+            "alt": "For sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068755.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068759.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068764.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068767.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068771.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068775.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068778.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068782.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068785.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068713.png",
+            "alt": "Best choice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068718.png",
+            "alt": "Best offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068726.png",
+            "alt": "Best price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068730.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068734.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068738.png",
+            "alt": "Buy now"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068742.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068745.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068749.png",
+            "alt": "Final sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068754.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068758.png",
+            "alt": "For sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068762.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068766.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068770.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068774.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068777.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068780.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068781.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068784.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068787.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068716.png",
+            "alt": "Best choice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068720.png",
+            "alt": "Best offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068723.png",
+            "alt": "Best price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068727.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068731.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068735.png",
+            "alt": "Buy now"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068739.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068743.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068746.png",
+            "alt": "Final sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068750.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068753.png",
+            "alt": "For sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068757.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068761.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068765.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068769.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068773.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068776.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068779.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068783.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8068/8068786.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691555.png",
+            "alt": "Best choice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691561.png",
+            "alt": "Best offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691568.png",
+            "alt": "Best price"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691574.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691579.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691585.png",
+            "alt": "Buy now"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691589.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691593.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691597.png",
+            "alt": "Final sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691600.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691603.png",
+            "alt": "For sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691606.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691608.png",
+            "alt": "Limited offer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691610.png",
+            "alt": "Mega sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691611.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691613.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691615.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691616.png",
+            "alt": "Super sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691617.png",
+            "alt": "Sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8691/8691618.png",
+            "alt": "Sale"
+        }
+    ]
+}

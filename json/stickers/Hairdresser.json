@@ -1,0 +1,245 @@
+{
+    "package": "Hairdresser",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212272.png",
+            "alt": "Hairspray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212274.png",
+            "alt": "Hair dye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212277.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212280.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212283.png",
+            "alt": "Hair dye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212286.png",
+            "alt": "Hair dye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212289.png",
+            "alt": "Hair color sample"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212292.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212295.png",
+            "alt": "Hair dye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212298.png",
+            "alt": "Cut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212301.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212304.png",
+            "alt": "Hair dye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212307.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212310.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212313.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212316.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212318.png",
+            "alt": "Hair spray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212319.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212320.png",
+            "alt": "Cut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212323.png",
+            "alt": "Hair curler"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212425.png",
+            "alt": "Hair salon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212426.png",
+            "alt": "Brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212427.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212428.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212429.png",
+            "alt": "Hair straightener"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212430.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212431.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212432.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212433.png",
+            "alt": "Hair salon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212434.png",
+            "alt": "Electric razor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212435.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212436.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212437.png",
+            "alt": "Hair straightener"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212438.png",
+            "alt": "Comb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212439.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212440.png",
+            "alt": "Shampoo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212441.png",
+            "alt": "Hair salon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212442.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212443.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12212/12212444.png",
+            "alt": "Hair rollers"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244153.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244154.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244155.png",
+            "alt": "Hair straightener"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244156.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244157.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244158.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244159.png",
+            "alt": "Razor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244160.png",
+            "alt": "Hair straightener"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244161.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244162.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244163.png",
+            "alt": "Scissors"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244164.png",
+            "alt": "Hair clip"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244165.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244166.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244167.png",
+            "alt": "Shampoo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244168.png",
+            "alt": "Comb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244169.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244170.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244171.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12244/12244172.png",
+            "alt": "Spray"
+        }
+    ]
+}

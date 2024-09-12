@@ -1,0 +1,565 @@
+{
+    "package": "University",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583421.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583422.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583423.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583424.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583425.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583426.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583427.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583428.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583429.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583430.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583431.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583432.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583433.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583434.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583435.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583436.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583437.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583438.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583439.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12583/12583440.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730683.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730684.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730685.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730686.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730687.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730688.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730689.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730690.png",
+            "alt": "Player"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730691.png",
+            "alt": "Shield"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730692.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730693.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730694.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730695.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730696.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730697.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730698.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730699.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730700.png",
+            "alt": "Cheerleader"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730701.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12730/12730702.png",
+            "alt": "Mascot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749967.png",
+            "alt": "Teacher"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749969.png",
+            "alt": "Online education"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749971.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749974.png",
+            "alt": "Lunch box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749977.png",
+            "alt": "Architecture"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749980.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749982.png",
+            "alt": "Id card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749986.png",
+            "alt": "Learning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749989.png",
+            "alt": "Speech"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749992.png",
+            "alt": "Calendar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749994.png",
+            "alt": "Professor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749996.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12749/12749998.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12750/12750000.png",
+            "alt": "Books"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12750/12750002.png",
+            "alt": "Lab"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12750/12750004.png",
+            "alt": "Highlight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12750/12750006.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12750/12750008.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12750/12750009.png",
+            "alt": "Calculator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12750/12750010.png",
+            "alt": "Exam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974270.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974279.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974291.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974303.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974314.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974323.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974338.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974348.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974357.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974368.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974378.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974387.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974395.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974408.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974418.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974427.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974434.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974443.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974455.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12974/12974463.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001604.png",
+            "alt": "Student card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001606.png",
+            "alt": "Grade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001608.png",
+            "alt": "Speech"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001610.png",
+            "alt": "Online exam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001612.png",
+            "alt": "Geometry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001617.png",
+            "alt": "Teacher"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001620.png",
+            "alt": "Underline"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001625.png",
+            "alt": "Study"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001632.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001638.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001644.png",
+            "alt": "Chemistry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001650.png",
+            "alt": "Write"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001656.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001662.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001668.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001674.png",
+            "alt": "Teacher"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001689.png",
+            "alt": "Lunch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001698.png",
+            "alt": "Schedule"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001713.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13001/13001722.png",
+            "alt": "Algebra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115485.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115486.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115487.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115488.png",
+            "alt": "Highlighter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115489.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115490.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115491.png",
+            "alt": "Graduation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115492.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115493.png",
+            "alt": "Speech"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115494.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115495.png",
+            "alt": "Schedule"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115496.png",
+            "alt": "Calculator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115497.png",
+            "alt": "Language"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115498.png",
+            "alt": "Teacher"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115499.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115500.png",
+            "alt": "Lab"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115501.png",
+            "alt": "Teacher"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115502.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115503.png",
+            "alt": "Lunch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13115/13115504.png",
+            "alt": "University"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526583.png",
+            "alt": "Physics"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526584.png",
+            "alt": "Graduated"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526585.png",
+            "alt": "Painting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526586.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526587.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526588.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526589.png",
+            "alt": "Law"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526590.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526591.png",
+            "alt": "Business"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526592.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526593.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526594.png",
+            "alt": "Graduated"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526595.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526596.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526597.png",
+            "alt": "Diploma"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526598.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526599.png",
+            "alt": "Books"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526600.png",
+            "alt": "Graduated"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526601.png",
+            "alt": "Student"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13526/13526602.png",
+            "alt": "University"
+        }
+    ]
+}

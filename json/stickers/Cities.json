@@ -1,0 +1,165 @@
+{
+    "package": "Cities",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695935.png",
+            "alt": "Zurich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695936.png",
+            "alt": "Toronto"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695937.png",
+            "alt": "Hamburg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695938.png",
+            "alt": "City"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695939.png",
+            "alt": "Japan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695940.png",
+            "alt": "Hong kong"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695941.png",
+            "alt": "Osaka"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695942.png",
+            "alt": "City"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695943.png",
+            "alt": "Orlando"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695948.png",
+            "alt": "Genoa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695950.png",
+            "alt": "Sao paulo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695953.png",
+            "alt": "Vienna"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695956.png",
+            "alt": "Bogotá"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695958.png",
+            "alt": "Lima"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695961.png",
+            "alt": "Mexico"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695964.png",
+            "alt": "Chile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695966.png",
+            "alt": "Los angeles"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695969.png",
+            "alt": "Valencia"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695972.png",
+            "alt": "Monterrey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9695/9695974.png",
+            "alt": "Melbourne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862431.png",
+            "alt": "Buenos aires"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862434.png",
+            "alt": "Las vegas"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862436.png",
+            "alt": "New York"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862438.png",
+            "alt": "Miami"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862440.png",
+            "alt": "Amsterdam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862442.png",
+            "alt": "Tokyo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862444.png",
+            "alt": "London"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862446.png",
+            "alt": "Madrid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862448.png",
+            "alt": "Barcelona"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862450.png",
+            "alt": "Paris"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862452.png",
+            "alt": "Rome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862454.png",
+            "alt": "Sidney"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862455.png",
+            "alt": "Berlin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862457.png",
+            "alt": "Kyoto"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862459.png",
+            "alt": "Rio de janeiro"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862461.png",
+            "alt": "Moscow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862463.png",
+            "alt": "Ottawa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862465.png",
+            "alt": "Pisa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862467.png",
+            "alt": "Athens"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9862/9862469.png",
+            "alt": "Chicago"
+        }
+    ]
+}

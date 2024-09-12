@@ -1,0 +1,85 @@
+{
+    "package": "Medical Stickers",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037606.png",
+            "alt": "Blood test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037607.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037610.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037612.png",
+            "alt": "Dental"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037614.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037616.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037618.png",
+            "alt": "Immune"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037620.png",
+            "alt": "Drug"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037622.png",
+            "alt": "Eye test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037624.png",
+            "alt": "Medical report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037626.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037628.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037630.png",
+            "alt": "First aid box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037632.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037633.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037635.png",
+            "alt": "Band aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037637.png",
+            "alt": "Capsule"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037640.png",
+            "alt": "Injection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037642.png",
+            "alt": "Syrup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8037/8037644.png",
+            "alt": "Cardiology"
+        }
+    ]
+}

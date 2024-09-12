@@ -1,0 +1,85 @@
+{
+    "package": "Cats and dogs",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977043.png",
+            "alt": "Dogs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977044.png",
+            "alt": "Pets"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977045.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977046.png",
+            "alt": "Meow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977047.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977048.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977049.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977050.png",
+            "alt": "Puppy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977051.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977060.png",
+            "alt": "Kisses"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977065.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977072.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977075.png",
+            "alt": "Purr"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977080.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977084.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977089.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977094.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977099.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977104.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12977/12977109.png",
+            "alt": "Bark"
+        }
+    ]
+}

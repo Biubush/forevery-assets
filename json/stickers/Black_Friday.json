@@ -1,0 +1,485 @@
+{
+    "package": "Black friday",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925623.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925632.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925643.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925653.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925661.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925670.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925681.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925691.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925701.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925710.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925719.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925728.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925737.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925745.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925753.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925762.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925771.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925780.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925788.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925799.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925678.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925689.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925700.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925711.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925720.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925730.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925740.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925750.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925759.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925769.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925779.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925789.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925801.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925810.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925819.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925828.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925841.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925854.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925864.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925875.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925791.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925800.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925809.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925818.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925827.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925838.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925846.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925857.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925867.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925877.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925886.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925894.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925902.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925910.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925916.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925924.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925931.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925939.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925947.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925956.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925831.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925840.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925851.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925860.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925870.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925879.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925887.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925895.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925903.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925911.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925919.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925927.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925935.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925942.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925952.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925960.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925968.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925975.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925982.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925990.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925850.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925862.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925872.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925883.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925893.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925901.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925908.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925917.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925925.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925933.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925941.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925951.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925961.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925969.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925977.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925985.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8925/8925994.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8926/8926000.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8926/8926006.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8926/8926010.png",
+            "alt": "Black Friday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679327.png",
+            "alt": "Cash register"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679336.png",
+            "alt": "Cosmetic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679343.png",
+            "alt": "Delivery box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679351.png",
+            "alt": "Delivery car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679357.png",
+            "alt": "Electronic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679364.png",
+            "alt": "Fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679369.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679374.png",
+            "alt": "Groceries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679380.png",
+            "alt": "Hurry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679386.png",
+            "alt": "Big sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679389.png",
+            "alt": "Out of stock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679393.png",
+            "alt": "Payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679397.png",
+            "alt": "Premium quality"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679402.png",
+            "alt": "Price tag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679407.png",
+            "alt": "Protection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679413.png",
+            "alt": "Scale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679422.png",
+            "alt": "Empty cart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679428.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679432.png",
+            "alt": "No money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12679/12679441.png",
+            "alt": "List"
+        }
+    ]
+}

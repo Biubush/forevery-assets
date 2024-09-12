@@ -1,0 +1,85 @@
+{
+    "package": "Entrepreneurship",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299523.png",
+            "alt": "Branding"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299544.png",
+            "alt": "Business plan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299560.png",
+            "alt": "Risk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299584.png",
+            "alt": "Ecommerce"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299605.png",
+            "alt": "Hired"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299625.png",
+            "alt": "Legal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299646.png",
+            "alt": "Logistic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299670.png",
+            "alt": "Loss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299693.png",
+            "alt": "Marketing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299714.png",
+            "alt": "Meeting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299737.png",
+            "alt": "Network"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299759.png",
+            "alt": "Partnership"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299781.png",
+            "alt": "Problem solving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299805.png",
+            "alt": "Product"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299829.png",
+            "alt": "Research"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299854.png",
+            "alt": "Shipping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299874.png",
+            "alt": "Ideas"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299895.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299914.png",
+            "alt": "Visionary"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6299/6299931.png",
+            "alt": "Warehouse"
+        }
+    ]
+}

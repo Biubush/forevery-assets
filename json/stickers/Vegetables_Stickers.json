@@ -1,0 +1,85 @@
+{
+    "package": "Vegetables Stickers",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766573.png",
+            "alt": "Beet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766575.png",
+            "alt": "Tomato"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766577.png",
+            "alt": "Mushroom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766580.png",
+            "alt": "Carrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766582.png",
+            "alt": "Avocado"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766584.png",
+            "alt": "Broccoli"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766586.png",
+            "alt": "Leek"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766588.png",
+            "alt": "Red pepper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766590.png",
+            "alt": "Potato"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766593.png",
+            "alt": "Eggplant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766595.png",
+            "alt": "Radish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766597.png",
+            "alt": "Artichoke"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766599.png",
+            "alt": "Corn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766601.png",
+            "alt": "Chili pepper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766603.png",
+            "alt": "Onion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766604.png",
+            "alt": "Pumpkin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766605.png",
+            "alt": "Peas"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766606.png",
+            "alt": "Cucumber"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766607.png",
+            "alt": "Lettuce"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11766/11766608.png",
+            "alt": "Leek"
+        }
+    ]
+}

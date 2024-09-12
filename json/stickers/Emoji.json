@@ -1,0 +1,85 @@
+{
+    "package": "Emoji",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073596.png",
+            "alt": "Crying"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073597.png",
+            "alt": "Cold sweat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073598.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073599.png",
+            "alt": "Laugh"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073600.png",
+            "alt": "Freezing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073601.png",
+            "alt": "Puke"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073602.png",
+            "alt": "Poop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073603.png",
+            "alt": "Angel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073604.png",
+            "alt": "Devil"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073605.png",
+            "alt": "Clown"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073606.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073607.png",
+            "alt": "Rolling eyes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073608.png",
+            "alt": "Tongue out"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073609.png",
+            "alt": "Kiss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073610.png",
+            "alt": "Tongue out"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073611.png",
+            "alt": "Nerd"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073612.png",
+            "alt": "In love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073613.png",
+            "alt": "Party"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073614.png",
+            "alt": "Smirking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8073/8073615.png",
+            "alt": "Sad"
+        }
+    ]
+}

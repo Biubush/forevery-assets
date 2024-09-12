@@ -1,0 +1,565 @@
+{
+    "package": "Drinks",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286153.png",
+            "alt": "Orange juice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286154.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286155.png",
+            "alt": "Wine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286156.png",
+            "alt": "Coffee break"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286157.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286158.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286159.png",
+            "alt": "Coffee break"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286160.png",
+            "alt": "Milkshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286161.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286162.png",
+            "alt": "Tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286163.png",
+            "alt": "Cappuccino"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286164.png",
+            "alt": "Smoothie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286165.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286166.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286167.png",
+            "alt": "Coffee time"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286168.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286169.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286170.png",
+            "alt": "Wine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286171.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10286/10286172.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006387.png",
+            "alt": "Mate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006388.png",
+            "alt": "Milk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006389.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006390.png",
+            "alt": "Tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006391.png",
+            "alt": "Energy drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006392.png",
+            "alt": "Lemonade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006393.png",
+            "alt": "Soda"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006394.png",
+            "alt": "Smoothie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006395.png",
+            "alt": "Wine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006396.png",
+            "alt": "Energy drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006397.png",
+            "alt": "Tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006398.png",
+            "alt": "Orange juice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006399.png",
+            "alt": "Tequila"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006400.png",
+            "alt": "Beer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006401.png",
+            "alt": "Water"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006402.png",
+            "alt": "Whiskey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006403.png",
+            "alt": "Champagne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006404.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006405.png",
+            "alt": "Smoothie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11006/11006406.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136905.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136915.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136924.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136933.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136942.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136952.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136961.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136969.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136977.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136984.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136992.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11136/11136998.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137004.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137008.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137012.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137016.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137020.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137024.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137026.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137028.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137034.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137035.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137036.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137037.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137038.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137039.png",
+            "alt": "Tea bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137040.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137041.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137042.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137043.png",
+            "alt": "Tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137044.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137045.png",
+            "alt": "Can"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137046.png",
+            "alt": "Beer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137047.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137048.png",
+            "alt": "Milk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137049.png",
+            "alt": "Bubble tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137050.png",
+            "alt": "Beer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137051.png",
+            "alt": "Milk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137052.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11137/11137053.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159842.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159848.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159852.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159857.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159861.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159863.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159865.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159867.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159869.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159871.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159873.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159875.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159877.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159879.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159881.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159883.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159885.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159887.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159889.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11159/11159891.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933255.png",
+            "alt": "Drinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933256.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933257.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933258.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933259.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933260.png",
+            "alt": "Barman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933261.png",
+            "alt": "Coconut drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933262.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933263.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933264.png",
+            "alt": "Drinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933265.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933266.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933267.png",
+            "alt": "On the rocks"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933268.png",
+            "alt": "Whiskey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933269.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933270.png",
+            "alt": "Barwoman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933271.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933272.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933273.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11933/11933274.png",
+            "alt": "Barman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340210.png",
+            "alt": "Energy drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340211.png",
+            "alt": "Tequila"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340212.png",
+            "alt": "Beer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340213.png",
+            "alt": "Juice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340214.png",
+            "alt": "Jug"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340215.png",
+            "alt": "Milk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340216.png",
+            "alt": "Wine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340217.png",
+            "alt": "Tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340218.png",
+            "alt": "Soda"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340219.png",
+            "alt": "Whiskey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340220.png",
+            "alt": "Champagne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340221.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340222.png",
+            "alt": "Tequila"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340223.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340224.png",
+            "alt": "Juice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340225.png",
+            "alt": "Water"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340226.png",
+            "alt": "Cocktail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340227.png",
+            "alt": "Bubble tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340228.png",
+            "alt": "Coffee cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12340/12340229.png",
+            "alt": "Mate"
+        }
+    ]
+}

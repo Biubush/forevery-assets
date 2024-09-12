@@ -1,0 +1,85 @@
+{
+    "package": "Covid",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7564/7564926.png",
+            "alt": "Infection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7564/7564939.png",
+            "alt": "Virus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7564/7564954.png",
+            "alt": "Gloves"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7564/7564969.png",
+            "alt": "Stand here"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7564/7564981.png",
+            "alt": "Hygiene"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7564/7564995.png",
+            "alt": "Mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565012.png",
+            "alt": "Vaccinated"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565026.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565041.png",
+            "alt": "No handshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565057.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565073.png",
+            "alt": "No virus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565088.png",
+            "alt": "Home office"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565102.png",
+            "alt": "Sanitizer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565118.png",
+            "alt": "Strong"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565134.png",
+            "alt": "Covid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565150.png",
+            "alt": "Covid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565165.png",
+            "alt": "Lockdown"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565181.png",
+            "alt": "Closed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565196.png",
+            "alt": "Vaccinated"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7565/7565212.png",
+            "alt": "Laptop"
+        }
+    ]
+}

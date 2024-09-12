@@ -1,0 +1,821 @@
+{
+    "package": "Medical",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497742.png",
+            "alt": "Medical checkup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497750.png",
+            "alt": "X ray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497758.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497765.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497773.png",
+            "alt": "Medical assistance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497781.png",
+            "alt": "Medical checkup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497790.png",
+            "alt": "Medical report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497800.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497807.png",
+            "alt": "Heart rate monitor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497819.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497830.png",
+            "alt": "Medical report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497840.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497857.png",
+            "alt": "Medical report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497868.png",
+            "alt": "Medical checkup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497879.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497888.png",
+            "alt": "Injection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497898.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497909.png",
+            "alt": "Clipboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497919.png",
+            "alt": "First aid kit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4497/4497927.png",
+            "alt": "Heart rate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534941.png",
+            "alt": "Heart rate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534944.png",
+            "alt": "Test tubes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534947.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534950.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534953.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534958.png",
+            "alt": "Ribbon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534962.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534965.png",
+            "alt": "Medical checkup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534968.png",
+            "alt": "Healthcare"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534969.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534971.png",
+            "alt": "Medical app"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534975.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534978.png",
+            "alt": "Pharmacy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534981.png",
+            "alt": "Medical app"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534984.png",
+            "alt": "Clipboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534987.png",
+            "alt": "Eye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534990.png",
+            "alt": "Microscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534997.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4534/4534999.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4535/4535003.png",
+            "alt": "Medical app"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850778.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850793.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850813.png",
+            "alt": "Cardiogram"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850825.png",
+            "alt": "Stomach"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850844.png",
+            "alt": "Blood bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850861.png",
+            "alt": "X ray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850881.png",
+            "alt": "Medical tools"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850898.png",
+            "alt": "Body organ"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850913.png",
+            "alt": "Sonography"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850933.png",
+            "alt": "First aid kit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850949.png",
+            "alt": "Medical test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850967.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850978.png",
+            "alt": "Plaster"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4850/4850999.png",
+            "alt": "Stethoscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4851/4851015.png",
+            "alt": "Tooth Brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4852/4852324.png",
+            "alt": "Surgery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4852/4852331.png",
+            "alt": "Crutch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4852/4852343.png",
+            "alt": "Lab coat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4852/4852350.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4852/4852359.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861669.png",
+            "alt": "Medical checkup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861675.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861682.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861691.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861705.png",
+            "alt": "Medical tools"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861709.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861715.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861722.png",
+            "alt": "Medical result"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861732.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861741.png",
+            "alt": "Blood pressure gauge"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861746.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861753.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861757.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861764.png",
+            "alt": "Intestine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861772.png",
+            "alt": "Uterus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861778.png",
+            "alt": "Surgery tools"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861785.png",
+            "alt": "Kidneys"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861793.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861800.png",
+            "alt": "Brain"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4861/4861807.png",
+            "alt": "Surgeon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982394.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982395.png",
+            "alt": "Surgeon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982396.png",
+            "alt": "Surgeon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982397.png",
+            "alt": "Sick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982398.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982401.png",
+            "alt": "Emergency"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982403.png",
+            "alt": "Band aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982409.png",
+            "alt": "Defibrillator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982413.png",
+            "alt": "Injury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982416.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982420.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982424.png",
+            "alt": "Injury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982428.png",
+            "alt": "Electrocardiogram"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982431.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982436.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982440.png",
+            "alt": "Injury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982445.png",
+            "alt": "X ray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982448.png",
+            "alt": "Medical"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982453.png",
+            "alt": "Dentist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4982/4982457.png",
+            "alt": "Eye test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603143.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603153.png",
+            "alt": "Blood bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603161.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603169.png",
+            "alt": "Mortar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603179.png",
+            "alt": "Weighing machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603189.png",
+            "alt": "Injection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603201.png",
+            "alt": "Band aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603208.png",
+            "alt": "Supplement"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603219.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603231.png",
+            "alt": "First aid bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603241.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603251.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603266.png",
+            "alt": "Stethoscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603278.png",
+            "alt": "Heart monitoring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603287.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603297.png",
+            "alt": "Bandage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603311.png",
+            "alt": "Radiography"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603323.png",
+            "alt": "Walking aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603334.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603344.png",
+            "alt": "Pipette"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603356.png",
+            "alt": "Stomach"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603366.png",
+            "alt": "Chemical"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603377.png",
+            "alt": "Red ribbon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7603/7603388.png",
+            "alt": "Dna structure"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804017.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804021.png",
+            "alt": "Bandaged"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804025.png",
+            "alt": "Blood bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804030.png",
+            "alt": "Call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804035.png",
+            "alt": "Consulting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804040.png",
+            "alt": "Crutch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804045.png",
+            "alt": "DNA"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804050.png",
+            "alt": "First aid kit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804055.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804060.png",
+            "alt": "Immune"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804065.png",
+            "alt": "injection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804070.png",
+            "alt": "Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804074.png",
+            "alt": "Medical record"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804079.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804082.png",
+            "alt": "Nurse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804086.png",
+            "alt": "Stethoscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804089.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804093.png",
+            "alt": "Virus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804097.png",
+            "alt": "wheel chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804101.png",
+            "alt": "X ray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804279.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804282.png",
+            "alt": "Bandaged"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804285.png",
+            "alt": "Blood bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804288.png",
+            "alt": "Call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804291.png",
+            "alt": "Consulting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804294.png",
+            "alt": "Crutch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804297.png",
+            "alt": "DNA"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804300.png",
+            "alt": "First aid kit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804304.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804307.png",
+            "alt": "Immune"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804312.png",
+            "alt": "injection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804318.png",
+            "alt": "Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804325.png",
+            "alt": "Medical record"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804331.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804337.png",
+            "alt": "Nurse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804345.png",
+            "alt": "Stethoscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804359.png",
+            "alt": "Vaccine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804369.png",
+            "alt": "Virus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804379.png",
+            "alt": "wheel chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8804/8804393.png",
+            "alt": "X ray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10129/10129997.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130002.png",
+            "alt": "Videocall"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130009.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130020.png",
+            "alt": "Dentist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130026.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130033.png",
+            "alt": "Blood Donation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130042.png",
+            "alt": "Medical History"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130049.png",
+            "alt": "Nurse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130056.png",
+            "alt": "Blood pressure"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130062.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130069.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130076.png",
+            "alt": "Pregnancy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130083.png",
+            "alt": "Medical Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130090.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130097.png",
+            "alt": "Gastric reflux"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130104.png",
+            "alt": "Ophtalmologist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130111.png",
+            "alt": "Medical app"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130118.png",
+            "alt": "Medical"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130124.png",
+            "alt": "Microscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10130/10130130.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322148.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322152.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322156.png",
+            "alt": "Placeholder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322160.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322164.png",
+            "alt": "Eye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322167.png",
+            "alt": "Digestive system"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322171.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322175.png",
+            "alt": "Reproductive system"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322178.png",
+            "alt": "Brain"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322181.png",
+            "alt": "Urology"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322184.png",
+            "alt": "Blood bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322186.png",
+            "alt": "Drugs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322188.png",
+            "alt": "Heart monitoring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322190.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322192.png",
+            "alt": "X rays"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322194.png",
+            "alt": "Surgery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322195.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322196.png",
+            "alt": "Surgery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322197.png",
+            "alt": "Syringe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15322/15322198.png",
+            "alt": "Blood pressure gauge"
+        }
+    ]
+}

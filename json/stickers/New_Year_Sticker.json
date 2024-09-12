@@ -1,0 +1,105 @@
+{
+    "package": "New Year Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021590.png",
+            "alt": "Party"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021591.png",
+            "alt": "Barbecue"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021592.png",
+            "alt": "Calendar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021593.png",
+            "alt": "Canape"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021594.png",
+            "alt": "Champagne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021595.png",
+            "alt": "Clock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021596.png",
+            "alt": "DJ"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021597.png",
+            "alt": "Fire cracker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021598.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021599.png",
+            "alt": "Greeting card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021600.png",
+            "alt": "Happy New Year"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021601.png",
+            "alt": "Happy New Year"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021602.png",
+            "alt": "Happy New Year"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021603.png",
+            "alt": "Horn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021604.png",
+            "alt": "Invitation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021605.png",
+            "alt": "Karaoke"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021606.png",
+            "alt": "Muffin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021607.png",
+            "alt": "Party blower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021608.png",
+            "alt": "Trumpet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021609.png",
+            "alt": "Pizza"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021610.png",
+            "alt": "Speaker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021611.png",
+            "alt": "Spotlight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021612.png",
+            "alt": "Television"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021613.png",
+            "alt": "Trumpet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9021/9021614.png",
+            "alt": "Woman"
+        }
+    ]
+}

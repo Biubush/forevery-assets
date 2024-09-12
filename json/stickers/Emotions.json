@@ -1,0 +1,245 @@
+{
+    "package": "Emotions",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133420.png",
+            "alt": "Worried"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133422.png",
+            "alt": "Relief"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133425.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133430.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133433.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133439.png",
+            "alt": "Surprised"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133445.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133450.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133455.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133460.png",
+            "alt": "Scared"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133465.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133470.png",
+            "alt": "Disappointed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133479.png",
+            "alt": "Excited"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133487.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133494.png",
+            "alt": "In love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133501.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133508.png",
+            "alt": "Worried"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133515.png",
+            "alt": "Shocked"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133522.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6133/6133528.png",
+            "alt": "In love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243679.png",
+            "alt": "Furious"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243691.png",
+            "alt": "Embarrassed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243705.png",
+            "alt": "Nostalgic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243719.png",
+            "alt": "Depressed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243732.png",
+            "alt": "Inspired"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243745.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243758.png",
+            "alt": "Worried"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243772.png",
+            "alt": "Jealous"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243785.png",
+            "alt": "Annoyed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243798.png",
+            "alt": "Careless"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243811.png",
+            "alt": "Mad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243822.png",
+            "alt": "Self love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243834.png",
+            "alt": "Inspired"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243847.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243859.png",
+            "alt": "Scary"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243874.png",
+            "alt": "Ashamed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243885.png",
+            "alt": "Worried"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243898.png",
+            "alt": "Grateful"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243909.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7243/7243921.png",
+            "alt": "Cheerful"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490079.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490080.png",
+            "alt": "Upset"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490081.png",
+            "alt": "Dead"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490082.png",
+            "alt": "Squirrel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490083.png",
+            "alt": "Sceptic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490084.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490085.png",
+            "alt": "Kiss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490086.png",
+            "alt": "Thinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490089.png",
+            "alt": "Angel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490090.png",
+            "alt": "Wink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490092.png",
+            "alt": "Tongue"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490094.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490096.png",
+            "alt": "Crying"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490098.png",
+            "alt": "Crazy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490100.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490102.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490104.png",
+            "alt": "Shocked"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490106.png",
+            "alt": "Upset"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490108.png",
+            "alt": "Laughing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10490/10490110.png",
+            "alt": "Emotional"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Food and drink",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122844.png",
+            "alt": "Mug"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122849.png",
+            "alt": "Tea cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122855.png",
+            "alt": "Burger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122862.png",
+            "alt": "No food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122867.png",
+            "alt": "Donut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122875.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122883.png",
+            "alt": "Vegetable"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122890.png",
+            "alt": "Donut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122897.png",
+            "alt": "Tomato"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122908.png",
+            "alt": "Cookie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122916.png",
+            "alt": "Kettle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122925.png",
+            "alt": "Good morning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122934.png",
+            "alt": "Candy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122942.png",
+            "alt": "Water bottle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122954.png",
+            "alt": "Glass"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122964.png",
+            "alt": "Cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122977.png",
+            "alt": "Pizza"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6122/6122992.png",
+            "alt": "Coffee cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6123/6123006.png",
+            "alt": "Water melon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6123/6123014.png",
+            "alt": "Chocolate"
+        }
+    ]
+}

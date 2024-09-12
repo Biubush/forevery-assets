@@ -1,0 +1,85 @@
+{
+    "package": "Hotel",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549214.png",
+            "alt": "Air conditioner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549219.png",
+            "alt": "Bathtub"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549223.png",
+            "alt": "Door hanger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549227.png",
+            "alt": "Elevator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549230.png",
+            "alt": "Fire extinguisher "
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549233.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549237.png",
+            "alt": "Key card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549241.png",
+            "alt": "Location"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549245.png",
+            "alt": "Luggage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549249.png",
+            "alt": "Luggage cart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549253.png",
+            "alt": "Meal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549256.png",
+            "alt": "Menu"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549258.png",
+            "alt": "Queen bed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549262.png",
+            "alt": "Receptionist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549266.png",
+            "alt": "Room service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549270.png",
+            "alt": "Safety Box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549274.png",
+            "alt": "Swimming pool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549278.png",
+            "alt": "Television"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549282.png",
+            "alt": "toiletries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7549/7549288.png",
+            "alt": "Towel"
+        }
+    ]
+}

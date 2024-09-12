@@ -1,0 +1,245 @@
+{
+    "package": "Stay home",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392447.png",
+            "alt": "Stay safe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392448.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392449.png",
+            "alt": "Cooking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392450.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392453.png",
+            "alt": "Work from home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392454.png",
+            "alt": "Work from home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392458.png",
+            "alt": "Grocery bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392460.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392463.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392470.png",
+            "alt": "Let it grow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392476.png",
+            "alt": "Let it grow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392480.png",
+            "alt": "Work from home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392484.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392489.png",
+            "alt": "Try new recipes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392495.png",
+            "alt": "Use mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392500.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392503.png",
+            "alt": "Home office"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392509.png",
+            "alt": "Cook"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392515.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392518.png",
+            "alt": "Stay safe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392498.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392508.png",
+            "alt": "Reading"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392513.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392517.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392523.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392527.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392533.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392536.png",
+            "alt": "Bedroom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392541.png",
+            "alt": "Armchair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392547.png",
+            "alt": "Reading"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392551.png",
+            "alt": "Crafts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392557.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392559.png",
+            "alt": "Playing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392561.png",
+            "alt": "Listening"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392564.png",
+            "alt": "Bathtub"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392566.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392568.png",
+            "alt": "Cooking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392569.png",
+            "alt": "Gardening"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392570.png",
+            "alt": "Reading"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4392/4392571.png",
+            "alt": "Stay home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577502.png",
+            "alt": "Reading"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577503.png",
+            "alt": "Dumbbell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577504.png",
+            "alt": "Vaccum cleaner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577505.png",
+            "alt": "Baking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577506.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577507.png",
+            "alt": "Bonsai"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577510.png",
+            "alt": "Guitar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577512.png",
+            "alt": "Online shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577514.png",
+            "alt": "Laptop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577516.png",
+            "alt": "Watch tv"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577518.png",
+            "alt": "Balcony"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577519.png",
+            "alt": "Pet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577521.png",
+            "alt": "Excercising"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577523.png",
+            "alt": "Smartphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577526.png",
+            "alt": "Stretching"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577528.png",
+            "alt": "Meditation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577530.png",
+            "alt": "Puzzle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577532.png",
+            "alt": "Fishing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577534.png",
+            "alt": "Gaming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4577/4577535.png",
+            "alt": "Cooking"
+        }
+    ]
+}

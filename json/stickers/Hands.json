@@ -1,0 +1,405 @@
+{
+    "package": "Hands",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928111.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928115.png",
+            "alt": "Thumbs up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928119.png",
+            "alt": "Deal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928130.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928138.png",
+            "alt": "Bang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928148.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928158.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928164.png",
+            "alt": "Hardcore"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928174.png",
+            "alt": "Yay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928183.png",
+            "alt": "Peace symbol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928191.png",
+            "alt": "Three"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928201.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928210.png",
+            "alt": "Four"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928219.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928230.png",
+            "alt": "Boom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928242.png",
+            "alt": "Boom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928255.png",
+            "alt": "Awesome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928270.png",
+            "alt": "Thumbs up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928285.png",
+            "alt": "Crossed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5928/5928299.png",
+            "alt": "Yeah"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973711.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973712.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973713.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973714.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973715.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973716.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973717.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973718.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973719.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973720.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973721.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973722.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973723.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973724.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973725.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973726.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973727.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973728.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973729.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6973/6973730.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026327.png",
+            "alt": "Luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026332.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026338.png",
+            "alt": "Fist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026343.png",
+            "alt": "Shaka"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026348.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026353.png",
+            "alt": "Thumb up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026358.png",
+            "alt": "Handshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026362.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026368.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026374.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026380.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026386.png",
+            "alt": "Finger up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026392.png",
+            "alt": "Receive"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026397.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026403.png",
+            "alt": "Bang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026409.png",
+            "alt": "Pointing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026416.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026421.png",
+            "alt": "Hands"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026427.png",
+            "alt": "Peace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7026/7026433.png",
+            "alt": "Maloik"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166478.png",
+            "alt": "Fist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166480.png",
+            "alt": "Victory"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166482.png",
+            "alt": "Finger snap"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166484.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166485.png",
+            "alt": "Clap"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166486.png",
+            "alt": "Pointing up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166487.png",
+            "alt": "Maloik"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166488.png",
+            "alt": "Cross fingers"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166489.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166490.png",
+            "alt": "Palm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166491.png",
+            "alt": "Thumb up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166492.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166493.png",
+            "alt": "Maloik"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166494.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166495.png",
+            "alt": "Pointing up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166496.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166497.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166498.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166499.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7166/7166505.png",
+            "alt": "Thumb down"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647499.png",
+            "alt": "Hot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647500.png",
+            "alt": "Painting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647501.png",
+            "alt": "Red card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647502.png",
+            "alt": "Idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647503.png",
+            "alt": "Pointing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647504.png",
+            "alt": "Peace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647505.png",
+            "alt": "Shaka"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647506.png",
+            "alt": "Dancing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647507.png",
+            "alt": "Shadow play"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647508.png",
+            "alt": "Vulcan salute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647509.png",
+            "alt": "Basketball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647510.png",
+            "alt": "Yummy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647511.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647512.png",
+            "alt": "Flower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647513.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647514.png",
+            "alt": "Lucky"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647515.png",
+            "alt": "Magic wand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647516.png",
+            "alt": "High five"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647517.png",
+            "alt": "Maloik"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12647/12647518.png",
+            "alt": "Bye"
+        }
+    ]
+}

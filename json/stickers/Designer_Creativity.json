@@ -1,0 +1,85 @@
+{
+    "package": "Designer Creativity",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134814.png",
+            "alt": "Brainstorm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134815.png",
+            "alt": "Development"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134816.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134817.png",
+            "alt": "Color picker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134818.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134819.png",
+            "alt": "Creative"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134820.png",
+            "alt": "Tools"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134821.png",
+            "alt": "Email"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134822.png",
+            "alt": "File transfer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134823.png",
+            "alt": "Graphic tablet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134824.png",
+            "alt": "Infographic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134825.png",
+            "alt": "Sticky note"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134826.png",
+            "alt": "Bucket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134827.png",
+            "alt": "Portfolio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134828.png",
+            "alt": "Printer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134829.png",
+            "alt": "Product"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134830.png",
+            "alt": "Save"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134831.png",
+            "alt": "Sketch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134832.png",
+            "alt": "Trash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10134/10134833.png",
+            "alt": "Vector"
+        }
+    ]
+}

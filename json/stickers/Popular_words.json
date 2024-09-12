@@ -1,0 +1,85 @@
+{
+    "package": "Popular words",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338487.png",
+            "alt": "Nice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338488.png",
+            "alt": "Ah"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338489.png",
+            "alt": "Sick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338490.png",
+            "alt": "New"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338491.png",
+            "alt": "Best"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338492.png",
+            "alt": "Only"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338493.png",
+            "alt": "Fav"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338494.png",
+            "alt": "Cool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338495.png",
+            "alt": "Hot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338496.png",
+            "alt": "Hard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338497.png",
+            "alt": "Vibes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338498.png",
+            "alt": "Duh"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338499.png",
+            "alt": "Wow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338500.png",
+            "alt": "Yeah"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338501.png",
+            "alt": "Chill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338502.png",
+            "alt": "Wild"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338503.png",
+            "alt": "Good"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338504.png",
+            "alt": "Power"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338505.png",
+            "alt": "Lol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12338/12338506.png",
+            "alt": "Party"
+        }
+    ]
+}

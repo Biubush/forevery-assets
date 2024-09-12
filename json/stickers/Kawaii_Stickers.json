@@ -1,0 +1,645 @@
+{
+    "package": "Kawaii stickers",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426788.png",
+            "alt": "Pizza"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426795.png",
+            "alt": "Ufo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426801.png",
+            "alt": "Gramophone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426808.png",
+            "alt": "Watermelon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426817.png",
+            "alt": "Cake slice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426823.png",
+            "alt": "Kitten"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426835.png",
+            "alt": "Backpack"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426847.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426855.png",
+            "alt": "Flower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426862.png",
+            "alt": "Symbol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426871.png",
+            "alt": "Tea pot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426878.png",
+            "alt": "Saturn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426886.png",
+            "alt": "Clapboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426894.png",
+            "alt": "Pop corn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426902.png",
+            "alt": "Burger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426909.png",
+            "alt": "Crown"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426915.png",
+            "alt": "Shooting star"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426921.png",
+            "alt": "Muffin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426929.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426936.png",
+            "alt": "Cheese"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426792.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426798.png",
+            "alt": "Rocket launch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426804.png",
+            "alt": "Strawberry milk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426812.png",
+            "alt": "Present box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426820.png",
+            "alt": "Cherry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426831.png",
+            "alt": "Cherry pie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426840.png",
+            "alt": "Strawberry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426849.png",
+            "alt": "Television"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426857.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426864.png",
+            "alt": "Globe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426873.png",
+            "alt": "Tea bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426881.png",
+            "alt": "Peach"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426889.png",
+            "alt": "Bubble tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426900.png",
+            "alt": "Diamond"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426908.png",
+            "alt": "Fried egg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426914.png",
+            "alt": "Bean"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426920.png",
+            "alt": "Movie ticket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426926.png",
+            "alt": "Tacos"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426932.png",
+            "alt": "Cactus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6426/6426938.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427679.png",
+            "alt": "Badge"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427680.png",
+            "alt": "Beverage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427684.png",
+            "alt": "Cake slice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427686.png",
+            "alt": "Candle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427688.png",
+            "alt": "Cruise"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427690.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427692.png",
+            "alt": "Note book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427694.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427700.png",
+            "alt": "Leaf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427705.png",
+            "alt": "Sun block"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427709.png",
+            "alt": "Note book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427713.png",
+            "alt": "Oranges"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427719.png",
+            "alt": "Pancake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427728.png",
+            "alt": "Vintage radio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427734.png",
+            "alt": "Scissors"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427740.png",
+            "alt": "Cups"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427746.png",
+            "alt": "Star"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427754.png",
+            "alt": "Stopwatch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427762.png",
+            "alt": "Tea cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6427/6427769.png",
+            "alt": "Vinyl record"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418613.png",
+            "alt": "Teddy bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418629.png",
+            "alt": "Bowling ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418652.png",
+            "alt": "Bread"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418669.png",
+            "alt": "Piece of cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418687.png",
+            "alt": "Chicken"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418708.png",
+            "alt": "Coffee cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418723.png",
+            "alt": "Cooking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418738.png",
+            "alt": "Spoon and fork"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418754.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418768.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418785.png",
+            "alt": "Hot dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418797.png",
+            "alt": "Japan food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418810.png",
+            "alt": "Pants"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418828.png",
+            "alt": "Rabbit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418846.png",
+            "alt": "Rabbit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418861.png",
+            "alt": "Rainbow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418876.png",
+            "alt": "Ufo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418890.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418914.png",
+            "alt": "Witch hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7418/7418929.png",
+            "alt": "Yogurt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592156.png",
+            "alt": "Egg and bacon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592163.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592169.png",
+            "alt": "Boy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592175.png",
+            "alt": "Ladybird"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592182.png",
+            "alt": "Card game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592191.png",
+            "alt": "Burger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592198.png",
+            "alt": "Coffee cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592206.png",
+            "alt": "Crayon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592213.png",
+            "alt": "Crystal ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592220.png",
+            "alt": "Laptop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592228.png",
+            "alt": "Can"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592236.png",
+            "alt": "Flower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592244.png",
+            "alt": "Fruit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592252.png",
+            "alt": "Girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592261.png",
+            "alt": "Grocery bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592271.png",
+            "alt": "Candy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592279.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592287.png",
+            "alt": "Noodle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592296.png",
+            "alt": "Panda"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592305.png",
+            "alt": "Rainbow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592449.png",
+            "alt": "Cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592456.png",
+            "alt": "Date"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592464.png",
+            "alt": "Candy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592472.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592479.png",
+            "alt": "Cell phone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592488.png",
+            "alt": "Emoticon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592495.png",
+            "alt": "Fish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592502.png",
+            "alt": "Little girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592510.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592519.png",
+            "alt": "Ice cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592526.png",
+            "alt": "Lemon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592533.png",
+            "alt": "Net"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592539.png",
+            "alt": "Dish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592546.png",
+            "alt": "Present"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592553.png",
+            "alt": "Girly blouse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592561.png",
+            "alt": "Socks"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592568.png",
+            "alt": "Spell book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592575.png",
+            "alt": "Shooting star"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592581.png",
+            "alt": "Bread"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592587.png",
+            "alt": "Violin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592451.png",
+            "alt": "Backpack"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592461.png",
+            "alt": "Butter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592468.png",
+            "alt": "Cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592476.png",
+            "alt": "Drive safe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592486.png",
+            "alt": "Kitty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592493.png",
+            "alt": "Cellphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592503.png",
+            "alt": "Chocolate bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592512.png",
+            "alt": "Cloud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592522.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592531.png",
+            "alt": "Puppy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592538.png",
+            "alt": "Fan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592547.png",
+            "alt": "Flower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592555.png",
+            "alt": "Gadget"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592563.png",
+            "alt": "Envelope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592571.png",
+            "alt": "Lollipop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592579.png",
+            "alt": "Moon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592586.png",
+            "alt": "Popcorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592593.png",
+            "alt": "Cloud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592598.png",
+            "alt": "Television"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7592/7592604.png",
+            "alt": "Turtle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593321.png",
+            "alt": "Bird"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593324.png",
+            "alt": "Rabbit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593329.png",
+            "alt": "Bunny"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593332.png",
+            "alt": "Chicken"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593335.png",
+            "alt": "Frog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593338.png",
+            "alt": "Garland"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593343.png",
+            "alt": "Little girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593347.png",
+            "alt": "Hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593350.png",
+            "alt": "Cat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593354.png",
+            "alt": "Kiwi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593358.png",
+            "alt": "Little girl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593361.png",
+            "alt": "Rabbit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593364.png",
+            "alt": "Meals"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593367.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593370.png",
+            "alt": "Plant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593373.png",
+            "alt": "Skirt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593376.png",
+            "alt": "Soda can"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593379.png",
+            "alt": "Strawberry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593382.png",
+            "alt": "Wallet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7593/7593385.png",
+            "alt": "Watermelon"
+        }
+    ]
+}

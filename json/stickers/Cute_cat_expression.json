@@ -1,0 +1,105 @@
+{
+    "package": "Cute cat expression",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980646.png",
+            "alt": "Party"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980651.png",
+            "alt": "Thinking bubble"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980654.png",
+            "alt": "Reject"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980657.png",
+            "alt": "Boo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980660.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980662.png",
+            "alt": "Enjoy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980665.png",
+            "alt": "Laughter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980668.png",
+            "alt": "Shock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980671.png",
+            "alt": "Cry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980674.png",
+            "alt": "Lightbulb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980677.png",
+            "alt": "Perfect"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980679.png",
+            "alt": "Please"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980682.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980686.png",
+            "alt": "Bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980689.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980692.png",
+            "alt": "Good"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980695.png",
+            "alt": "Hello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980698.png",
+            "alt": "Ready"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980700.png",
+            "alt": "Sleepyhead"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980703.png",
+            "alt": "I dont know"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980706.png",
+            "alt": "Silent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980709.png",
+            "alt": "Kiss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980712.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980715.png",
+            "alt": "Peace and love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7980/7980718.png",
+            "alt": "Strong"
+        }
+    ]
+}

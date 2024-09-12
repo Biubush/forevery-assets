@@ -1,0 +1,101 @@
+{
+    "package": "Medical Equipment",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602811.png",
+            "alt": "Thermometer gun"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602820.png",
+            "alt": "Oxygen mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602828.png",
+            "alt": "Defibrilator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602837.png",
+            "alt": "Glove"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602845.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602853.png",
+            "alt": "Concoction"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602861.png",
+            "alt": "Concentrate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602869.png",
+            "alt": "Pushchair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602877.png",
+            "alt": "Hospital bed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602884.png",
+            "alt": "Dentist chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602890.png",
+            "alt": "Ceiling lamp"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602896.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602902.png",
+            "alt": "Walking stick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602908.png",
+            "alt": "Mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602914.png",
+            "alt": "Scales"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602920.png",
+            "alt": "Hearing aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602925.png",
+            "alt": "Doctor bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602930.png",
+            "alt": "Sphygmomanometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602935.png",
+            "alt": "Test pen"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602939.png",
+            "alt": "Stethoscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602942.png",
+            "alt": "Syringes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602947.png",
+            "alt": "Eye drops"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602956.png",
+            "alt": "Pill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7602/7602963.png",
+            "alt": "Blood bag"
+        }
+    ]
+}

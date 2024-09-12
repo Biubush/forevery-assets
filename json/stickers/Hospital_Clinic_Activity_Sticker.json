@@ -1,0 +1,105 @@
+{
+    "package": "Hospital Clinic Activity Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662325.png",
+            "alt": "Fracture"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662332.png",
+            "alt": "Baby weight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662342.png",
+            "alt": "Blood Test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662351.png",
+            "alt": "Receptionist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662359.png",
+            "alt": "Dental care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662366.png",
+            "alt": "Speech"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662374.png",
+            "alt": "Drugstore"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662381.png",
+            "alt": "Eye test"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662388.png",
+            "alt": "Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662394.png",
+            "alt": "injection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662401.png",
+            "alt": "Lab"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662407.png",
+            "alt": "Appointment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662414.png",
+            "alt": "Bill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662421.png",
+            "alt": "Certificate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662427.png",
+            "alt": "Check up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662434.png",
+            "alt": "Neurologist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662440.png",
+            "alt": "Nutritionist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662448.png",
+            "alt": "Healthcare"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662456.png",
+            "alt": "Mental health"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662464.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662474.png",
+            "alt": "Plastic surgery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662482.png",
+            "alt": "Pregnancy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662492.png",
+            "alt": "Sick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662502.png",
+            "alt": "Surgeon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8662/8662512.png",
+            "alt": "X ray"
+        }
+    ]
+}

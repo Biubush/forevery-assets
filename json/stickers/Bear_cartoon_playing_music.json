@@ -1,0 +1,85 @@
+{
+    "package": "Bear cartoon playing music",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114507.png",
+            "alt": "Guitar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114512.png",
+            "alt": "Harp"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114515.png",
+            "alt": "Bass guitar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114520.png",
+            "alt": "Triangle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114525.png",
+            "alt": "Percussion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114530.png",
+            "alt": "Banjo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114535.png",
+            "alt": "Mandolin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114540.png",
+            "alt": "Drum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114545.png",
+            "alt": "Singing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114549.png",
+            "alt": "Timpani"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114554.png",
+            "alt": "Cello"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114559.png",
+            "alt": "Trumpet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114562.png",
+            "alt": "Accordion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114567.png",
+            "alt": "Maracas"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114572.png",
+            "alt": "Drums"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114577.png",
+            "alt": "Piano"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114582.png",
+            "alt": "Guitar electric"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114587.png",
+            "alt": "Cymbals"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114591.png",
+            "alt": "Saxophone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12114/12114593.png",
+            "alt": "Violin"
+        }
+    ]
+}

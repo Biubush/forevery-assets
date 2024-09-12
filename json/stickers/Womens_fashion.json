@@ -1,0 +1,165 @@
+{
+    "package": "Womens fashion",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425927.png",
+            "alt": "Bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425928.png",
+            "alt": "Shorts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425929.png",
+            "alt": "Earrings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425930.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425931.png",
+            "alt": "Bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425932.png",
+            "alt": "Summer clothing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425933.png",
+            "alt": "Shoes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425934.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425935.png",
+            "alt": "Necklace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425936.png",
+            "alt": "Bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425939.png",
+            "alt": "Watch"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425941.png",
+            "alt": "High heels"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425943.png",
+            "alt": "Eye mascara"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425945.png",
+            "alt": "Dress"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425947.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425951.png",
+            "alt": "Sunglasses"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425954.png",
+            "alt": "Pamela hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425957.png",
+            "alt": "Bikini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425961.png",
+            "alt": "Nail polish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7425/7425965.png",
+            "alt": "Ring"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696720.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696722.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696724.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696726.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696727.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696728.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696729.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696730.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696731.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696732.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696733.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696734.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696735.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696736.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696737.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696738.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696739.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696740.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696741.png",
+            "alt": "Womens fashion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7696/7696742.png",
+            "alt": "Womens fashion"
+        }
+    ]
+}

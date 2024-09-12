@@ -1,0 +1,205 @@
+{
+    "package": "Hospital",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821769.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821772.png",
+            "alt": "Healthy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821775.png",
+            "alt": "Crutches"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821777.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821779.png",
+            "alt": "First aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821781.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821783.png",
+            "alt": "Medical Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821785.png",
+            "alt": "Map"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821786.png",
+            "alt": "Weight Scale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821787.png",
+            "alt": "Face Mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821788.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821789.png",
+            "alt": "injection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821790.png",
+            "alt": "Gloves"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821791.png",
+            "alt": "Blood Donation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821792.png",
+            "alt": "Pills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821793.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821794.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821795.png",
+            "alt": "Stethoscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821796.png",
+            "alt": "bed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821797.png",
+            "alt": "Doctor Bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821798.png",
+            "alt": "Mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821799.png",
+            "alt": "wheel chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821800.png",
+            "alt": "Thermometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821801.png",
+            "alt": "Dentist Chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821802.png",
+            "alt": "Teeth brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821803.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821804.png",
+            "alt": "Sphygmomanometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821805.png",
+            "alt": "Appointment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821806.png",
+            "alt": "Medical prescription"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821807.png",
+            "alt": "Emergency"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821808.png",
+            "alt": "Bandage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821809.png",
+            "alt": "ECG monitor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821810.png",
+            "alt": "Kidney"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821811.png",
+            "alt": "X Rays"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821812.png",
+            "alt": "headphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821813.png",
+            "alt": "Pharmacy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821814.png",
+            "alt": "Microscope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821815.png",
+            "alt": "Cylinder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821816.png",
+            "alt": "Glucometer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821817.png",
+            "alt": "Ultrasound machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821818.png",
+            "alt": "Research"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821819.png",
+            "alt": "Handwash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821820.png",
+            "alt": "Drip"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821821.png",
+            "alt": "Medical app"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821824.png",
+            "alt": "Medicine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821826.png",
+            "alt": "School bell"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821829.png",
+            "alt": "Mri"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821832.png",
+            "alt": "X ray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821835.png",
+            "alt": "Surgery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9821/9821838.png",
+            "alt": "Surgery Equipment"
+        }
+    ]
+}

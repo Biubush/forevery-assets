@@ -1,0 +1,85 @@
+{
+    "package": "Church",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759653.png",
+            "alt": "Jesus christ"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759654.png",
+            "alt": "Altar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759655.png",
+            "alt": "Holy spirit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759656.png",
+            "alt": "Church"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759657.png",
+            "alt": "Church"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759658.png",
+            "alt": "Nun"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759659.png",
+            "alt": "Priest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759660.png",
+            "alt": "Rosary"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759663.png",
+            "alt": "Ten commandments"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759665.png",
+            "alt": "Nun"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759667.png",
+            "alt": "God"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759669.png",
+            "alt": "Communion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759671.png",
+            "alt": "candle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759673.png",
+            "alt": "Cross"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759675.png",
+            "alt": "Lamb of God"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759677.png",
+            "alt": "Nun"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759679.png",
+            "alt": "Bible"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759681.png",
+            "alt": "Pope"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759683.png",
+            "alt": "Priest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9759/9759685.png",
+            "alt": "Saint"
+        }
+    ]
+}

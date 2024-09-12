@@ -1,0 +1,247 @@
+.del-btn {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: rgb(20, 20, 20);
+    border: none;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.164);
+    cursor: pointer;
+    transition-duration: 0.3s;
+    overflow: hidden;
+    position: relative;
+    gap: 1px;
+}
+
+.del-btn:hover {
+    width: 140px;
+    border-radius: 50px;
+    transition-duration: 0.3s;
+    background-color: rgb(255, 69, 69);
+    align-items: center;
+    gap: 0;
+}
+
+.del-btn:hover .bin-bottom {
+    width: 50px;
+    transition-duration: 0.3s;
+    transform: translateY(60%);
+}
+
+.bin-top {
+    transform-origin: bottom right;
+}
+
+.del-btn:hover .bin-top {
+    width: 50px;
+    transition-duration: 0.3s;
+    transform: translateY(60%) rotate(160deg);
+}
+
+.del-btn::before {
+    position: absolute;
+    top: -20px;
+    color: white;
+    transition-duration: 0.3s;
+    font-size: 2px;
+}
+
+.del-btn:hover::before {
+    font-size: 13px;
+    opacity: 1;
+    transform: translateY(35px);
+    transition-duration: 0.3s;
+}
+
+/* From Uiverse.io by 0xnihilism */
+.note-card {
+    width: 95%;
+    height: 300px;
+    /* 纵向间距 */
+    margin: 1rem auto;
+    padding: 30px;
+    background: #fff;
+    box-shadow: 15px 15px 15px var(--pink-dark-1);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.solid-border {
+    border: 8px solid #e48383;
+}
+
+.note-card:active {
+    animation: shake 0.5s ease-in-out;
+}
+
+.note-card:hover {
+    transform: rotate(0deg) scale(1.02);
+    box-shadow: 20px 20px 10px var(--pink-dark-1);
+    cursor: pointer;
+}
+
+.banner {
+    position: absolute;
+    top: 3px;
+    right: -95px;
+    color: #fff;
+    padding: 15px;
+    width: 350px;
+    text-align: center;
+    transform: rotate(45deg);
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 2px;
+    overflow: hidden;
+    transition: background 0.5s ease;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgb(105, 105, 105);
+}
+
+.banner-text {
+    display: inline-block;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    width: 100%;
+    position: absolute;
+    left: 13%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.banner:hover .banner-text:first-child {
+    opacity: 0;
+    transform: translateY(-100%);
+}
+
+.banner:hover .banner-text:last-child {
+    opacity: 1;
+    transform: translateY(-40%);
+}
+
+.banner-text:last-child {
+    opacity: 0;
+    transform: translateY(60%);
+}
+
+.banner:hover {
+    filter: brightness(1.1); /* 使背景颜色加亮 */
+}
+
+.background-image {
+    display: none;
+}
+
+.note-card__title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    display: block;
+    width: 50%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.note-card__subtitle {
+    font-size: 1.3rem;
+    line-height: 1.4;
+    color: #ffffff;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+@keyframes shake {
+    0% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-5px);
+    }
+
+    50% {
+        transform: translateX(5px);
+    }
+
+    75% {
+        transform: translateX(-5px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+/* From Uiverse.io by aaronross1 */
+.edit-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--pink-light-1);
+    border: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 20px var(--pink-dark-2);
+    cursor: pointer;
+    transition-duration: 0.3s;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none !important;
+}
+
+.edit-svgIcon {
+    width: 17px;
+    transition-duration: 0.3s;
+}
+
+.edit-svgIcon path {
+    fill: white;
+}
+
+.edit-btn:hover {
+    width: 120px;
+    border-radius: 50px;
+    transition-duration: 0.3s;
+    background-color: var(--pink-dark-2);
+    align-items: center;
+    box-shadow: 0px 0px 20px var(--pink-normal);
+}
+
+.edit-btn:hover .edit-svgIcon {
+    width: 20px;
+    transition-duration: 0.3s;
+    transform: translateY(60%);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.edit-btn:hover path {
+    fill: black;
+}
+
+.edit-btn::before {
+    display: none;
+    color: white;
+    transition-duration: 0.3s;
+    font-size: 2px;
+}
+
+.edit-btn:hover::before {
+    display: block;
+    padding-right: 10px;
+    font-size: 13px;
+    opacity: 1;
+    transform: translateY(0px);
+    transition-duration: 0.3s;
+}

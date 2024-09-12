@@ -1,0 +1,245 @@
+{
+    "package": "Soldier",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630273.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630274.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630277.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630279.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630281.png",
+            "alt": "Tank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630283.png",
+            "alt": "Jeep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630285.png",
+            "alt": "Drum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630287.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630289.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630291.png",
+            "alt": "Infantry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630293.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630295.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630297.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630299.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630301.png",
+            "alt": "Armored truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630303.png",
+            "alt": "Tent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630305.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630307.png",
+            "alt": "Tank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630309.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630311.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630276.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630278.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630280.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630282.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630284.png",
+            "alt": "Tank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630286.png",
+            "alt": "Jeep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630288.png",
+            "alt": "Drum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630290.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630292.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630294.png",
+            "alt": "Infantry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630296.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630298.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630300.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630302.png",
+            "alt": "Parachute"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630304.png",
+            "alt": "Armored truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630306.png",
+            "alt": "Tent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630308.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630310.png",
+            "alt": "Tank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630312.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7630/7630313.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650505.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650513.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650519.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650532.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650539.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650545.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650550.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650556.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650562.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650568.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650573.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650581.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650591.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650598.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650605.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650612.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650619.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650626.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650631.png",
+            "alt": "Soldier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7650/7650635.png",
+            "alt": "Soldier"
+        }
+    ]
+}

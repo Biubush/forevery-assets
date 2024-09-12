@@ -1,0 +1,85 @@
+{
+    "package": "Online Media",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858427.png",
+            "alt": "Content creator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858428.png",
+            "alt": "Database"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858430.png",
+            "alt": "Email"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858432.png",
+            "alt": "Firewall"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858434.png",
+            "alt": "Hate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858436.png",
+            "alt": "Live streaming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858438.png",
+            "alt": "Marketplace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858442.png",
+            "alt": "Notification"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858445.png",
+            "alt": "News"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858451.png",
+            "alt": "Online store"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858459.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858464.png",
+            "alt": "Premium account"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858469.png",
+            "alt": "Schedule"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858475.png",
+            "alt": "Search engine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858484.png",
+            "alt": "News"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858492.png",
+            "alt": "Social media"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858500.png",
+            "alt": "Upload"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858508.png",
+            "alt": "Web chat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858516.png",
+            "alt": "Website"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6858/6858524.png",
+            "alt": "Global communication"
+        }
+    ]
+}

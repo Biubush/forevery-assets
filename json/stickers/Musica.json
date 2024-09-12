@@ -1,0 +1,85 @@
+{
+    "package": "Musica",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14436/14436992.png",
+            "alt": "Cumbia"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14436/14436995.png",
+            "alt": "Tango"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14436/14436998.png",
+            "alt": "Salsa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437000.png",
+            "alt": "Flamenco"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437003.png",
+            "alt": "Jarocho"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437006.png",
+            "alt": "Milonga"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437008.png",
+            "alt": "Vallenato"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437010.png",
+            "alt": "Rock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437012.png",
+            "alt": "Mariachis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437014.png",
+            "alt": "Cumbia"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437016.png",
+            "alt": "Jazz"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437018.png",
+            "alt": "Reggae"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437020.png",
+            "alt": "Batucada"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437024.png",
+            "alt": "Samba"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437027.png",
+            "alt": "Flamenco"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437030.png",
+            "alt": "Tango"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437034.png",
+            "alt": "Reggaeton"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437037.png",
+            "alt": "Folklore"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437041.png",
+            "alt": "Bolero"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14437/14437044.png",
+            "alt": "Ballad"
+        }
+    ]
+}

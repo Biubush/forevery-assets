@@ -1,0 +1,165 @@
+{
+    "package": "City Buildings",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871544.png",
+            "alt": "City Hall"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871545.png",
+            "alt": "Channel tv"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871546.png",
+            "alt": "Gym"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871547.png",
+            "alt": "Bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871548.png",
+            "alt": "Police Station"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871549.png",
+            "alt": "Church"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871550.png",
+            "alt": "Bakery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871551.png",
+            "alt": "Lighthouse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871552.png",
+            "alt": "Library"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871553.png",
+            "alt": "Stadium"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871554.png",
+            "alt": "Pizzeria"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871555.png",
+            "alt": "house"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871556.png",
+            "alt": "Museum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871557.png",
+            "alt": "Fire Station"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871558.png",
+            "alt": "Pub"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871559.png",
+            "alt": "School"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871560.png",
+            "alt": "Barbershop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871561.png",
+            "alt": "Ramen"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871562.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8871/8871563.png",
+            "alt": "Cinema"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285593.png",
+            "alt": "Ambulance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285595.png",
+            "alt": "Food Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285598.png",
+            "alt": "Bus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285601.png",
+            "alt": "Grocery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285603.png",
+            "alt": "Hospital"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285605.png",
+            "alt": "Taxi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285607.png",
+            "alt": "Food Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285608.png",
+            "alt": "Flower shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285609.png",
+            "alt": "Museum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285610.png",
+            "alt": "Police Car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285611.png",
+            "alt": "Firefighter car"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285612.png",
+            "alt": "Bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285613.png",
+            "alt": "Hair Salon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285614.png",
+            "alt": "Hotel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285615.png",
+            "alt": "Food Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285616.png",
+            "alt": "School"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285617.png",
+            "alt": "Donut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285618.png",
+            "alt": "Police Station"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285619.png",
+            "alt": "Church"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9285/9285620.png",
+            "alt": "Coffee shop"
+        }
+    ]
+}

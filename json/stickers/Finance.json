@@ -1,0 +1,245 @@
+{
+    "package": "Finance",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6840/6840169.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6840/6840171.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6840/6840173.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6840/6840175.png",
+            "alt": "Tick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6840/6840178.png",
+            "alt": "Investigation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6840/6840181.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847740.png",
+            "alt": "Equilibrium"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847745.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847749.png",
+            "alt": "Inflation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847753.png",
+            "alt": "Formula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847757.png",
+            "alt": "Save money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847760.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847764.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847767.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847770.png",
+            "alt": "Stock chart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847773.png",
+            "alt": "Money exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847776.png",
+            "alt": "Pie chart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847780.png",
+            "alt": "Down arrow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847785.png",
+            "alt": "Save money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6847/6847790.png",
+            "alt": "Wallet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368047.png",
+            "alt": "Advisor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368051.png",
+            "alt": "Analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368055.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368059.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368064.png",
+            "alt": "Down"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368068.png",
+            "alt": "Equilibrium"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368072.png",
+            "alt": "Formula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368075.png",
+            "alt": "Gold bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368078.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368081.png",
+            "alt": "Inflation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368084.png",
+            "alt": "Innovation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368087.png",
+            "alt": "Investigation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368089.png",
+            "alt": "Management"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368091.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368093.png",
+            "alt": "Exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368095.png",
+            "alt": "Passive income"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368097.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368098.png",
+            "alt": "Protection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368100.png",
+            "alt": "Save money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9368/9368102.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564108.png",
+            "alt": "Bad gateway"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564110.png",
+            "alt": "Bitcoin mining"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564114.png",
+            "alt": "Profit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564116.png",
+            "alt": "Nft"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564118.png",
+            "alt": "Exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564123.png",
+            "alt": "Analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564125.png",
+            "alt": "Investment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564128.png",
+            "alt": "Loss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564131.png",
+            "alt": "Marketplace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564135.png",
+            "alt": "Saving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564138.png",
+            "alt": "Encryption"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564141.png",
+            "alt": "Financial planning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564145.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564148.png",
+            "alt": "Loan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564150.png",
+            "alt": "Money exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564155.png",
+            "alt": "Money insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564157.png",
+            "alt": "Investment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564160.png",
+            "alt": "Online banking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564168.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12564/12564172.png",
+            "alt": "Secure payment"
+        }
+    ]
+}

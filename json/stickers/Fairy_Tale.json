@@ -1,0 +1,85 @@
+{
+    "package": "Fairy tale",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180437.png",
+            "alt": "Diamonds"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180438.png",
+            "alt": "Crown"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180439.png",
+            "alt": "Mirrors"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180440.png",
+            "alt": "Dress"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180441.png",
+            "alt": "Fairy tale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180442.png",
+            "alt": "Unicorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180443.png",
+            "alt": "Flask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180444.png",
+            "alt": "Magic ball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180447.png",
+            "alt": "Apple"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180449.png",
+            "alt": "Flower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180451.png",
+            "alt": "Hat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180453.png",
+            "alt": "Diamond"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180455.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180457.png",
+            "alt": "High heels"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180459.png",
+            "alt": "Castle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180461.png",
+            "alt": "Cauldron"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180463.png",
+            "alt": "Fairy tale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180465.png",
+            "alt": "Shield"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180467.png",
+            "alt": "Carriage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11180/11180469.png",
+            "alt": "Knight"
+        }
+    ]
+}

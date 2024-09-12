@@ -1,0 +1,85 @@
+{
+    "package": "Computer",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060603.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060608.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060613.png",
+            "alt": "Geek"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060617.png",
+            "alt": "Printer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060621.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060625.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060629.png",
+            "alt": "Geek"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060633.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060637.png",
+            "alt": "Pendrive"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060641.png",
+            "alt": "Mouse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060645.png",
+            "alt": "Device"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060649.png",
+            "alt": "Geek"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060653.png",
+            "alt": "Folder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060657.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060661.png",
+            "alt": "Geek"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060665.png",
+            "alt": "Laptop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060669.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060674.png",
+            "alt": "Cpu"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060678.png",
+            "alt": "Geek"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8060/8060682.png",
+            "alt": "Old school"
+        }
+    ]
+}

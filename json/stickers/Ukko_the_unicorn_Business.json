@@ -1,0 +1,85 @@
+{
+    "package": "Ukko the unicorn Business",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865923.png",
+            "alt": "Working"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865925.png",
+            "alt": "Marketing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865927.png",
+            "alt": "Struggle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865929.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865931.png",
+            "alt": "Business"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865933.png",
+            "alt": "Decision making"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865935.png",
+            "alt": "Obstacle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865936.png",
+            "alt": "Analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865939.png",
+            "alt": "Overload"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865940.png",
+            "alt": "Analysis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865942.png",
+            "alt": "Business strategy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865944.png",
+            "alt": "Business idea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865946.png",
+            "alt": "Coffee break"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865949.png",
+            "alt": "Busy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865951.png",
+            "alt": "Analytics"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865953.png",
+            "alt": "Success"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865954.png",
+            "alt": "Objective"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865955.png",
+            "alt": "Worker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865956.png",
+            "alt": "Best employee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4865/4865957.png",
+            "alt": "Rocket"
+        }
+    ]
+}

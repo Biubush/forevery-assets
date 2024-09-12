@@ -1,0 +1,581 @@
+{
+    "package": "Social Media Slang Bubbles",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475961.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475965.png",
+            "alt": "Good job"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475971.png",
+            "alt": "Play"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475977.png",
+            "alt": "Good night"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475982.png",
+            "alt": "Wow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475988.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475994.png",
+            "alt": "Crush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475999.png",
+            "alt": "Asap"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476004.png",
+            "alt": "Lol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476010.png",
+            "alt": "Wtf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476016.png",
+            "alt": "Boom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476021.png",
+            "alt": "Bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476026.png",
+            "alt": "Nice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476030.png",
+            "alt": "Yep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476034.png",
+            "alt": "Yay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476039.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476043.png",
+            "alt": "Super"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476048.png",
+            "alt": "Yes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476054.png",
+            "alt": "How much"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476059.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476064.png",
+            "alt": "Gg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476066.png",
+            "alt": "Too much"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476068.png",
+            "alt": "Level up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476070.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476072.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476074.png",
+            "alt": "Boo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476076.png",
+            "alt": "Bang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476077.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476078.png",
+            "alt": "Yolo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476081.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476083.png",
+            "alt": "Heat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476085.png",
+            "alt": "Slang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476088.png",
+            "alt": "Kiss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476090.png",
+            "alt": "Fun fact"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476092.png",
+            "alt": "Ohh"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476095.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476098.png",
+            "alt": "Idc"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476101.png",
+            "alt": "Thinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476104.png",
+            "alt": "Welcome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476106.png",
+            "alt": "Hi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476109.png",
+            "alt": "Cool "
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476112.png",
+            "alt": "Boom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476115.png",
+            "alt": "Sorry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476118.png",
+            "alt": "Dead"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476120.png",
+            "alt": "Miss you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476123.png",
+            "alt": "For you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476126.png",
+            "alt": "Oops"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476129.png",
+            "alt": "Lets go"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475985.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475991.png",
+            "alt": "Good job"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9475/9475997.png",
+            "alt": "Play"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476003.png",
+            "alt": "Good night"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476006.png",
+            "alt": "Wow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476013.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476019.png",
+            "alt": "Crush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476023.png",
+            "alt": "Asap"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476028.png",
+            "alt": "Lol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476033.png",
+            "alt": "Wtf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476038.png",
+            "alt": "Wow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476044.png",
+            "alt": "Bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476049.png",
+            "alt": "Nice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476053.png",
+            "alt": "Yep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476058.png",
+            "alt": "Yep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476063.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476067.png",
+            "alt": "Super"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476069.png",
+            "alt": "Yes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476071.png",
+            "alt": "How much"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476073.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476075.png",
+            "alt": "Gg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476086.png",
+            "alt": "Too much"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476091.png",
+            "alt": "Level up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476093.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476096.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476099.png",
+            "alt": "Boo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476102.png",
+            "alt": "Bang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476105.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476108.png",
+            "alt": "Yolo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476111.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476113.png",
+            "alt": "Heat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476116.png",
+            "alt": "Slang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476119.png",
+            "alt": "Kiss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476122.png",
+            "alt": "Fun fact"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476125.png",
+            "alt": "Ohh"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476128.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476131.png",
+            "alt": "Idc"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476133.png",
+            "alt": "Thinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476134.png",
+            "alt": "Welcome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476136.png",
+            "alt": "Hi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476138.png",
+            "alt": "Cool "
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476140.png",
+            "alt": "Boom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476142.png",
+            "alt": "Sorry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476144.png",
+            "alt": "Dead"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476146.png",
+            "alt": "Miss you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476147.png",
+            "alt": "For you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476149.png",
+            "alt": "Oops"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476151.png",
+            "alt": "Lets go"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476080.png",
+            "alt": "Thank you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476082.png",
+            "alt": "Good job"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476084.png",
+            "alt": "Play"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476087.png",
+            "alt": "Good night"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476089.png",
+            "alt": "Wow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476094.png",
+            "alt": "Good luck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476097.png",
+            "alt": "Crush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476100.png",
+            "alt": "Asap"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476103.png",
+            "alt": "Lol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476107.png",
+            "alt": "Wtf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476110.png",
+            "alt": "Boom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476114.png",
+            "alt": "Bye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476117.png",
+            "alt": "Nice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476121.png",
+            "alt": "Yep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476124.png",
+            "alt": "Yay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476127.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476130.png",
+            "alt": "Super"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476132.png",
+            "alt": "Yes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476135.png",
+            "alt": "How much"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476137.png",
+            "alt": "Goal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476139.png",
+            "alt": "Gg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476141.png",
+            "alt": "Too much"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476143.png",
+            "alt": "Level up"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476145.png",
+            "alt": "Omg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476148.png",
+            "alt": "Ok"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476150.png",
+            "alt": "Boo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476152.png",
+            "alt": "Bang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476153.png",
+            "alt": "Welcome back"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476154.png",
+            "alt": "Yolo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476155.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476156.png",
+            "alt": "Heat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476157.png",
+            "alt": "Slang"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476158.png",
+            "alt": "Kiss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476159.png",
+            "alt": "Fun fact"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476160.png",
+            "alt": "Ohh"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476161.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476162.png",
+            "alt": "Idc"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476163.png",
+            "alt": "Thinking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476164.png",
+            "alt": "Welcome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476165.png",
+            "alt": "Hi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476166.png",
+            "alt": "Cool "
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476167.png",
+            "alt": "Boom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476168.png",
+            "alt": "Sorry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476169.png",
+            "alt": "Dead"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476170.png",
+            "alt": "Miss you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476171.png",
+            "alt": "For you"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476172.png",
+            "alt": "Oops"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9476/9476173.png",
+            "alt": "Lets go"
+        }
+    ]
+}

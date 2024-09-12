@@ -1,0 +1,165 @@
+{
+    "package": "Shipping Delivery",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446149.png",
+            "alt": "Bill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446150.png",
+            "alt": "Boxes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446151.png",
+            "alt": "Cargo Truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446152.png",
+            "alt": "Conveyor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446153.png",
+            "alt": "Customer service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446154.png",
+            "alt": "Delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446155.png",
+            "alt": "Fast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446156.png",
+            "alt": "Food Delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446157.png",
+            "alt": "Fragile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446158.png",
+            "alt": "Open Box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446159.png",
+            "alt": "Overload"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446160.png",
+            "alt": "Postman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446161.png",
+            "alt": "Safety"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446162.png",
+            "alt": "Storage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446163.png",
+            "alt": "Tired"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446164.png",
+            "alt": "Tracking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446165.png",
+            "alt": "Trolley"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446166.png",
+            "alt": "Warehouse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446167.png",
+            "alt": "weight"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9446/9446168.png",
+            "alt": "World Wide"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826948.png",
+            "alt": "Overload"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826949.png",
+            "alt": "Cash on delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826950.png",
+            "alt": "Clipboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826951.png",
+            "alt": "Delay"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826952.png",
+            "alt": "Drone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826953.png",
+            "alt": "Confirmation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826954.png",
+            "alt": "Tracking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826955.png",
+            "alt": "Delivery truck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826956.png",
+            "alt": "Express delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826957.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826958.png",
+            "alt": "Box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826959.png",
+            "alt": "Lock"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826960.png",
+            "alt": "Delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826961.png",
+            "alt": "Online"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826962.png",
+            "alt": "Packing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826963.png",
+            "alt": "Warranty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826964.png",
+            "alt": "Teleportation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826965.png",
+            "alt": "Unboxing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826966.png",
+            "alt": "Warehouse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10826/10826967.png",
+            "alt": "Warehouse"
+        }
+    ]
+}

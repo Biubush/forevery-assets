@@ -1,0 +1,405 @@
+{
+    "package": "Grooming",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428688.png",
+            "alt": "Carrier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428689.png",
+            "alt": "Solarium"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428690.png",
+            "alt": "Mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428691.png",
+            "alt": "Bug repellent"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428692.png",
+            "alt": "Face massage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428693.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428694.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428695.png",
+            "alt": "Nail clippers"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428696.png",
+            "alt": "Earwax"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428697.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428698.png",
+            "alt": "Bath"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428699.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428700.png",
+            "alt": "Teeth brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428701.png",
+            "alt": "Comb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428702.png",
+            "alt": "Nail file"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428703.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428704.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428705.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428706.png",
+            "alt": "Haircut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11428/11428707.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481645.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481646.png",
+            "alt": "Moustache"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481647.png",
+            "alt": "Shaving brush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481648.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481649.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481650.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481651.png",
+            "alt": "After shave"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481652.png",
+            "alt": "Razor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481653.png",
+            "alt": "Hair clipper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481654.png",
+            "alt": "Shaving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481655.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481656.png",
+            "alt": "Razor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481657.png",
+            "alt": "Hairspray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481658.png",
+            "alt": "Hairdryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481659.png",
+            "alt": "Comb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481660.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481661.png",
+            "alt": "Barber shop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481662.png",
+            "alt": "Hair wax"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481663.png",
+            "alt": "Electric razor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481664.png",
+            "alt": "Hairstyle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481666.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481667.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481668.png",
+            "alt": "Comb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481669.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481670.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481671.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481672.png",
+            "alt": "Solarium"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481673.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481674.png",
+            "alt": "Cup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481675.png",
+            "alt": "Pesticide"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481676.png",
+            "alt": "Carrier"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481677.png",
+            "alt": "Bath"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481678.png",
+            "alt": "Hairdryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481679.png",
+            "alt": "Haircut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481680.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481681.png",
+            "alt": "Toothbrushing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481682.png",
+            "alt": "Lime"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481683.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481684.png",
+            "alt": "Cotton bud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11481/11481685.png",
+            "alt": "Facial cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623955.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623956.png",
+            "alt": "Drops"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623957.png",
+            "alt": "Hygiene"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623958.png",
+            "alt": "Facial cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623959.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623960.png",
+            "alt": "Powder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623961.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623962.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623963.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623964.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623965.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623966.png",
+            "alt": "Shaving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623967.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623968.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623969.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623970.png",
+            "alt": "Toothpaste"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623971.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623972.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623973.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11623/11623974.png",
+            "alt": "Skin care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12558/12558993.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12558/12558994.png",
+            "alt": "Body scrub"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12558/12558995.png",
+            "alt": "Scissors"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12558/12558996.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12558/12558997.png",
+            "alt": "Trimmer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12558/12558998.png",
+            "alt": "Trimmer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12558/12558999.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559000.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559001.png",
+            "alt": "Nail polish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559002.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559003.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559004.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559005.png",
+            "alt": "Eye mascara"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559006.png",
+            "alt": "Shaving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559007.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559008.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559009.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559010.png",
+            "alt": "Shaving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559011.png",
+            "alt": "Comb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12559/12559012.png",
+            "alt": "Moustache"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "package": "Startup",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648242.png",
+            "alt": "Cloud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648244.png",
+            "alt": "Chat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648246.png",
+            "alt": "Mobile application"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648248.png",
+            "alt": "Customer service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648250.png",
+            "alt": "Device"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648252.png",
+            "alt": "Megaphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648256.png",
+            "alt": "Performance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648258.png",
+            "alt": "Coin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648260.png",
+            "alt": "Paper plane"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648262.png",
+            "alt": "Invesment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648264.png",
+            "alt": "Monitor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648266.png",
+            "alt": "Website"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648268.png",
+            "alt": "Gear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648270.png",
+            "alt": "Calendar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648272.png",
+            "alt": "Piggybank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648274.png",
+            "alt": "Suitcase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648276.png",
+            "alt": "Multiple user"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648282.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648288.png",
+            "alt": "Graphic board"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648293.png",
+            "alt": "Pie chart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648303.png",
+            "alt": "Rocket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648310.png",
+            "alt": "News"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648318.png",
+            "alt": "Web development"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7648/7648326.png",
+            "alt": "Thumbs up"
+        }
+    ]
+}

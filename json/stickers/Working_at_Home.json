@@ -1,0 +1,85 @@
+{
+    "package": "Working at Home",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057369.png",
+            "alt": "Cloud storage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057381.png",
+            "alt": "Coffee break"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057393.png",
+            "alt": "Digital signature"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057413.png",
+            "alt": "Family"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057427.png",
+            "alt": "File sharing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057443.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057458.png",
+            "alt": "Group chat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057472.png",
+            "alt": "Internet connection"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057487.png",
+            "alt": "Mail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057499.png",
+            "alt": "Planning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057515.png",
+            "alt": "Receive money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057526.png",
+            "alt": "Stationery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057537.png",
+            "alt": "Time management"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057554.png",
+            "alt": "Time"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057565.png",
+            "alt": "Video conference"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057578.png",
+            "alt": "Voice message"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057592.png",
+            "alt": "Workflow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057605.png",
+            "alt": "Work from home"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057618.png",
+            "alt": "Workout"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057632.png",
+            "alt": "Workspace"
+        }
+    ]
+}

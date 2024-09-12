@@ -1,0 +1,85 @@
+{
+    "package": "Birthday bear",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214533.png",
+            "alt": "Birthday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214535.png",
+            "alt": "Champagne"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214540.png",
+            "alt": "Guitar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214543.png",
+            "alt": "Wish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214546.png",
+            "alt": "Candle blow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214549.png",
+            "alt": "Cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214552.png",
+            "alt": "Cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214555.png",
+            "alt": "Cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214558.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214562.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214565.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214568.png",
+            "alt": "Party"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214571.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214575.png",
+            "alt": "Gift"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214579.png",
+            "alt": "Balloons"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214582.png",
+            "alt": "Sparkler"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214585.png",
+            "alt": "Balloons"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214588.png",
+            "alt": "Celebration"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214590.png",
+            "alt": "Celebration"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12214/12214592.png",
+            "alt": "Drink"
+        }
+    ]
+}

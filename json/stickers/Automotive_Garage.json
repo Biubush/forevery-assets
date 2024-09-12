@@ -1,0 +1,85 @@
+{
+    "package": "Automotive Garage",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355878.png",
+            "alt": "Garage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355880.png",
+            "alt": "Broken"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355885.png",
+            "alt": "Diagnose"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355889.png",
+            "alt": "Mechanic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355893.png",
+            "alt": "Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355897.png",
+            "alt": "Tuning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355901.png",
+            "alt": "Car wash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355906.png",
+            "alt": "Tire"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355912.png",
+            "alt": "Car wash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355915.png",
+            "alt": "Car key"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355917.png",
+            "alt": "Fuel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355920.png",
+            "alt": "Steering"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355924.png",
+            "alt": "Piston"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355928.png",
+            "alt": "Mechanic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355932.png",
+            "alt": "Car oil"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355936.png",
+            "alt": "Car service"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355939.png",
+            "alt": "Rental"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355942.png",
+            "alt": "Tire"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355945.png",
+            "alt": "Tow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11355/11355948.png",
+            "alt": "Crane truck"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "package": "Hospitality",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796089.png",
+            "alt": "Bathroom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796091.png",
+            "alt": "Breakfast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796093.png",
+            "alt": "Broom"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796095.png",
+            "alt": "Check"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796097.png",
+            "alt": "Check in"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796099.png",
+            "alt": "Cleaning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796101.png",
+            "alt": "Clothes rack"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796103.png",
+            "alt": "Customer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796105.png",
+            "alt": "Customer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796107.png",
+            "alt": "Deck chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796109.png",
+            "alt": "Early bird"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796111.png",
+            "alt": "Food serving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796113.png",
+            "alt": "Food trolley"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796115.png",
+            "alt": "Giving"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796117.png",
+            "alt": "Tracking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796118.png",
+            "alt": "Golf course"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796120.png",
+            "alt": "Gym"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796121.png",
+            "alt": "Handshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796122.png",
+            "alt": "Hot tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796123.png",
+            "alt": "Hotel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796124.png",
+            "alt": "Hotel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796125.png",
+            "alt": "Hotel board"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796126.png",
+            "alt": "Hotel building"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796127.png",
+            "alt": "Reception"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796128.png",
+            "alt": "Review"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796129.png",
+            "alt": "Hotel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796130.png",
+            "alt": "Id card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796131.png",
+            "alt": "Iron table"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796132.png",
+            "alt": "Key card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796133.png",
+            "alt": "Kindness"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796134.png",
+            "alt": "Trolley"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796135.png",
+            "alt": "Location map"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796136.png",
+            "alt": "Luggage trolley"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796137.png",
+            "alt": "Making"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796138.png",
+            "alt": "Medical assistance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796139.png",
+            "alt": "No smoking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796140.png",
+            "alt": "Quality"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796141.png",
+            "alt": "Ringing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796142.png",
+            "alt": "Room"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796143.png",
+            "alt": "Room door"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796144.png",
+            "alt": "Security"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796145.png",
+            "alt": "Shower"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796146.png",
+            "alt": "Sofa"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796147.png",
+            "alt": "Taxi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796148.png",
+            "alt": "Travel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796149.png",
+            "alt": "Travel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796150.png",
+            "alt": "Tv"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796151.png",
+            "alt": "Vacuum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796152.png",
+            "alt": "Wading pool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11796/11796153.png",
+            "alt": "Washing machine"
+        }
+    ]
+}

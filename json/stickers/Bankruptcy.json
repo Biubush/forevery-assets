@@ -1,0 +1,565 @@
+{
+    "package": "Bankruptcy",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534901.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534902.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534903.png",
+            "alt": "Begging"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534904.png",
+            "alt": "Debts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534905.png",
+            "alt": "Loss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534906.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534907.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534908.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534909.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534910.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534911.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534912.png",
+            "alt": "Taxes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534913.png",
+            "alt": "Loss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534914.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534915.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534916.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534917.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534918.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534919.png",
+            "alt": "Closed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13534/13534920.png",
+            "alt": "Begging"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707947.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707948.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707949.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707950.png",
+            "alt": "Eviction"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707951.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707952.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707953.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707954.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707955.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707956.png",
+            "alt": "Loss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707957.png",
+            "alt": "Beggar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707958.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707959.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707960.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707961.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707962.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707963.png",
+            "alt": "Taxes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707964.png",
+            "alt": "Bankcruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707965.png",
+            "alt": "Loss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13707/13707966.png",
+            "alt": "Begging"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719359.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719360.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719361.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719362.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719363.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719364.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719365.png",
+            "alt": "Insolvency"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719366.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719367.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719368.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719369.png",
+            "alt": "Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719370.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719371.png",
+            "alt": "Warning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719372.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719373.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719374.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719375.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719376.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719377.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719378.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719380.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719381.png",
+            "alt": "Flying money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719382.png",
+            "alt": "Atm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719383.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719384.png",
+            "alt": "Economic crisis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719385.png",
+            "alt": "Economic crisis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719386.png",
+            "alt": "Poor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719387.png",
+            "alt": "Mortgage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719388.png",
+            "alt": "Closed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719389.png",
+            "alt": "Tax"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719390.png",
+            "alt": "Graph"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719391.png",
+            "alt": "Poor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719392.png",
+            "alt": "No money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719393.png",
+            "alt": "Recession"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719394.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719395.png",
+            "alt": "Poor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719396.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719397.png",
+            "alt": "Poor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719398.png",
+            "alt": "Help"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/13719/13719399.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321605.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321606.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321607.png",
+            "alt": "Out of business"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321608.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321609.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321610.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321611.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321612.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321613.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321614.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321615.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321616.png",
+            "alt": "Cash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321617.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321618.png",
+            "alt": "Out of business"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321619.png",
+            "alt": "Loss"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321620.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321621.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321622.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321623.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14321/14321624.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525475.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525480.png",
+            "alt": "Wallet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525485.png",
+            "alt": "Megaphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525489.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525494.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525498.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525502.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525508.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525512.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525516.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525520.png",
+            "alt": "Phone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525523.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525526.png",
+            "alt": "Economic crisis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525529.png",
+            "alt": "Graph"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525531.png",
+            "alt": "Help"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525534.png",
+            "alt": "Graph"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525536.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525538.png",
+            "alt": "Economic crisis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525540.png",
+            "alt": "Bills"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14525/14525542.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574528.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574529.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574533.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574536.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574538.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574541.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574544.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574546.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574549.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574552.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574555.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574558.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574560.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574563.png",
+            "alt": "Debt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574566.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574568.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574571.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574574.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574577.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14574/14574580.png",
+            "alt": "Poor"
+        }
+    ]
+}

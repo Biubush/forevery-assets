@@ -1,0 +1,85 @@
+{
+    "package": "Marketing Content",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749193.png",
+            "alt": "Article"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749198.png",
+            "alt": "Billboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749201.png",
+            "alt": "Blog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749205.png",
+            "alt": "Content creator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749210.png",
+            "alt": "Copywriting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749215.png",
+            "alt": "Ebook"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749219.png",
+            "alt": "Flyer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749224.png",
+            "alt": "Infographic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749227.png",
+            "alt": "Marketing plan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749232.png",
+            "alt": "Catalogation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749235.png",
+            "alt": "Podcast"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749240.png",
+            "alt": "Promotion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749246.png",
+            "alt": "Research"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749251.png",
+            "alt": "Reviews"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749257.png",
+            "alt": "Salesman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749265.png",
+            "alt": "Smartphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749271.png",
+            "alt": "Social media"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749279.png",
+            "alt": "Survey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749287.png",
+            "alt": "Customer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7749/7749293.png",
+            "alt": "Video ad"
+        }
+    ]
+}

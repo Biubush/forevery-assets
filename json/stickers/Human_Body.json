@@ -1,0 +1,85 @@
+{
+    "package": "Human body",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027824.png",
+            "alt": "Heart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027825.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027826.png",
+            "alt": "Ear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027827.png",
+            "alt": "Arm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027828.png",
+            "alt": "Tooth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027829.png",
+            "alt": "Skeleton"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027830.png",
+            "alt": "Eye"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027831.png",
+            "alt": "Hand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027832.png",
+            "alt": "Lungs"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027833.png",
+            "alt": "X rays"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027834.png",
+            "alt": "Stomach"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027835.png",
+            "alt": "Human body"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027836.png",
+            "alt": "Tongue"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027837.png",
+            "alt": "Man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027838.png",
+            "alt": "Skull"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027839.png",
+            "alt": "X rays"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027840.png",
+            "alt": "Face"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027841.png",
+            "alt": "Brain"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027842.png",
+            "alt": "X rays"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/14027/14027843.png",
+            "alt": "Intestine"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Online Food Delivery",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506595.png",
+            "alt": "Fast food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506608.png",
+            "alt": "Coupon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506619.png",
+            "alt": "Delivery man"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506629.png",
+            "alt": "Delivery bike"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506639.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506651.png",
+            "alt": "Food cart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506672.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506683.png",
+            "alt": "Locations"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506695.png",
+            "alt": "Food stand"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506711.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506723.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506738.png",
+            "alt": "Order delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506749.png",
+            "alt": "Restaurant app"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506761.png",
+            "alt": "Review"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506773.png",
+            "alt": "Route"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506785.png",
+            "alt": "Search"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506795.png",
+            "alt": "Select"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506807.png",
+            "alt": "Customer support"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506821.png",
+            "alt": "Tip"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7506/7506834.png",
+            "alt": "Vegan"
+        }
+    ]
+}

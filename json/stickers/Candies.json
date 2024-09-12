@@ -1,0 +1,245 @@
+{
+    "package": "Candies",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139684.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139686.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139688.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139689.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139690.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139691.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139692.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139693.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139694.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139695.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139696.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139697.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139701.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139703.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139705.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139707.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139709.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139711.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139713.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10139/10139717.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463189.png",
+            "alt": "Candy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463190.png",
+            "alt": "Candy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463191.png",
+            "alt": "Macaroon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463192.png",
+            "alt": "Chocolate egg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463193.png",
+            "alt": "Lollipop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463194.png",
+            "alt": "Lollipop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463195.png",
+            "alt": "Lollipop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463196.png",
+            "alt": "Bubblegum"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463197.png",
+            "alt": "Caramelized apple"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463198.png",
+            "alt": "Pudding"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463199.png",
+            "alt": "Cotton candy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463200.png",
+            "alt": "Candy cane"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463201.png",
+            "alt": "Chocolate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463202.png",
+            "alt": "Candy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463203.png",
+            "alt": "Chocolate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463204.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463205.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463206.png",
+            "alt": "Pudding"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463207.png",
+            "alt": "Chocolate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11463/11463208.png",
+            "alt": "Chocolate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398154.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398155.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398156.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398157.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398158.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398159.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398160.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398161.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398162.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398163.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398164.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398165.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398166.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398167.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398168.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398169.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398170.png",
+            "alt": "Chocolate bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398171.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398172.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/12398/12398173.png",
+            "alt": "Ice cream cone"
+        }
+    ]
+}

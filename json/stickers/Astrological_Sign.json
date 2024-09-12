@@ -1,0 +1,389 @@
+{
+    "package": "Astrological Sign",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720553.png",
+            "alt": "Aries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720554.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720556.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720559.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720561.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720563.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720565.png",
+            "alt": "Aquarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720566.png",
+            "alt": "Pisces"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720568.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720569.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720570.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720571.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720572.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720573.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720574.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720575.png",
+            "alt": "Aquarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720576.png",
+            "alt": "Pisces"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720577.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720578.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720579.png",
+            "alt": "Aries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720580.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720581.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720582.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4720/4720583.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762038.png",
+            "alt": "Aries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762060.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762067.png",
+            "alt": "Aquarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762073.png",
+            "alt": "Pisces"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762079.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762086.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762092.png",
+            "alt": "Aquarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762096.png",
+            "alt": "Pisces"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762102.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762108.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762114.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762119.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762125.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762131.png",
+            "alt": "Aries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762137.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762144.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762152.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762158.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762166.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762175.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762181.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762188.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762195.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4762/4762203.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952958.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952964.png",
+            "alt": "Pisces"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952975.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952979.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952987.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4952/4952992.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953000.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953009.png",
+            "alt": "Aries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953017.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953026.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953033.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953041.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953054.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953068.png",
+            "alt": "Aquarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953083.png",
+            "alt": "Pisces"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953103.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953115.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953131.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953151.png",
+            "alt": "Aries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953168.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953189.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953215.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953240.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4953/4953267.png",
+            "alt": "Aquarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345451.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345458.png",
+            "alt": "Aquarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345474.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345480.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345488.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345495.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345502.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345509.png",
+            "alt": "Aries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345515.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345520.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345527.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345537.png",
+            "alt": "Gemini"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345547.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345552.png",
+            "alt": "Pisces"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345560.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345567.png",
+            "alt": "Capricorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345572.png",
+            "alt": "Sagittarius"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345581.png",
+            "alt": "Cancer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345589.png",
+            "alt": "Taurus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345594.png",
+            "alt": "Scorpio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345596.png",
+            "alt": "Libra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345598.png",
+            "alt": "Virgo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345599.png",
+            "alt": "Leo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5345/5345602.png",
+            "alt": "Pisces"
+        }
+    ]
+}

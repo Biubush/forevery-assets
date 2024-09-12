@@ -1,0 +1,85 @@
+{
+    "package": "Food Delivery Service",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057448.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057461.png",
+            "alt": "Bill"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057474.png",
+            "alt": "Cash on delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057488.png",
+            "alt": "Chinese food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057504.png",
+            "alt": "Coffee"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057516.png",
+            "alt": "Desserts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057529.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057544.png",
+            "alt": "Driver rating"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057556.png",
+            "alt": "Fast delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057566.png",
+            "alt": "Fast food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057577.png",
+            "alt": "Food app"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057591.png",
+            "alt": "Food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057602.png",
+            "alt": "Healthy food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057614.png",
+            "alt": "Food delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057628.png",
+            "alt": "Order food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057641.png",
+            "alt": "Open 24 hours"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057658.png",
+            "alt": "Order"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057670.png",
+            "alt": "Food and beverage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057683.png",
+            "alt": "Delivery bike"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7057/7057699.png",
+            "alt": "Restaurants"
+        }
+    ]
+}

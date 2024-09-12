@@ -1,0 +1,205 @@
+{
+    "package": "Office Material",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946255.png",
+            "alt": "Printer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946258.png",
+            "alt": "Tea"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946261.png",
+            "alt": "Brainstorm"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946263.png",
+            "alt": "Floppy disk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946266.png",
+            "alt": "Tape"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946268.png",
+            "alt": "Webcam"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946269.png",
+            "alt": "Calculator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946272.png",
+            "alt": "Phone book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946274.png",
+            "alt": "Projector"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946275.png",
+            "alt": "Telephone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946278.png",
+            "alt": "Archive"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946280.png",
+            "alt": "Presentation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946282.png",
+            "alt": "Email"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946284.png",
+            "alt": "Telephone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946286.png",
+            "alt": "Drawer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946288.png",
+            "alt": "Office chair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946290.png",
+            "alt": "Server"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946292.png",
+            "alt": "First aid"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946294.png",
+            "alt": "Table fan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946296.png",
+            "alt": "Stamp"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946298.png",
+            "alt": "Id card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946300.png",
+            "alt": "Headphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946302.png",
+            "alt": "Keyboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946304.png",
+            "alt": "Table lamp"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946306.png",
+            "alt": "Stapler"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946308.png",
+            "alt": "Shirt"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946310.png",
+            "alt": "Usb"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946313.png",
+            "alt": "Briefcase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946315.png",
+            "alt": "Trash"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946316.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946319.png",
+            "alt": "Plant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946321.png",
+            "alt": "Deal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946323.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946325.png",
+            "alt": "Stationery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946327.png",
+            "alt": "File storage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946329.png",
+            "alt": "Highlighter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946332.png",
+            "alt": "Creative"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946336.png",
+            "alt": "Note book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946339.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946342.png",
+            "alt": "Envelop"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946345.png",
+            "alt": "Cutter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946346.png",
+            "alt": "Telephone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946349.png",
+            "alt": "Trophy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946352.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946355.png",
+            "alt": "Folder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946360.png",
+            "alt": "Secure"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946364.png",
+            "alt": "Startup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946368.png",
+            "alt": "Certificate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946372.png",
+            "alt": "Sign"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11946/11946376.png",
+            "alt": "Urgent"
+        }
+    ]
+}

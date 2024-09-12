@@ -1,0 +1,85 @@
+{
+    "package": "Computer Education",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485811.png",
+            "alt": "Animation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485828.png",
+            "alt": "Cloud computing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485844.png",
+            "alt": "Video call"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485863.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485886.png",
+            "alt": "Computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485908.png",
+            "alt": "Creativity"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485927.png",
+            "alt": "Data"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485947.png",
+            "alt": "Database"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485967.png",
+            "alt": "Delete"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6485/6485988.png",
+            "alt": "Digital content"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486008.png",
+            "alt": "Elearning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486030.png",
+            "alt": "Elearning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486051.png",
+            "alt": "Presentation"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486073.png",
+            "alt": "Elearning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486095.png",
+            "alt": "Secure data"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486119.png",
+            "alt": "Multimedia"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486141.png",
+            "alt": "Secure folder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486160.png",
+            "alt": "Transfer data"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486177.png",
+            "alt": "Typing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6486/6486196.png",
+            "alt": "Web programming"
+        }
+    ]
+}

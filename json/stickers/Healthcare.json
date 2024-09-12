@@ -1,0 +1,85 @@
+{
+    "package": "Healthcare",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295532.png",
+            "alt": "Fever"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295533.png",
+            "alt": "Tonsils"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295534.png",
+            "alt": "Nurse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295535.png",
+            "alt": "Lab"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295536.png",
+            "alt": "Hygiene"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295537.png",
+            "alt": "Cough"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295538.png",
+            "alt": "Healthy food"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295539.png",
+            "alt": "Excersice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295540.png",
+            "alt": "Medicines"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295541.png",
+            "alt": "Toothbrush"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295542.png",
+            "alt": "Toothache"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295543.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295544.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295545.png",
+            "alt": "First aid kit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295546.png",
+            "alt": "Blood transfusion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295547.png",
+            "alt": "Injury"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295548.png",
+            "alt": "Surgeon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295549.png",
+            "alt": "Doctor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295550.png",
+            "alt": "X ray"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10295/10295551.png",
+            "alt": "Ophtalmologist"
+        }
+    ]
+}

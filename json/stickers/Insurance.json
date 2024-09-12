@@ -1,0 +1,85 @@
+{
+    "package": "Insurance",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499504.png",
+            "alt": "Delivery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499507.png",
+            "alt": "Education"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499510.png",
+            "alt": "Health Insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499513.png",
+            "alt": "house"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499516.png",
+            "alt": "Insurance company"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499519.png",
+            "alt": "Policy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499522.png",
+            "alt": "Investment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499525.png",
+            "alt": "Family"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499528.png",
+            "alt": "Logistic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499531.png",
+            "alt": "Long term"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499534.png",
+            "alt": "Machinery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499537.png",
+            "alt": "Mental care"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499540.png",
+            "alt": "Apps"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499543.png",
+            "alt": "Pension"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499545.png",
+            "alt": "Pet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499547.png",
+            "alt": "Property"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499548.png",
+            "alt": "Payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499549.png",
+            "alt": "Thief"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499550.png",
+            "alt": "Travel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9499/9499551.png",
+            "alt": "Worldwide"
+        }
+    ]
+}

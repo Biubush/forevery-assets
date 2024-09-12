@@ -1,0 +1,85 @@
+{
+    "package": "Boar Face Expression",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636960.png",
+            "alt": "Amazed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636964.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636972.png",
+            "alt": "Annoyed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636977.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636981.png",
+            "alt": "Cool "
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636986.png",
+            "alt": "Dizzy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636990.png",
+            "alt": "Hi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636994.png",
+            "alt": "Lol"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9636/9636998.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637002.png",
+            "alt": "Pissed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637007.png",
+            "alt": "Puke"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637010.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637012.png",
+            "alt": "Scared"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637014.png",
+            "alt": "Shocked"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637016.png",
+            "alt": "Shy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637018.png",
+            "alt": "Sick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637020.png",
+            "alt": "Sleep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637023.png",
+            "alt": "Smile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637025.png",
+            "alt": "Smirk"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9637/9637027.png",
+            "alt": "Yawn"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "package": "Movie Time Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7878/7878991.png",
+            "alt": "Disc"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7878/7878992.png",
+            "alt": "Camera"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7878/7878993.png",
+            "alt": "Screen"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7878/7878994.png",
+            "alt": "Clapperboard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7878/7878995.png",
+            "alt": "Cola"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7878/7878996.png",
+            "alt": "Action"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7878/7878997.png",
+            "alt": "Roll film"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879000.png",
+            "alt": "Film reel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879002.png",
+            "alt": "Horror movie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879005.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879007.png",
+            "alt": "Megaphone"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879009.png",
+            "alt": "Camera"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879011.png",
+            "alt": "Cd"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879013.png",
+            "alt": "Clapper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879014.png",
+            "alt": "Roll"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879016.png",
+            "alt": "Player"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879018.png",
+            "alt": "Popcorn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879020.png",
+            "alt": "Projector"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879022.png",
+            "alt": "Romance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879024.png",
+            "alt": "Script"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879026.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879028.png",
+            "alt": "Sound"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879030.png",
+            "alt": "Television"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879032.png",
+            "alt": "Ticket"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7879/7879034.png",
+            "alt": "Trophy"
+        }
+    ]
+}

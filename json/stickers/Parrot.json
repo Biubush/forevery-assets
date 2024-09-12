@@ -1,0 +1,245 @@
+{
+    "package": "Parrot",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453266.png",
+            "alt": "Angry"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453269.png",
+            "alt": "Birthday"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453272.png",
+            "alt": "Eat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453276.png",
+            "alt": "Fever"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453278.png",
+            "alt": "Full"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453280.png",
+            "alt": "Happy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453282.png",
+            "alt": "Hi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453284.png",
+            "alt": "Love"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453286.png",
+            "alt": "Mocking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453290.png",
+            "alt": "No"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453293.png",
+            "alt": "Peace"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453296.png",
+            "alt": "Proud"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453299.png",
+            "alt": "Relaxed"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453302.png",
+            "alt": "Run"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453305.png",
+            "alt": "Sad"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453308.png",
+            "alt": "Shocked"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453311.png",
+            "alt": "Sing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453314.png",
+            "alt": "Yawn"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453317.png",
+            "alt": "Yes"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8453/8453319.png",
+            "alt": "Yoga"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533185.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533190.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533195.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533200.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533207.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533213.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533221.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533228.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533234.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533240.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533246.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533251.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533257.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533263.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533269.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533275.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533282.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533288.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533294.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8533/8533300.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995723.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995731.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995738.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995749.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995761.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995769.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995780.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995791.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995800.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995811.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995824.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995832.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995843.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995854.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995865.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995906.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995915.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995923.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995929.png",
+            "alt": "Parrot"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8995/8995935.png",
+            "alt": "Parrot"
+        }
+    ]
+}

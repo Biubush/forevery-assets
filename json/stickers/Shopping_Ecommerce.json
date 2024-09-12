@@ -1,0 +1,85 @@
+{
+    "package": "Shopping Ecommerce",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394595.png",
+            "alt": "Scanner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394596.png",
+            "alt": "Best seller"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394597.png",
+            "alt": "Falling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394598.png",
+            "alt": "Confused"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394599.png",
+            "alt": "Flash sale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394600.png",
+            "alt": "Grocery"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394601.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394602.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394603.png",
+            "alt": "No money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394604.png",
+            "alt": "Online payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394605.png",
+            "alt": "Package box"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394606.png",
+            "alt": "Panic"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394607.png",
+            "alt": "Shopping"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394608.png",
+            "alt": "Reusable"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394609.png",
+            "alt": "Discount"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394610.png",
+            "alt": "Shopping list"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394611.png",
+            "alt": "Reward"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394612.png",
+            "alt": "Sold out"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394613.png",
+            "alt": "Store"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9394/9394614.png",
+            "alt": "Unboxing"
+        }
+    ]
+}

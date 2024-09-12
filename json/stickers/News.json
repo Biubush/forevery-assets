@@ -1,0 +1,85 @@
+{
+    "package": "News",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789895.png",
+            "alt": "News reporter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789896.png",
+            "alt": "Radio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789897.png",
+            "alt": "Newspaper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789898.png",
+            "alt": "Interview"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789899.png",
+            "alt": "Cameraman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789900.png",
+            "alt": "Interview"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789901.png",
+            "alt": "Paperboy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789902.png",
+            "alt": "Typewriter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789903.png",
+            "alt": "Identification"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789904.png",
+            "alt": "News report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789905.png",
+            "alt": "News reporter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789906.png",
+            "alt": "Van"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789909.png",
+            "alt": "On air"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789913.png",
+            "alt": "Interview"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789918.png",
+            "alt": "Reporter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789929.png",
+            "alt": "Sports journalist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789935.png",
+            "alt": "News report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789941.png",
+            "alt": "Interview"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789951.png",
+            "alt": "News reporter"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10789/10789961.png",
+            "alt": "Photographer"
+        }
+    ]
+}

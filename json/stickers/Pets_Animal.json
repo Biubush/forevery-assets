@@ -1,0 +1,85 @@
+{
+    "package": "Pets Animal",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4470/4470995.png",
+            "alt": "Pig"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4470/4470996.png",
+            "alt": "Chicken"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4470/4470997.png",
+            "alt": "Sheep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4470/4470998.png",
+            "alt": "Pug"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4470/4470999.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471000.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471001.png",
+            "alt": "Dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471002.png",
+            "alt": "Cow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471003.png",
+            "alt": "Duck"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471004.png",
+            "alt": "Horse"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471005.png",
+            "alt": "Leopard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471008.png",
+            "alt": "Donkey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471010.png",
+            "alt": "Zebra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471012.png",
+            "alt": "Monkey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471014.png",
+            "alt": "Hippo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471016.png",
+            "alt": "Owl"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471017.png",
+            "alt": "Bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471022.png",
+            "alt": "Penguin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471025.png",
+            "alt": "Seal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/4471/4471027.png",
+            "alt": "Goat"
+        }
+    ]
+}

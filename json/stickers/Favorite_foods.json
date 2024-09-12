@@ -1,0 +1,85 @@
+{
+    "package": "Favorite foods",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784070.png",
+            "alt": "Apple pie"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784076.png",
+            "alt": "Banana split"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784081.png",
+            "alt": "Burger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784085.png",
+            "alt": "Chocolate bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784089.png",
+            "alt": "Drink"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784094.png",
+            "alt": "Cookies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784097.png",
+            "alt": "Cupcake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784100.png",
+            "alt": "Dango"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784103.png",
+            "alt": "Donuts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784106.png",
+            "alt": "Ebi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784109.png",
+            "alt": "French fries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784112.png",
+            "alt": "Macarons"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784114.png",
+            "alt": "Beverage"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784117.png",
+            "alt": "Onigiri"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784121.png",
+            "alt": "Ice cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784125.png",
+            "alt": "Pudding"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784127.png",
+            "alt": "Smore"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784130.png",
+            "alt": "Sushi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784134.png",
+            "alt": "Tart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/5784/5784137.png",
+            "alt": "Waffle"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Summer sports",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518939.png",
+            "alt": "Surf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518942.png",
+            "alt": "Football"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518944.png",
+            "alt": "Climbing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518946.png",
+            "alt": "Windsurf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518948.png",
+            "alt": "Padel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518951.png",
+            "alt": "Golf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518953.png",
+            "alt": "Paddle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518955.png",
+            "alt": "Water ski"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518957.png",
+            "alt": "Bicycle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518960.png",
+            "alt": "Yoga"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518962.png",
+            "alt": "Swim"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518964.png",
+            "alt": "Trekking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518966.png",
+            "alt": "Runner"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518969.png",
+            "alt": "Volleyball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518971.png",
+            "alt": "Surf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518973.png",
+            "alt": "Tennis"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518975.png",
+            "alt": "Paddle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518978.png",
+            "alt": "Skating"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518980.png",
+            "alt": "Trekking"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7518/7518982.png",
+            "alt": "Scuba diving"
+        }
+    ]
+}

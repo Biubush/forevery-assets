@@ -1,0 +1,85 @@
+{
+    "package": "Library",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182852.png",
+            "alt": "Member card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182862.png",
+            "alt": "Audio book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182872.png",
+            "alt": "Barcode"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182886.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182899.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182919.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182938.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182954.png",
+            "alt": "Duration"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182977.png",
+            "alt": "Ebook"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6182/6182997.png",
+            "alt": "Librarian"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183013.png",
+            "alt": "Apps"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183053.png",
+            "alt": "Location"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183084.png",
+            "alt": "Member card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183102.png",
+            "alt": "Reading book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183125.png",
+            "alt": "Remove"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183147.png",
+            "alt": "Book"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183168.png",
+            "alt": "Scanning"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183190.png",
+            "alt": "Searching"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183212.png",
+            "alt": "Searching"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6183/6183235.png",
+            "alt": "Silent"
+        }
+    ]
+}

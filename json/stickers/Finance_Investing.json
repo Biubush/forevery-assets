@@ -1,0 +1,325 @@
+{
+    "package": "Finance Investing",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985656.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985658.png",
+            "alt": "Credit card"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985660.png",
+            "alt": "Money bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985662.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985664.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985666.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985668.png",
+            "alt": "Invest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985670.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985674.png",
+            "alt": "Buy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985676.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985679.png",
+            "alt": "Save money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985682.png",
+            "alt": "Safe deposit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985685.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985688.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985691.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985693.png",
+            "alt": "Save money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985695.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985700.png",
+            "alt": "Cryptocurrency"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985704.png",
+            "alt": "Finance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/6985/6985708.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169847.png",
+            "alt": "Report"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169848.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169849.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169850.png",
+            "alt": "Audit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169851.png",
+            "alt": "Investing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169852.png",
+            "alt": "Chart"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169853.png",
+            "alt": "Investing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169854.png",
+            "alt": "Pos terminal"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169855.png",
+            "alt": "Growth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169856.png",
+            "alt": "Calculator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169857.png",
+            "alt": "Safe deposit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169858.png",
+            "alt": "Invest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169859.png",
+            "alt": "Investing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169860.png",
+            "alt": "Money"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169861.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169862.png",
+            "alt": "Savings"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169863.png",
+            "alt": "Online payment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169864.png",
+            "alt": "Cashier machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169865.png",
+            "alt": "Accounting"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7169/7169866.png",
+            "alt": "Invest"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544912.png",
+            "alt": "Audit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544918.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544923.png",
+            "alt": "Calculator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544928.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544934.png",
+            "alt": "Decrease"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544939.png",
+            "alt": "Bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544944.png",
+            "alt": "Exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544949.png",
+            "alt": "Financial advisor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544954.png",
+            "alt": "Gold bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544960.png",
+            "alt": "Increase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544964.png",
+            "alt": "Investment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544968.png",
+            "alt": "Ipo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544972.png",
+            "alt": "Magnet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544976.png",
+            "alt": "Money management"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544980.png",
+            "alt": "Passive income"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544986.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544991.png",
+            "alt": "Portfolio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544995.png",
+            "alt": "Property insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544997.png",
+            "alt": "Protect"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544999.png",
+            "alt": "Money bag"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544915.png",
+            "alt": "Audit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544919.png",
+            "alt": "Bankruptcy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544924.png",
+            "alt": "Calculator"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544929.png",
+            "alt": "Target"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544933.png",
+            "alt": "Decrease"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544938.png",
+            "alt": "Bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544943.png",
+            "alt": "Exchange"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544948.png",
+            "alt": "Financial advisor"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544953.png",
+            "alt": "Gold bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544957.png",
+            "alt": "Increase"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544961.png",
+            "alt": "Investment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544965.png",
+            "alt": "Ipo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544969.png",
+            "alt": "Magnet"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544973.png",
+            "alt": "Money management"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544977.png",
+            "alt": "Passive income"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544981.png",
+            "alt": "Piggy bank"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544983.png",
+            "alt": "Portfolio"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544985.png",
+            "alt": "Property insurance"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544988.png",
+            "alt": "Protect"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/7544/7544992.png",
+            "alt": "Money bag"
+        }
+    ]
+}

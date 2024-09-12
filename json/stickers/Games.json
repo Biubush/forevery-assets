@@ -1,0 +1,245 @@
+{
+    "package": "Games",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201609.png",
+            "alt": "Vr glasses"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201611.png",
+            "alt": "Dice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201613.png",
+            "alt": "Chess"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201615.png",
+            "alt": "Video game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201619.png",
+            "alt": "Darts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201622.png",
+            "alt": "Board game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201625.png",
+            "alt": "Poker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201628.png",
+            "alt": "Roulette"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201631.png",
+            "alt": "Slot machine"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201634.png",
+            "alt": "Games"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201637.png",
+            "alt": "Board game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201639.png",
+            "alt": "Tic tac toe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201642.png",
+            "alt": "Online game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201645.png",
+            "alt": "Golf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201648.png",
+            "alt": "Pool"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201651.png",
+            "alt": "Poker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201654.png",
+            "alt": "Puzzle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201658.png",
+            "alt": "Baseball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201662.png",
+            "alt": "Board game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11201/11201665.png",
+            "alt": "Playing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229274.png",
+            "alt": "Chess"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229275.png",
+            "alt": "Win"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229276.png",
+            "alt": "Poker chips"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229277.png",
+            "alt": "Puzzle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229278.png",
+            "alt": "Videogame"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229279.png",
+            "alt": "Golf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229280.png",
+            "alt": "Virtual reality glasses"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229281.png",
+            "alt": "Roulette wheel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229282.png",
+            "alt": "Laptop computer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229285.png",
+            "alt": "Playing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229286.png",
+            "alt": "Dart board"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229289.png",
+            "alt": "Playing"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229291.png",
+            "alt": "Pirate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229293.png",
+            "alt": "Poker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229295.png",
+            "alt": "Video game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229297.png",
+            "alt": "Tic tac toe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229299.png",
+            "alt": "Role play"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229301.png",
+            "alt": "Dices"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229303.png",
+            "alt": "Baseball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11229/11229306.png",
+            "alt": "Billiard"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932687.png",
+            "alt": "Boardgames"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932689.png",
+            "alt": "Arcade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932691.png",
+            "alt": "Game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932693.png",
+            "alt": "Billiards"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932695.png",
+            "alt": "Paintball"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932697.png",
+            "alt": "Rol game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932699.png",
+            "alt": "Darts"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932700.png",
+            "alt": "Arcade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932702.png",
+            "alt": "Diskette"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932704.png",
+            "alt": "Arcade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932707.png",
+            "alt": "Puzzle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932709.png",
+            "alt": "Arcade"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932710.png",
+            "alt": "Dice"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932712.png",
+            "alt": "Poker"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932714.png",
+            "alt": "Board game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932716.png",
+            "alt": "Board game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932718.png",
+            "alt": "Board game"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932720.png",
+            "alt": "Chess"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932722.png",
+            "alt": "Domino"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11932/11932724.png",
+            "alt": "Rol game"
+        }
+    ]
+}

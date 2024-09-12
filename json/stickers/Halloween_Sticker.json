@@ -1,0 +1,93 @@
+{
+    "package": "Halloween Sticker",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526440.png",
+            "alt": "Alien"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526444.png",
+            "alt": "Catrina"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526449.png",
+            "alt": "Clown"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526454.png",
+            "alt": "Death"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526459.png",
+            "alt": "Demon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526463.png",
+            "alt": "Doll"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526466.png",
+            "alt": "Dracula"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526469.png",
+            "alt": "Flapper"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526473.png",
+            "alt": "Frankenstein"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526477.png",
+            "alt": "Ghost"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526481.png",
+            "alt": "Gnome"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526485.png",
+            "alt": "Harlequin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526489.png",
+            "alt": "Little red riding hood"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526492.png",
+            "alt": "Mime"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526495.png",
+            "alt": "Mummy"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526498.png",
+            "alt": "Princess"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526501.png",
+            "alt": "Pumpkin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526503.png",
+            "alt": "Rat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526506.png",
+            "alt": "scientist"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526509.png",
+            "alt": "Vampire"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526512.png",
+            "alt": "Werewolf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8526/8526515.png",
+            "alt": "Witch"
+        }
+    ]
+}

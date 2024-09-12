@@ -1,0 +1,245 @@
+{
+    "package": "Wild animals",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294008.png",
+            "alt": "Sea turtle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294009.png",
+            "alt": "Gecko"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294010.png",
+            "alt": "Octopus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294011.png",
+            "alt": "Penguin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294012.png",
+            "alt": "Rabbit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294013.png",
+            "alt": "Bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294014.png",
+            "alt": "Hedgehog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294015.png",
+            "alt": "Panda"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294016.png",
+            "alt": "Squirrel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294017.png",
+            "alt": "Raccoon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294018.png",
+            "alt": "Snail"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294019.png",
+            "alt": "Flamingo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294020.png",
+            "alt": "Fox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294021.png",
+            "alt": "Bat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294022.png",
+            "alt": "Deer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294023.png",
+            "alt": "Beat"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294024.png",
+            "alt": "Tiger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294025.png",
+            "alt": "Lion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294026.png",
+            "alt": "Elephant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10294/10294027.png",
+            "alt": "Dolphin"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752208.png",
+            "alt": "Crocodile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752211.png",
+            "alt": "Crocodile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752214.png",
+            "alt": "Whale"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752219.png",
+            "alt": "Giraffe"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752223.png",
+            "alt": "Flamingo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752227.png",
+            "alt": "Lion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752231.png",
+            "alt": "Elephant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752235.png",
+            "alt": "Monkey"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752239.png",
+            "alt": "Hippo"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752242.png",
+            "alt": "Moose"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752247.png",
+            "alt": "Tiger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752251.png",
+            "alt": "Rabbit"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752254.png",
+            "alt": "Bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752257.png",
+            "alt": "Deer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752261.png",
+            "alt": "Polar bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752265.png",
+            "alt": "Frog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752269.png",
+            "alt": "Toucan"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752273.png",
+            "alt": "Rhinoceros"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752278.png",
+            "alt": "Panda bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/11752/11752281.png",
+            "alt": "Sheep"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127919.png",
+            "alt": "Wolf"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127924.png",
+            "alt": "Elephant"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127929.png",
+            "alt": "Sloth"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127934.png",
+            "alt": "Zebra"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127939.png",
+            "alt": "Chameleon"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127943.png",
+            "alt": "Bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127948.png",
+            "alt": "Fox"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127953.png",
+            "alt": "Hippopotamus"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127958.png",
+            "alt": "Lion"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127964.png",
+            "alt": "Hyena"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127971.png",
+            "alt": "Crocodile"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127977.png",
+            "alt": "Koala"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127985.png",
+            "alt": "Polar bear"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15127/15127992.png",
+            "alt": "Snake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15128/15128000.png",
+            "alt": "Panda"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15128/15128009.png",
+            "alt": "Frog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15128/15128017.png",
+            "alt": "Tiger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15128/15128024.png",
+            "alt": "Deer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15128/15128031.png",
+            "alt": "Gorilla"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/15128/15128038.png",
+            "alt": "Giraffe"
+        }
+    ]
+}

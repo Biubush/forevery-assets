@@ -1,0 +1,405 @@
+{
+    "package": "Beauty",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600102.png",
+            "alt": "Nail Polish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600103.png",
+            "alt": "Hair dryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600104.png",
+            "alt": "Powder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600105.png",
+            "alt": "Cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600106.png",
+            "alt": "Powder"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600107.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600108.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600109.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600110.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600111.png",
+            "alt": "Cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600112.png",
+            "alt": "Nail Polish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600113.png",
+            "alt": "Skincare"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600114.png",
+            "alt": "Cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600115.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600116.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600117.png",
+            "alt": "Parfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600118.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600119.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600120.png",
+            "alt": "Bed time"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/8600/8600121.png",
+            "alt": "Cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116192.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116193.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116194.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116195.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116196.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116197.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116198.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116199.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116200.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116201.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116202.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116203.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116204.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116205.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116206.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116207.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116208.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116209.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116210.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9116/9116211.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137174.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137178.png",
+            "alt": "Nail Polish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137180.png",
+            "alt": "Cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137185.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137189.png",
+            "alt": "Facial mask"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137193.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137196.png",
+            "alt": "Cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137200.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137204.png",
+            "alt": "Sun cream"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137208.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137212.png",
+            "alt": "Skincare"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137216.png",
+            "alt": "Eye shadow"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137220.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137224.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137229.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137233.png",
+            "alt": "Mascara"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137236.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137240.png",
+            "alt": "Grooming"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137244.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9137/9137248.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409152.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409153.png",
+            "alt": "Skincare"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409154.png",
+            "alt": "Eye mascara"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409155.png",
+            "alt": "Hair straightener"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409156.png",
+            "alt": "Lipstick"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409157.png",
+            "alt": "Woman"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409158.png",
+            "alt": "After shave"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409159.png",
+            "alt": "Nail Polish"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409160.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409161.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409162.png",
+            "alt": "Mirror"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409163.png",
+            "alt": "Beauty treatment"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409164.png",
+            "alt": "Hair styling"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409165.png",
+            "alt": "Hairdresser"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409166.png",
+            "alt": "Hair gel"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409167.png",
+            "alt": "Hairdryer"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409168.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409169.png",
+            "alt": "Curly hair"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409170.png",
+            "alt": "Perfume"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/9409/9409171.png",
+            "alt": "Makeup"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690750.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690753.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690758.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690761.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690766.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690773.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690783.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690790.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690796.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690804.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690812.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690821.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690830.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690838.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690847.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690855.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690863.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690871.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690878.png",
+            "alt": "Beauty"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10690/10690886.png",
+            "alt": "Beauty"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "package": "Yummy Food",
+    "imgList": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542094.png",
+            "alt": "Bread"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542095.png",
+            "alt": "Burger"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542096.png",
+            "alt": "Cake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542097.png",
+            "alt": "Candies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542098.png",
+            "alt": "Chocolate bar"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542099.png",
+            "alt": "Cookies"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542100.png",
+            "alt": "Corndog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542101.png",
+            "alt": "Donut"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542102.png",
+            "alt": "Drumsticks"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542103.png",
+            "alt": "Fried egg"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542104.png",
+            "alt": "French fries"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542105.png",
+            "alt": "Hot chocolate"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542106.png",
+            "alt": "Hot dog"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542107.png",
+            "alt": "Ice creams"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542108.png",
+            "alt": "Milkshake"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542109.png",
+            "alt": "Noodle"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542110.png",
+            "alt": "Pizza"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542111.png",
+            "alt": "Sandwich"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542112.png",
+            "alt": "Sushi"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/256/10542/10542113.png",
+            "alt": "Waffles"
+        }
+    ]
+}
